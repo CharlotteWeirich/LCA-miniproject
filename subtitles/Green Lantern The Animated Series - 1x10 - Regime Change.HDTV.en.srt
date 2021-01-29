@@ -1,0 +1,1198 @@
+1
+00:00:00,000 --> 00:00:03,000
+<b>1x10 - Regime Change</b>
+
+2
+00:00:06,064 --> 00:00:08,004
+<i>Previously on Green Lantern...</i>
+
+3
+00:00:08,036 --> 00:00:10,917
+This threat may turn to be
+nothing more than a few extremeses.
+
+4
+00:00:11,083 --> 00:00:13,017
+If the truth does come out,
+
+5
+00:00:13,085 --> 00:00:16,588
+many will wonder why it isn't
+recorded in the book of Oa.
+
+6
+00:00:16,655 --> 00:00:20,959
+Because, Sayd, history
+is written by the victors.
+
+7
+00:00:29,869 --> 00:00:32,837
+So, you've come to gloat.
+
+8
+00:00:32,905 --> 00:00:34,272
+That's not why I'm here.
+
+9
+00:00:34,340 --> 00:00:37,108
+The power ring chose you over me.
+
+10
+00:00:37,176 --> 00:00:41,146
+You get to be the all powerful
+Green Lantern Queen Iolande.
+
+11
+00:00:41,213 --> 00:00:46,651
+And I, your poor, ordinary relation,
+I get to decay in a cell.
+
+12
+00:00:46,719 --> 00:00:49,053
+I'd give back the ring if
+it could change what happened.
+
+13
+00:00:49,121 --> 00:00:51,222
+You broke my heart, Ragnar,
+
+14
+00:00:51,290 --> 00:00:53,424
+the day you killed
+Green Lantern Dulak
+
+15
+00:00:53,492 --> 00:00:55,193
+and raised your sword
+against me.
+
+16
+00:00:55,261 --> 00:00:58,096
+- And now I'm your prisoner.
+- But also my brother.
+
+17
+00:00:58,164 --> 00:01:00,799
+And I thought you'd like
+a good meal.
+
+18
+00:01:02,168 --> 00:01:04,135
+Get out!
+Get out of here!
+
+19
+00:01:04,203 --> 00:01:06,871
+I should be a Green Lantern, not you.
+
+20
+00:01:06,939 --> 00:01:10,809
+I hate you!
+I'll destroy you all!
+
+21
+00:01:10,876 --> 00:01:15,079
+The Green Lanterns, you,
+everyone!
+
+22
+00:01:18,717 --> 00:01:22,020
+<i>Ragnar of Petrasis,</i>
+
+23
+00:01:22,087 --> 00:01:26,858
+<i>you have great rage in your heart.</i>
+
+24
+00:01:33,799 --> 00:01:37,202
+A Green Lantern force is leaving Oa.
+
+25
+00:01:37,269 --> 00:01:40,772
+Even in light of my concerns,
+I persuade the Council.
+
+26
+00:01:40,840 --> 00:01:43,374
+Don't take it personally, Ganthet.
+
+27
+00:01:43,442 --> 00:01:47,478
+Like you, Appa acts only
+with the best of intentions.
+
+28
+00:01:47,546 --> 00:01:50,014
+I only hope it was a wise decision.
+
+29
+00:01:50,082 --> 00:01:53,318
+In their absence, Oa is vulnerable.
+
+30
+00:01:53,385 --> 00:01:56,921
+Hal Jordan and the other Lanterns
+have been alone in the frontier.
+
+31
+00:01:56,989 --> 00:01:59,490
+Now, in mere months they'll have help.
+
+32
+00:01:59,558 --> 00:02:01,793
+In a year and a half they'll have help.
+
+33
+00:02:01,861 --> 00:02:04,863
+I may have a way to help them now.
+
+34
+00:02:06,398 --> 00:02:09,167
+[dinging]
+
+35
+00:02:09,235 --> 00:02:14,005
+Green Lantern of sector 2814,
+what is the reason for this call?
+
+36
+00:02:14,073 --> 00:02:15,940
+<i>According to the files Aya downloaded,</i>
+
+37
+00:02:16,008 --> 00:02:19,010
+<i>there's a massive Red Lantern
+fleet headed to guardian space.</i>
+
+38
+00:02:19,078 --> 00:02:22,480
+<i>Naturally, we're wondering if you and the
+rest of your blue man group have a plan.</i>
+
+39
+00:02:22,548 --> 00:02:25,350
+We're deploying the corps
+to defend against the invasion.
+
+40
+00:02:25,417 --> 00:02:28,052
+What?
+You went right into attack mode?
+
+41
+00:02:28,120 --> 00:02:30,622
+<i>Did you actually read my
+report or just skim it?</i>
+
+42
+00:02:30,689 --> 00:02:32,757
+Rest assured, your report
+was submitted to the Council
+
+43
+00:02:32,825 --> 00:02:36,127
+and taken into consideration.
+What is your point?
+
+44
+00:02:36,195 --> 00:02:40,131
+My point is, the Red Lanterns are
+convinced that your army of robot assassins,
+
+45
+00:02:40,199 --> 00:02:43,868
+the Manhunters, slaughtered their citizens
+and annihilated their entire sector.
+
+46
+00:02:43,936 --> 00:02:46,738
+They think it was a calculated
+attempt to wipe them out.
+
+47
+00:02:46,805 --> 00:02:50,174
+<i>Yes, a dramatic
+and emotional story to be sure.</i>
+
+48
+00:02:50,242 --> 00:02:54,045
+<i>Atrocitus is merely using
+propaganda to rally his troops.</i>
+
+49
+00:02:54,113 --> 00:02:56,481
+But if this whole invasion
+is based on lies,
+
+50
+00:02:56,548 --> 00:02:58,750
+wouldn't that be a reason
+to try diplomacy?
+
+51
+00:02:58,817 --> 00:03:01,252
+If we could convince them
+of the truth...
+
+52
+00:03:01,320 --> 00:03:03,354
+<i>Do not presume
+to question us, 2814.</i>
+
+53
+00:03:03,422 --> 00:03:05,890
+<i>The Guardians are the
+greatest minds of the universe</i>
+
+54
+00:03:05,958 --> 00:03:08,559
+<i>and have come to this decision as one.</i>
+
+55
+00:03:08,627 --> 00:03:10,228
+Jordan, you've got to hear this.
+
+56
+00:03:10,296 --> 00:03:13,932
+We have picked up an SOS signal
+originating from planet Petrasis.
+
+57
+00:03:13,999 --> 00:03:16,000
+<i>2814, what's going on?
+Explain...</i>
+
+58
+00:03:16,068 --> 00:03:18,569
+Sorry, got to take this.
+We'll finish later.
+
+59
+00:03:18,637 --> 00:03:21,205
+<i>This is Queen Iolande of Petrasis.</i>
+
+60
+00:03:21,273 --> 00:03:22,807
+<i>We are under attack by Red Lanterns</i>
+
+61
+00:03:22,875 --> 00:03:25,043
+<i>and desperately need
+immediate assistance.</i>
+
+62
+00:03:25,110 --> 00:03:27,812
+<i>Please come.</i>
+
+63
+00:03:49,001 --> 00:03:50,768
+Iolande?
+
+64
+00:03:52,037 --> 00:03:53,771
+Guess again.
+
+65
+00:03:53,839 --> 00:03:56,474
+- Ragnar.
+- He's a Red.
+
+66
+00:03:56,542 --> 00:04:00,078
+Like the outfit? I have you
+to thank for it after all.
+
+67
+00:04:01,145 --> 00:04:02,947
+[growls]
+
+68
+00:04:03,015 --> 00:04:04,949
+I used to think being
+a Green Lantern
+
+69
+00:04:05,017 --> 00:04:06,985
+would give me everything
+I ever wanted.
+
+70
+00:04:07,052 --> 00:04:09,721
+But I wasn't good enough, was I?
+
+71
+00:04:09,788 --> 00:04:12,056
+Well, it turns out my
+hate for the Green Lanterns
+
+72
+00:04:12,124 --> 00:04:16,661
+did give me everything
+I ever wanted. And more.
+
+73
+00:04:23,202 --> 00:04:26,170
+I rule Petrasis, as it should be.
+
+74
+00:04:26,238 --> 00:04:28,473
+Where's Iolande?
+
+75
+00:04:28,540 --> 00:04:30,908
+Don't worry, she's perfectly fine.
+
+76
+00:04:30,976 --> 00:04:35,346
+Or should I say perfectly confined?
+
+77
+00:04:35,414 --> 00:04:37,782
+We're not leaving here
+without the Queen.
+
+78
+00:04:38,850 --> 00:04:41,719
+Kill them!
+[all grunting]
+
+79
+00:04:49,928 --> 00:04:51,696
+Aah!
+
+80
+00:04:56,902 --> 00:05:00,038
+Uhh!
+
+81
+00:05:00,105 --> 00:05:01,372
+Aah!
+
+82
+00:05:01,440 --> 00:05:03,241
+Oh!
+
+83
+00:05:04,176 --> 00:05:06,277
+[grunts]
+
+84
+00:05:09,548 --> 00:05:10,915
+Ahh!
+
+85
+00:05:14,920 --> 00:05:18,523
+Correct me if I am wrong,
+but is a withdrawal not in order?
+
+86
+00:05:18,590 --> 00:05:20,591
+[grunts]
+
+87
+00:05:23,295 --> 00:05:24,962
+We're getting creamed out here.
+
+88
+00:05:25,030 --> 00:05:27,899
+If we don't pull back now, we're
+dead and the mission's over.
+
+89
+00:05:29,568 --> 00:05:33,604
+- Ok, let's blow this montour stand.
+- Hey, that's my line.
+
+90
+00:05:38,710 --> 00:05:40,078
+Uhh!
+
+91
+00:05:44,450 --> 00:05:46,250
+Uhh!
+
+92
+00:05:58,097 --> 00:06:01,966
+The Red Lanterns have blocked
+our access to the ship.
+
+93
+00:06:02,034 --> 00:06:04,869
+That's what we get for
+parking in a bad neighborhood.
+
+94
+00:06:14,213 --> 00:06:16,414
+Let's go.
+
+95
+00:06:27,192 --> 00:06:29,861
+Hello, Green Lantern.
+
+96
+00:06:29,928 --> 00:06:34,198
+You've made a fatal decision
+returning to Petrasis.
+
+97
+00:06:37,980 --> 00:06:39,848
+Kothak, after all
+that we've been through,
+
+98
+00:06:39,916 --> 00:06:41,850
+you still want to kill me?
+
+99
+00:06:49,058 --> 00:06:52,327
+I'm trying to keep us
+from being spotted.
+
+100
+00:06:52,395 --> 00:06:55,497
+Come. Their patrols
+are hard enough to avoid
+
+101
+00:06:55,565 --> 00:06:58,567
+without a Red Lantern
+manhunt going on.
+
+102
+00:06:58,634 --> 00:07:04,172
+Ragnar and his new friends captured
+Iolande and took over Petrasis.
+
+103
+00:07:04,240 --> 00:07:07,042
+I've been leading the resistance since.
+
+104
+00:07:07,109 --> 00:07:12,314
+But yesterday things went
+from bad to unthinkable.
+
+105
+00:07:12,381 --> 00:07:15,383
+I've heard them call it a Liberator.
+
+106
+00:07:15,451 --> 00:07:18,920
+- Can you imagine?
+- Yes. Yes, I can.
+
+107
+00:07:18,988 --> 00:07:21,256
+We must do something immediately.
+
+108
+00:07:21,324 --> 00:07:23,658
+That device will blow
+this planet to dust.
+
+109
+00:07:23,726 --> 00:07:28,029
+So you've dealt with these before.
+How did you defeat it?
+
+110
+00:07:28,097 --> 00:07:31,399
+Uh, that one didn't go so good.
+
+111
+00:07:31,467 --> 00:07:36,304
+- Then you are less than useless.
+- Not quite.
+
+112
+00:07:36,372 --> 00:07:40,408
+You must disarm the weapon
+before it destroys Petrasis.
+
+113
+00:07:40,476 --> 00:07:44,846
+This is not a sparsely populated colony,
+it is a planet of 2 billion.
+
+114
+00:07:44,914 --> 00:07:46,982
+<i>Maybe there's a way
+to diffuse the situation,</i>
+
+115
+00:07:47,049 --> 00:07:49,417
+<i>show the Red Lanterns
+that Atrocitus has been lying</i>
+
+116
+00:07:49,485 --> 00:07:51,353
+<i>through his weird teeth all along.</i>
+
+117
+00:07:52,388 --> 00:07:53,655
+What are you speaking of?
+
+118
+00:07:53,723 --> 00:07:57,109
+<i>The Red Lanterns believe this
+crazy story where billions of</i>
+
+119
+00:07:57,110 --> 00:08:00,495
+<i>years ago you guys sent an army
+of killer robots to wipe them out.</i>
+
+120
+00:08:00,563 --> 00:08:03,331
+<i>Atrocitus told everyone,
+so they want revenge.</i>
+
+121
+00:08:03,399 --> 00:08:06,401
+<i>If we could convince them he's lying,
+we could stop this war.</i>
+
+122
+00:08:06,469 --> 00:08:11,506
+We cannot do that.
+Because it did happen.
+
+123
+00:08:11,574 --> 00:08:16,111
+<i>Wha...
+I mean, the robots were real?</i>
+
+124
+00:08:16,178 --> 00:08:18,580
+<i>And killed all those people?</i>
+
+125
+00:08:18,648 --> 00:08:22,951
+The Manhunters were created
+by the Guardians long ago.
+
+126
+00:08:23,019 --> 00:08:27,622
+<i>They were the forerunners
+of the Green Lantern corps.</i>
+
+127
+00:08:27,690 --> 00:08:31,860
+<i>For awhile the Manhunters
+were the perfect police force.</i>
+
+128
+00:08:31,928 --> 00:08:36,097
+<i>They were never swayed by emotion,
+only right and wrong.</i>
+
+129
+00:08:36,165 --> 00:08:39,501
+<i>But this is not a universe of absolutes.</i>
+
+130
+00:08:40,703 --> 00:08:42,671
+<i>Their inability to understand</i>
+
+131
+00:08:42,738 --> 00:08:46,308
+<i>and interact with emotional beings
+ended in tragedy.</i>
+
+132
+00:08:46,375 --> 00:08:50,312
+<i>The Manhunters destroyed
+people, planets, entire sectors,</i>
+
+133
+00:08:50,379 --> 00:08:54,649
+forming what we now call
+the forgotten zone.
+
+134
+00:08:54,717 --> 00:08:58,219
+The Manhunters are
+our greatest shame,
+
+135
+00:08:58,287 --> 00:09:00,588
+the Guardians' darkest secret.
+
+136
+00:09:00,656 --> 00:09:03,892
+It's time for the source
+of collected guardian guilt
+
+137
+00:09:03,960 --> 00:09:06,027
+to face the light of day.
+
+138
+00:09:06,095 --> 00:09:08,630
+You focus on disarming
+the Liberator.
+
+139
+00:09:08,698 --> 00:09:13,368
+I may be able to assist you,
+but I must first speak with Appa.
+
+140
+00:09:13,436 --> 00:09:16,237
+<i>We're counting on you, Ganthet.</i>
+
+141
+00:09:16,305 --> 00:09:20,141
+Hey, Red, any chance
+you and I can get our ship back?
+
+142
+00:09:20,209 --> 00:09:23,278
+I believe we can handle
+that little errand.
+
+143
+00:09:25,781 --> 00:09:29,317
+Kothak, we have a Queen
+to rescue and a bomb to disarm.
+
+144
+00:09:29,385 --> 00:09:32,754
+The fact is we will never be
+able to end this Red Lantern threat
+
+145
+00:09:32,822 --> 00:09:36,057
+without admitting to our own
+tragic part in their history.
+
+146
+00:09:36,125 --> 00:09:40,061
+You indulge in guilt, Ganthet.
+It clouds your better judgment.
+
+147
+00:09:40,129 --> 00:09:44,733
+The Council, you with us,
+decided silence was best.
+
+148
+00:09:44,800 --> 00:09:47,435
+The corps only need know
+what we tell them.
+
+149
+00:09:47,503 --> 00:09:50,872
+We must not allow Petrasis
+to pay the price for our sins.
+
+150
+00:09:50,940 --> 00:09:53,108
+The loss of a planet,
+however unfortunate,
+
+151
+00:09:53,175 --> 00:09:55,343
+is inconsequential
+against maintaining
+
+152
+00:09:55,411 --> 00:09:57,612
+peace and order
+on a million others.
+
+153
+00:09:57,680 --> 00:10:00,382
+I disagree strongly
+with your moral calculus.
+
+154
+00:10:00,449 --> 00:10:02,884
+And there is still hope for Petrasis.
+
+155
+00:10:02,952 --> 00:10:05,353
+Before Hal Jordan
+borrowed the interceptor...
+
+156
+00:10:05,421 --> 00:10:06,755
+Stole, you mean.
+
+157
+00:10:06,822 --> 00:10:13,862
+- Ahh. At your urging.
+- I put something aboard,
+
+158
+00:10:13,929 --> 00:10:17,098
+something that could boost
+their power exponentially
+
+159
+00:10:17,166 --> 00:10:18,967
+should the need arise.
+
+160
+00:10:19,035 --> 00:10:21,469
+Not your prototype.
+
+161
+00:10:21,537 --> 00:10:24,773
+Ganthet, an experimental device
+based on a theory
+
+162
+00:10:24,840 --> 00:10:28,510
+about hope and will
+is emotional madness.
+
+163
+00:10:28,577 --> 00:10:31,079
+And to do this without
+the Council's knowledge?
+
+164
+00:10:31,147 --> 00:10:35,116
+Hal Jordan needs our help.
+We must act now.
+
+165
+00:10:35,184 --> 00:10:40,522
+Perhaps you are right, Ganthet.
+It is time for the truth to come out.
+
+166
+00:11:02,078 --> 00:11:03,611
+[beep]
+
+167
+00:11:06,015 --> 00:11:09,651
+- Hal.
+- Come on, there's not much time.
+
+168
+00:11:09,718 --> 00:11:11,519
+Guardians of Oa,
+
+169
+00:11:11,587 --> 00:11:15,590
+you have been called here
+to discuss a grave matter.
+
+170
+00:11:15,658 --> 00:11:18,993
+There has been an unforgivable
+breach of trust
+
+171
+00:11:19,061 --> 00:11:21,162
+that must be brought to light.
+
+172
+00:11:21,230 --> 00:11:25,467
+What he says is true enough.
+There is a traitor among us.
+
+173
+00:11:25,534 --> 00:11:29,637
+And his name is Ganthet.
+
+174
+00:11:29,705 --> 00:11:31,139
+Consider what you are doing.
+
+175
+00:11:31,207 --> 00:11:34,743
+Silence. According to Guardian
+law, the accused will not
+
+176
+00:11:34,744 --> 00:11:38,279
+speak before the charges are
+brought before the Council.
+
+177
+00:11:38,347 --> 00:11:41,866
+By his own admission, Ganthet
+aided and allowed Hal Jordan
+
+178
+00:11:41,867 --> 00:11:45,386
+to take the interceptor
+without Council approval.
+
+179
+00:11:45,454 --> 00:11:50,558
+But worst of all is Ganthet's
+blatant use of an unreliable emotion.
+
+180
+00:11:50,626 --> 00:11:54,796
+It is true.
+I believe willpower is not enough.
+
+181
+00:11:54,864 --> 00:11:58,199
+We need hope.
+We all need hope.
+
+182
+00:11:58,267 --> 00:12:03,805
+Embracing a base emotion is a violation
+of the trues that we hold sacred.
+
+183
+00:12:03,873 --> 00:12:06,841
+And for that, you are banished.
+
+184
+00:12:20,222 --> 00:12:23,057
+I'm sorry for getting
+you all into this mess.
+
+185
+00:12:23,125 --> 00:12:26,828
+Oh, don't apologize.
+We love this kind of stuff.
+
+186
+00:12:33,135 --> 00:12:36,371
+What are you doing here?
+The Liberator is under attack.
+
+187
+00:12:36,438 --> 00:12:39,974
+They think me weak?
+Kill Iolande.
+
+188
+00:12:40,042 --> 00:12:43,811
+Dunce! Your sister is one of the
+Green Lanterns attacking the device.
+
+189
+00:12:43,879 --> 00:12:45,346
+Grr!
+
+190
+00:12:45,414 --> 00:12:48,883
+Send everyone!
+I will lead the counterattack.
+
+191
+00:12:54,557 --> 00:12:57,592
+<i>All units report
+to the Liberator at once.</i>
+
+192
+00:13:03,065 --> 00:13:05,767
+Your treachery threatens
+everything we believe in.
+
+193
+00:13:05,834 --> 00:13:09,704
+I am not the threat here,
+Ganthet. You are.
+
+194
+00:13:09,772 --> 00:13:11,072
+The citizens of guardian space
+
+195
+00:13:11,140 --> 00:13:13,708
+put their trust in us,
+come to us for guidance.
+
+196
+00:13:13,776 --> 00:13:16,878
+What would happen if they learned
+the truth about the forgotten zone?
+
+197
+00:13:16,946 --> 00:13:19,731
+All order would be lost.
+There would be chaos and suffering
+
+198
+00:13:19,732 --> 00:13:22,517
+beyond anything the Manhunters had done.
+
+199
+00:13:22,585 --> 00:13:25,553
+You maintain a lie.
+
+200
+00:13:25,621 --> 00:13:29,341
+Ganthet, you are hereby
+banished, sentenced to live out
+
+201
+00:13:29,342 --> 00:13:33,061
+the rest of your days cut off
+from your species and civilization.
+
+202
+00:13:33,128 --> 00:13:36,698
+I almost feel the base emotion
+pity for you.
+
+203
+00:13:36,765 --> 00:13:42,604
+Only almost, though, Appa?
+And there's the pity.
+
+204
+00:13:51,513 --> 00:13:53,681
+[gunfire]
+
+205
+00:14:00,189 --> 00:14:01,789
+Uhh!
+
+206
+00:14:07,563 --> 00:14:09,230
+[all grunt]
+
+207
+00:14:11,200 --> 00:14:14,335
+Hold on. I've still got
+an ace up my sleeve.
+
+208
+00:14:14,403 --> 00:14:16,004
+<i>[dinging]
+Guardians of Oa,</i>
+
+209
+00:14:16,071 --> 00:14:19,307
+<i>this is Green Lantern of sector 2814
+calling for Ganthet.</i>
+
+210
+00:14:19,375 --> 00:14:20,908
+<i>I need immediate assistance.</i>
+
+211
+00:14:20,976 --> 00:14:23,845
+I'm afraid Ganthet
+is no longer with the Council.
+
+212
+00:14:23,912 --> 00:14:25,346
+<i>Where is he?</i>
+
+213
+00:14:25,414 --> 00:14:30,952
+My apologies, 2814, but as you
+say, I must got to take this.
+
+214
+00:14:32,254 --> 00:14:37,058
+- What did they say?
+- We're on our own.
+
+215
+00:14:49,059 --> 00:14:50,859
+They're closing in!
+
+216
+00:14:57,500 --> 00:14:58,634
+[growls]
+
+217
+00:14:58,702 --> 00:15:01,637
+Aah!
+
+218
+00:15:11,114 --> 00:15:12,848
+Ahh! Ohh!
+
+219
+00:15:12,916 --> 00:15:14,717
+Ahh!
+
+220
+00:15:20,624 --> 00:15:23,993
+- Excellent aim.
+- Thank you.
+
+221
+00:15:26,563 --> 00:15:28,831
+Yah!
+
+222
+00:15:29,933 --> 00:15:32,067
+The cavalery has arrived.
+
+223
+00:16:15,945 --> 00:16:18,647
+- Sayd.
+- Ganthet, I've come to trust you.
+
+224
+00:16:18,715 --> 00:16:21,717
+I reprogrammed the ship's destination.
+
+225
+00:16:23,553 --> 00:16:26,288
+You could be banished
+for what you've done.
+
+226
+00:16:26,356 --> 00:16:31,360
+If there's a chance we can
+help Hal Jordan, we must try.
+
+227
+00:16:34,497 --> 00:16:37,066
+It's sealed.
+
+228
+00:16:40,036 --> 00:16:43,038
+Get that door open.
+
+229
+00:17:02,292 --> 00:17:03,592
+Aah!
+
+230
+00:17:03,660 --> 00:17:07,229
+<i>Warning.
+Lantern engine overheating.</i>
+
+231
+00:17:11,301 --> 00:17:13,435
+[all grunting]
+
+232
+00:17:49,973 --> 00:17:54,443
+- Will it work, Ganthet?
+- I don't know, Sayd.
+
+233
+00:17:54,511 --> 00:17:57,379
+But we must have hope.
+
+234
+00:17:58,615 --> 00:18:03,786
+You've lost, dear sister.
+I am the ruler of Petrasis.
+
+235
+00:18:03,853 --> 00:18:09,491
+Do you understand me?
+Ragnar of the Red Lanterns!
+
+236
+00:18:22,539 --> 00:18:23,906
+Uhh!
+
+237
+00:18:33,550 --> 00:18:35,551
+Huh?
+
+238
+00:18:43,193 --> 00:18:44,827
+Ahh!
+
+239
+00:18:56,506 --> 00:18:58,373
+Aah!
+
+240
+00:19:00,710 --> 00:19:03,178
+Aah!
+
+241
+00:19:04,714 --> 00:19:07,449
+Aah!
+
+242
+00:19:07,517 --> 00:19:10,986
+That's never happened before.
+
+243
+00:19:15,391 --> 00:19:18,494
+It's... it's a miracle.
+
+244
+00:19:18,561 --> 00:19:21,530
+See, the gods are with us!
+
+245
+00:19:21,598 --> 00:19:23,265
+[all cheering]
+
+246
+00:19:24,901 --> 00:19:28,170
+Do you guys see this?
+Hoo hoo! Yeah!
+
+247
+00:19:28,238 --> 00:19:30,706
+It's like I'm super charged
+or something.
+
+248
+00:19:30,773 --> 00:19:33,509
+[machine whirs]
+
+249
+00:19:33,576 --> 00:19:37,880
+- Why is it doing that?
+- It's about to blow.
+
+250
+00:19:37,947 --> 00:19:40,949
+If we can't disarm it,
+we'll get rid of it.
+
+251
+00:19:45,955 --> 00:19:48,857
+You've got to be kidding.
+How are we supposed to lift this?
+
+252
+00:19:58,601 --> 00:20:01,570
+I can get used to this.
+
+253
+00:20:11,314 --> 00:20:13,482
+[all cheering]
+
+254
+00:20:28,064 --> 00:20:31,667
+You don't think that whole blue
+light show was Ganthet, do you?
+
+255
+00:20:31,734 --> 00:20:35,938
+I don't know what just happened.
+But I'm glad it did.
+
+256
+00:20:37,540 --> 00:20:40,409
+<i>Thank you for all you've done, Sayd.</i>
+
+257
+00:20:40,476 --> 00:20:44,413
+But still, I must leave Oa.
+
+258
+00:20:44,480 --> 00:20:47,883
+I wonder if what we did today helped.
+
+259
+00:20:47,951 --> 00:20:51,453
+It did.
+I can feel it.
+
+260
+00:20:51,521 --> 00:20:56,992
+- Telepathy, Ganthet?
+- No. Hope.
+
+9999
+00:00:0,500 --> 00:00:2,00
+<font color="#ffff00" size=14>www.tvsubtitles.net</font>

@@ -1,0 +1,1314 @@
+1
+00:00:02,657 --> 00:00:05,657
+<b>1x04 - Into the Abyss</b>
+
+2
+00:00:07,658 --> 00:00:09,993
+<i>Previously on Green Lantern...</i>
+
+3
+00:00:10,061 --> 00:00:13,030
+You proud of what you did?
+Answer me!
+
+4
+00:00:13,097 --> 00:00:15,165
+Easy there, Kilowog.
+
+5
+00:00:15,233 --> 00:00:19,503
+We just got our butts
+saved by a Red Lantern.
+
+6
+00:00:19,570 --> 00:00:21,238
+He's comin with us.
+
+7
+00:00:34,318 --> 00:00:36,186
+Unh!
+
+8
+00:00:36,254 --> 00:00:38,388
+Ahh. Grub time!
+
+9
+00:00:47,298 --> 00:00:48,999
+You got a problem, poozer?
+
+10
+00:00:49,067 --> 00:00:52,836
+Only that I dislike
+clumsy 7-foot pigs.
+
+11
+00:00:53,904 --> 00:00:56,606
+Err!
+
+12
+00:00:56,674 --> 00:00:57,774
+Hey, hey, hey, hey!
+
+13
+00:00:57,842 --> 00:01:00,210
+Kilowog, break it up.
+You, too, Razer.
+
+14
+00:01:00,278 --> 00:01:01,778
+What did I say about
+killing each other?
+
+15
+00:01:01,846 --> 00:01:04,114
+Come on, Hal.
+We're just fooling around.
+
+16
+00:01:04,182 --> 00:01:05,782
+Right?
+
+17
+00:01:05,850 --> 00:01:07,884
+The ship's too small
+for this nonsense.
+
+18
+00:01:07,952 --> 00:01:09,719
+I want you two to shake hands.
+
+19
+00:01:09,787 --> 00:01:12,956
+It's an Earth custom to show
+there's no hard feelings.
+
+20
+00:01:13,024 --> 00:01:15,092
+Come on. Shake hands.
+
+21
+00:01:17,428 --> 00:01:19,062
+Not like that.
+
+22
+00:01:19,130 --> 00:01:22,699
+<i>Attention,
+incoming distress call.</i>
+
+23
+00:01:22,767 --> 00:01:25,802
+<i>This is captain Goray of
+the container ship Truvedon.</i>
+
+24
+00:01:25,870 --> 00:01:28,972
+<i>I've struck a pinhole
+and unable to proceed.</i>
+
+25
+00:01:29,040 --> 00:01:30,640
+<i>One of my engines has failed.</i>
+
+26
+00:01:30,708 --> 00:01:34,044
+<i>The other is at full power,
+but it's just slowing the inevitable.</i>
+
+27
+00:01:34,112 --> 00:01:35,212
+<i>I need help.</i>
+
+28
+00:01:35,279 --> 00:01:38,782
+Aya, hold the transmission.
+Could be a trap, Hal.
+
+29
+00:01:38,850 --> 00:01:40,317
+We get there,
+the disabled ship opens up,
+
+30
+00:01:40,384 --> 00:01:42,085
+and the Reds start pouring out.
+
+31
+00:01:42,153 --> 00:01:44,688
+There are no Red Lanterns
+in this sector.
+
+32
+00:01:44,755 --> 00:01:47,691
+- It's not a trap.
+- How do you know?
+
+33
+00:01:47,758 --> 00:01:50,026
+I was in charge of
+setting those traps.
+
+34
+00:01:52,130 --> 00:01:54,231
+This is Hal Jordan of
+the Green Lantern corps.
+
+35
+00:01:54,298 --> 00:01:57,100
+Sit tight, Truvedon.
+We're on our way.
+
+36
+00:02:02,874 --> 00:02:06,610
+I've got two questions:
+"A" How far are we from that pinhole?
+
+37
+00:02:06,677 --> 00:02:08,879
+<i>1.8 teraquads and closing.</i>
+
+38
+00:02:08,946 --> 00:02:11,982
+Which brings me to "B."
+What's a pinhole?
+
+39
+00:02:12,049 --> 00:02:13,717
+It's a microscopic
+black hole at the center
+
+40
+00:02:13,784 --> 00:02:15,318
+of a whirlpool of energy.
+
+41
+00:02:15,386 --> 00:02:17,120
+The closer that ship
+gets to the pinhole,
+
+42
+00:02:17,188 --> 00:02:18,955
+the stronger gravity becomes.
+
+43
+00:02:19,023 --> 00:02:20,924
+It will compress
+that cargo ship into a space
+
+44
+00:02:20,992 --> 00:02:23,360
+tighter than a grub worm's vacuole.
+
+45
+00:02:39,610 --> 00:02:40,810
+That's close enough, Aya.
+
+46
+00:02:40,878 --> 00:02:43,580
+We don't want to get pulled in, too.
+Deploy the tractor beam.
+
+47
+00:02:48,085 --> 00:02:51,588
+<i>Anomalous gravitational
+readings are infecting my instruments.</i>
+
+48
+00:02:51,656 --> 00:02:52,856
+<i>Unable to compensate.</i>
+
+49
+00:02:52,924 --> 00:02:54,724
+Captain, do you have
+any tow cables?
+
+50
+00:02:54,792 --> 00:02:56,593
+Deploying them now.
+
+51
+00:03:00,198 --> 00:03:02,832
+Ah. Heh heh.
+Missed.
+
+52
+00:03:02,900 --> 00:03:04,701
+We'll have to go out
+there and attach them to
+
+53
+00:03:04,769 --> 00:03:06,970
+the interceptor manually.
+
+54
+00:03:07,038 --> 00:03:10,140
+Anomalous gravity always
+puts a bug in my britches.
+
+55
+00:03:10,208 --> 00:03:12,175
+If you don't think
+you're up to the task...
+
+56
+00:03:12,243 --> 00:03:14,044
+Just try and keep up, punk.
+
+57
+00:03:14,111 --> 00:03:16,179
+Green Lanterns train
+in variable gravity.
+
+58
+00:03:16,247 --> 00:03:18,715
+Let's see how you fly
+when you 1,000 kilos,
+
+59
+00:03:18,783 --> 00:03:21,017
+then 6,000, then 2,000.
+
+60
+00:03:21,085 --> 00:03:23,253
+<i>This is
+a dangerous undertaking.</i>
+
+61
+00:03:23,321 --> 00:03:26,022
+<i>Why are we risking
+3 lives to save one?</i>
+
+62
+00:03:26,090 --> 00:03:27,824
+A Green Lantern protects
+innocent life even
+
+63
+00:03:27,892 --> 00:03:32,729
+at the risk of their own.
+That's what we do.
+
+64
+00:03:32,797 --> 00:03:34,297
+<i>Oh.</i>
+
+65
+00:03:36,934 --> 00:03:39,803
+Quite... a downdraft!
+
+66
+00:03:39,870 --> 00:03:41,671
+That's downdraw.
+
+67
+00:03:41,739 --> 00:03:45,809
+You don't make it over the gravity
+whirlpool, you're dark matter.
+
+68
+00:03:51,983 --> 00:03:54,150
+[grunting]
+
+69
+00:04:00,758 --> 00:04:03,159
+[groaning]
+
+70
+00:04:16,641 --> 00:04:19,075
+All right, Aya!
+Let's haul this baby out.
+
+71
+00:04:19,143 --> 00:04:21,811
+<i>Warning. Gravitational
+pull is too intense.</i>
+
+72
+00:04:21,879 --> 00:04:24,814
+<i>Cables cannot
+withstand the strain.</i>
+
+73
+00:04:24,882 --> 00:04:26,983
+The ship's stable for now,
+but sooner or later,
+
+74
+00:04:27,051 --> 00:04:29,686
+I'm telling you,
+it's going in.
+
+75
+00:04:29,754 --> 00:04:31,655
+We'll have to get
+the captain ourselves.
+
+76
+00:04:50,474 --> 00:04:52,208
+Err.
+
+77
+00:04:55,813 --> 00:04:57,080
+You could have
+given him a hand.
+
+78
+00:04:57,148 --> 00:05:01,084
+I don't need a recruit on
+my 6 and especially not a Red recruit.
+
+79
+00:05:01,152 --> 00:05:02,152
+<i>Down here!</i>
+
+80
+00:05:02,219 --> 00:05:03,586
+Deal with it.
+
+81
+00:05:06,090 --> 00:05:07,857
+Thank the grollmother
+you're here!
+
+82
+00:05:07,925 --> 00:05:10,994
+I'm at half power and have
+no way to pull myself out.
+
+83
+00:05:11,062 --> 00:05:12,996
+Exactly what
+are you hauling?
+
+84
+00:05:13,064 --> 00:05:14,431
+Some kind of eggs?
+
+85
+00:05:14,498 --> 00:05:16,166
+Leave them. With
+the refrigeration out,
+
+86
+00:05:16,233 --> 00:05:17,867
+they're goning to
+spoil anyway.
+
+87
+00:05:17,935 --> 00:05:19,703
+Spoil? It's only
+a matter of time
+
+88
+00:05:19,770 --> 00:05:21,404
+before these things hatch.
+
+89
+00:05:21,472 --> 00:05:23,006
+Hatch?
+
+90
+00:05:27,378 --> 00:05:29,946
+I can't tell what kind
+of creature's inside.
+
+91
+00:05:30,014 --> 00:05:34,017
+Who cares? Only vermin
+and insects hatch from eggs.
+
+92
+00:05:34,085 --> 00:05:38,722
+- I hatched from an egg.
+- My point exactly.
+
+93
+00:05:38,789 --> 00:05:41,157
+- Err.
+- Ease up.
+
+94
+00:05:41,225 --> 00:05:44,194
+<i>The Truvedon's logs
+identify them as Spegnarians.</i>
+
+95
+00:05:44,261 --> 00:05:46,730
+<i>They are incredibly rare
+ever since their planet was</i>
+
+96
+00:05:46,797 --> 00:05:48,865
+<i>devastated by volcanic activity.</i>
+
+97
+00:05:48,933 --> 00:05:51,334
+So these eggs are some
+kind of last-ditch colony?
+
+98
+00:05:51,402 --> 00:05:52,902
+I suppose so.
+
+99
+00:05:52,970 --> 00:05:54,904
+I was paid to avoid
+major shipping lanes.
+
+100
+00:05:54,972 --> 00:05:58,908
+Well, you sure did that.
+Change of plans.
+
+101
+00:05:58,976 --> 00:06:00,977
+We're gonna rescue
+every life form here.
+
+102
+00:06:01,045 --> 00:06:02,746
+It's a waste of time.
+
+103
+00:06:02,813 --> 00:06:05,382
+He's right.
+The starboard engine's dead.
+
+104
+00:06:05,449 --> 00:06:09,686
+Then we'll restart it.
+I'll get the civilian clear.
+
+105
+00:06:09,754 --> 00:06:12,055
+You're leaving me
+with him?
+
+106
+00:06:12,123 --> 00:06:13,723
+You two need
+some bonding time.
+
+107
+00:06:19,463 --> 00:06:21,064
+I heard of you Green Lanterns.
+
+108
+00:06:21,132 --> 00:06:24,834
+I know you're brave and all,
+but you're crazy to go back.
+
+109
+00:06:24,902 --> 00:06:27,270
+Brave, crazy--
+it's a fine line.
+
+110
+00:06:27,338 --> 00:06:30,273
+<i>Green Lantern Hal Jordan,
+I have several suggestions to</i>
+
+111
+00:06:30,341 --> 00:06:33,376
+<i>conserve energy until
+the inoperative engine is repaired.</i>
+
+112
+00:06:33,444 --> 00:06:35,779
+Yeah. That's great, Aya.
+Keep us out of the crush zone
+
+113
+00:06:35,846 --> 00:06:39,315
+for as long as you can.
+
+114
+00:06:39,383 --> 00:06:41,317
+<i>He must not have heard me.</i>
+
+115
+00:06:43,988 --> 00:06:45,288
+Engine room's this way.
+
+116
+00:06:45,356 --> 00:06:49,259
+This way.
+That's the main power line.
+
+117
+00:06:49,326 --> 00:06:51,728
+As if you know how
+a cargo ship works.
+
+118
+00:06:51,796 --> 00:06:53,863
+It's not some Red Lantern
+death ride made ou
+
+119
+00:06:53,931 --> 00:06:57,434
+of lead foil and scrap wire.
+And stay in front of me.
+
+120
+00:07:02,840 --> 00:07:04,541
+How's that phony
+ring holding up?
+
+121
+00:07:04,608 --> 00:07:08,111
+Without a Red Lantern battery,
+eventually its charge will die.
+
+122
+00:07:08,179 --> 00:07:10,079
+Huh. Sooner the better.
+
+123
+00:07:10,147 --> 00:07:15,118
+But for now as long as I feel rage,
+it's as strong as yours.
+
+124
+00:07:15,186 --> 00:07:17,487
+[rumble]
+
+125
+00:07:17,555 --> 00:07:21,157
+Whoa!
+
+126
+00:07:21,225 --> 00:07:22,392
+Err!
+
+127
+00:07:22,460 --> 00:07:26,262
+I hope you're good at maakila.
+
+128
+00:07:26,330 --> 00:07:27,931
+That wasn't me.
+
+129
+00:07:27,998 --> 00:07:30,133
+This ship is falling to pieces,
+and I'm sick of your
+
+130
+00:07:30,201 --> 00:07:32,702
+self-righteous braying,
+you fat, green oaf!
+
+131
+00:07:37,341 --> 00:07:38,575
+Aah!
+
+132
+00:07:58,529 --> 00:08:01,464
+You kids stop that now, or I'm turning
+this ship right around.
+
+133
+00:08:01,532 --> 00:08:04,067
+Isn't that exactly
+what we're trying to do?
+
+134
+00:08:04,134 --> 00:08:06,970
+Try something like that
+again, and I'm blowing
+
+135
+00:08:07,037 --> 00:08:10,406
+my ring charge on you,
+pinhole or no pinhole.
+
+136
+00:08:10,474 --> 00:08:11,908
+I'm not afraid to die.
+
+137
+00:08:11,976 --> 00:08:13,309
+[boom]
+
+138
+00:08:13,377 --> 00:08:15,812
+You should be.
+You'll live longer.
+
+139
+00:08:21,519 --> 00:08:22,785
+Unh!
+
+140
+00:08:25,489 --> 00:08:28,525
+Huh?
+
+141
+00:08:28,592 --> 00:08:30,426
+Hello? Can you hear me?
+
+142
+00:08:30,494 --> 00:08:33,429
+<i>Start the engine now,
+or both ships are going in.</i>
+
+143
+00:08:33,497 --> 00:08:36,032
+Goray, why is
+the computer offline?
+
+144
+00:08:36,100 --> 00:08:38,601
+Aya, are you there?
+Aya!
+
+145
+00:08:38,669 --> 00:08:39,903
+<i>What happened to her?</i>
+
+146
+00:08:39,970 --> 00:08:42,639
+I don't care!
+We're out of time!
+
+147
+00:08:42,706 --> 00:08:44,173
+Err!
+
+148
+00:08:49,146 --> 00:08:51,347
+Wait, captain.
+Ease off that winch.
+
+149
+00:08:56,654 --> 00:08:58,154
+Unh!
+
+150
+00:09:05,362 --> 00:09:06,796
+We're going in!
+
+151
+00:09:16,280 --> 00:09:18,981
+The pinhole's overpowering
+the ship's autograv.
+
+152
+00:09:19,049 --> 00:09:20,316
+Hold on!
+
+153
+00:09:42,306 --> 00:09:43,740
+Unh!
+
+154
+00:09:46,143 --> 00:09:48,344
+[metal creaking]
+
+155
+00:10:00,491 --> 00:10:02,225
+There.
+It's braced for now.
+
+156
+00:10:02,292 --> 00:10:04,494
+But we're on the lip,
+almost in the crush zone.
+
+157
+00:10:04,561 --> 00:10:08,364
+- Let's get out of here.
+- Not without the eggs.
+
+158
+00:10:11,301 --> 00:10:13,402
+Where are you going?
+
+159
+00:10:13,470 --> 00:10:15,271
+To buy us some time.
+
+160
+00:10:19,376 --> 00:10:21,811
+Errrr!
+
+161
+00:10:34,424 --> 00:10:35,825
+Unh!
+
+162
+00:10:39,596 --> 00:10:42,999
+I'll keep you out of
+the hole as long as I can.
+
+163
+00:10:43,066 --> 00:10:46,803
+Fix that engine, and,
+Jordan, watch your back.
+
+164
+00:10:50,474 --> 00:10:54,544
+It's hopeless. Kilowog's a fool!
+He'll die out there.
+
+165
+00:10:56,580 --> 00:10:58,347
+[grunting]
+
+166
+00:11:10,828 --> 00:11:12,962
+[grunting]
+
+167
+00:11:28,545 --> 00:11:32,548
+You see that?
+The eggs are hatching.
+
+168
+00:11:32,616 --> 00:11:34,584
+Let's keep moving.
+
+169
+00:11:41,692 --> 00:11:43,559
+They're eating
+the power lines!
+
+170
+00:11:48,065 --> 00:11:50,266
+My constructs don't
+even slow them down.
+
+171
+00:11:53,704 --> 00:11:54,737
+Mine do.
+
+172
+00:11:54,805 --> 00:11:56,172
+Hey, hey, hey.
+Remember?
+
+173
+00:11:56,240 --> 00:11:59,508
+Incredibly rare species?
+
+174
+00:11:59,576 --> 00:12:01,210
+What's the hold up in there?
+
+175
+00:12:01,278 --> 00:12:04,146
+Hatchlings. They're eating
+through the power cables.
+
+176
+00:12:04,214 --> 00:12:06,549
+Don't stop unless you
+want to get a lot thinner.
+
+177
+00:12:16,393 --> 00:12:18,461
+[groaning]
+
+178
+00:12:20,197 --> 00:12:22,665
+Navigation. Hello?
+
+179
+00:12:22,733 --> 00:12:24,667
+<i>Hello?
+Is anybody out there?</i>
+
+180
+00:12:24,735 --> 00:12:27,236
+Goray, you're alive.
+
+181
+00:12:27,304 --> 00:12:29,138
+Tell Aya to bring
+the ship closer.
+
+182
+00:12:29,206 --> 00:12:32,108
+Ring's almost empty.
+I need her to spell me.
+
+183
+00:12:32,175 --> 00:12:35,745
+Your nav computer must
+be damaged, not responding,
+
+184
+00:12:35,812 --> 00:12:37,613
+but I'll help.
+
+185
+00:12:42,386 --> 00:12:44,520
+[groaning]
+
+186
+00:12:47,224 --> 00:12:48,457
+Oh.
+
+187
+00:12:52,729 --> 00:12:55,598
+Ooh! Better not
+touch that again.
+
+188
+00:12:55,666 --> 00:12:57,366
+Oh, great!
+
+189
+00:13:07,110 --> 00:13:08,611
+They're moving past us.
+
+190
+00:13:08,679 --> 00:13:13,149
+If they start eating the engine
+before we get there, it's over.
+
+191
+00:13:13,216 --> 00:13:14,884
+We need a shortcut.
+
+192
+00:13:18,588 --> 00:13:20,289
+It's less cluttered
+out here.
+
+193
+00:13:20,357 --> 00:13:23,759
+Yes. We'll have a nice, clear
+plummet into the pinhole.
+
+194
+00:13:39,609 --> 00:13:40,843
+How you doing, buddy?
+
+195
+00:13:40,911 --> 00:13:42,878
+Errrrr!
+
+196
+00:13:46,450 --> 00:13:47,450
+Aah!
+
+197
+00:13:47,517 --> 00:13:48,751
+Aaaah!
+
+198
+00:13:48,819 --> 00:13:50,419
+Razer!
+
+199
+00:14:08,338 --> 00:14:09,839
+More hatchlings.
+
+200
+00:14:12,309 --> 00:14:13,642
+We're already outnumbered.
+
+201
+00:14:13,710 --> 00:14:16,812
+Think of how bad it will be once
+the rest of the eggs open.
+
+202
+00:14:16,880 --> 00:14:18,447
+Look. I have no problem
+bringing a Red Lantern onto
+
+203
+00:14:18,515 --> 00:14:21,717
+the team, but I will not
+tolerate pessimists.
+
+204
+00:14:32,129 --> 00:14:35,264
+- They've doomed us all.
+- What now?
+
+205
+00:14:35,332 --> 00:14:39,535
+This engine isn't just offline.
+It's frozen solid.
+
+206
+00:14:39,603 --> 00:14:41,537
+Those alien hatchlings ate
+through the lines
+
+207
+00:14:41,605 --> 00:14:43,839
+that power the heaters!
+
+208
+00:14:43,907 --> 00:14:45,875
+It would take a team
+of engineers to restart it
+
+209
+00:14:45,942 --> 00:14:49,211
+before we collapse
+into the pinhole.
+
+210
+00:14:49,279 --> 00:14:51,981
+We don't have a team
+of engineers or time.
+
+211
+00:15:06,316 --> 00:15:08,217
+Razer, let's light this candle.
+
+212
+00:15:08,285 --> 00:15:10,453
+You want us to fire a frozen engine?
+
+213
+00:15:10,520 --> 00:15:13,456
+The explosion will be spectacular.
+
+214
+00:15:13,523 --> 00:15:15,224
+He's right, Hal.
+
+215
+00:15:15,292 --> 00:15:18,160
+If we start going in, Kilowog,
+I want you to cut us loose.
+
+216
+00:15:18,228 --> 00:15:19,361
+Not happening.
+
+217
+00:15:19,429 --> 00:15:22,264
+You go, we all go,
+and the worst part is
+
+218
+00:15:22,332 --> 00:15:24,133
+that the captain
+who can't fly straight
+
+219
+00:15:24,201 --> 00:15:27,636
+gets to keep the interceptor.
+
+220
+00:15:27,704 --> 00:15:29,338
+Your stubborn friend is right.
+
+221
+00:15:29,406 --> 00:15:35,077
+I can't fix this, not without
+another 5 pairs of hands.
+
+222
+00:15:35,145 --> 00:15:36,579
+We're not giving up.
+
+223
+00:15:36,646 --> 00:15:38,547
+Yell about the unfairness
+of it all afterward.
+
+224
+00:15:38,615 --> 00:15:40,249
+Then we'll go down fighting.
+
+225
+00:15:40,317 --> 00:15:42,885
+At least my Red energy
+makes a dent in them.
+
+226
+00:15:42,953 --> 00:15:45,821
+That's right. Green energy
+doesn't affect them.
+
+227
+00:15:51,094 --> 00:15:54,663
+Wait, stop. Maybe I can get
+you those 10 hands, Razer.
+
+228
+00:15:58,535 --> 00:15:59,902
+What are you doing?
+
+229
+00:15:59,970 --> 00:16:01,370
+Those things didn't
+come from the eggs.
+
+230
+00:16:01,438 --> 00:16:03,005
+They came from the interceptor.
+
+231
+00:16:03,073 --> 00:16:05,307
+- They're Aya.
+- You're deranged.
+
+232
+00:16:05,375 --> 00:16:07,443
+Aya's been gone since
+before the bugs showed up.
+
+233
+00:16:07,511 --> 00:16:09,945
+Somehow she must have put
+herself into these little bots
+
+234
+00:16:10,013 --> 00:16:11,280
+and snuck on board.
+
+235
+00:16:11,348 --> 00:16:13,249
+But they ate the power lines.
+
+236
+00:16:13,316 --> 00:16:16,719
+She was shutting down nonessential
+systems to save power.
+
+237
+00:16:26,997 --> 00:16:29,131
+[ice cracks]
+
+238
+00:16:42,245 --> 00:16:45,481
+- Both engines are up.
+- Aya, full reverse!
+
+239
+00:16:59,029 --> 00:17:03,165
+Even with the engines back online,
+we're past the point of no return.
+
+240
+00:17:03,233 --> 00:17:05,234
+I live past the point
+of no return.
+
+241
+00:17:05,302 --> 00:17:07,670
+Express elevator going down.
+
+242
+00:17:28,425 --> 00:17:31,727
+Not a bad shot for a Red.
+
+243
+00:17:35,198 --> 00:17:37,366
+[grunting]
+
+244
+00:17:53,650 --> 00:17:55,084
+It's no use!
+
+245
+00:17:55,151 --> 00:17:57,319
+We don't have enough
+power to pull away!
+
+246
+00:17:57,387 --> 00:17:58,988
+I'm not trying to pull away.
+
+247
+00:17:59,055 --> 00:18:00,689
+I'm gonna fly this baby
+right at it.
+
+248
+00:18:00,757 --> 00:18:02,358
+You're going to what?
+
+249
+00:18:02,425 --> 00:18:04,226
+If I can fly with
+the current of the pinhole,
+
+250
+00:18:04,294 --> 00:18:05,561
+maybe I can generate
+enough velocity
+
+251
+00:18:05,629 --> 00:18:07,463
+to slingshot us out of here.
+
+252
+00:18:30,520 --> 00:18:33,188
+Aagh!
+
+253
+00:18:33,256 --> 00:18:35,624
+Come on. Hold together.
+
+254
+00:18:48,405 --> 00:18:51,307
+Yeah, baby!
+Still got it.
+
+255
+00:19:05,622 --> 00:19:07,756
+[chattering]
+
+256
+00:19:13,129 --> 00:19:16,632
+Well, what do you know?
+So that's my cargo.
+
+257
+00:19:16,700 --> 00:19:18,734
+Cargo, huh?
+Heh heh heh.
+
+258
+00:19:18,802 --> 00:19:20,436
+Look at you.
+
+259
+00:19:20,503 --> 00:19:22,771
+Heh heh. There's a few more
+of these rascals running
+
+260
+00:19:22,839 --> 00:19:24,740
+around that tub of yours.
+
+261
+00:19:26,443 --> 00:19:27,710
+Err.
+
+262
+00:19:27,777 --> 00:19:30,379
+And to think, I was
+going to abandon them.
+
+263
+00:19:49,399 --> 00:19:52,735
+You were foolishly brave today.
+
+264
+00:19:52,802 --> 00:19:58,507
+Yeah. Well, back at you.
+Nice job saving me.
+
+265
+00:19:58,575 --> 00:20:01,343
+Thanks.
+
+266
+00:20:01,411 --> 00:20:02,678
+And thank you, Aya.
+
+267
+00:20:02,746 --> 00:20:04,546
+We'd all be feeling pretty
+cramped right now
+
+268
+00:20:04,614 --> 00:20:06,248
+if it wasn't for you coming out
+of your shell like that.
+
+269
+00:20:06,316 --> 00:20:08,584
+<i>Yes, like a hatchling from an egg.</i>
+
+270
+00:20:08,651 --> 00:20:09,918
+I'm not done.
+
+271
+00:20:09,986 --> 00:20:12,221
+It was dangerous to up
+and leave your post.
+
+272
+00:20:12,288 --> 00:20:14,223
+We need to set a few
+parameters, young lady.
+
+273
+00:20:14,290 --> 00:20:16,558
+<i>A Green Lantern protects
+innocent life, even</i>
+
+274
+00:20:16,626 --> 00:20:18,827
+<i>at the risk of their own, correct?</i>
+
+275
+00:20:18,895 --> 00:20:20,329
+Wait. Wait a minute.
+
+276
+00:20:20,397 --> 00:20:22,631
+Aya, you do understand
+you're a navcom,
+
+277
+00:20:22,699 --> 00:20:26,335
+not a Green Lantern, right?
+You can't be a GL.
+
+278
+00:20:26,403 --> 00:20:27,770
+<i>Why not?</i>
+
+279
+00:20:27,837 --> 00:20:30,372
+Well, first off,
+the ring's got to pick you.
+
+280
+00:20:30,440 --> 00:20:32,408
+- Why?
+- Help me out.
+
+281
+00:20:32,475 --> 00:20:33,876
+Oh, no. No.
+I want to hear this.
+
+282
+00:20:33,943 --> 00:20:36,645
+- Red?
+- Leave me out of it.
+
+283
+00:20:36,713 --> 00:20:39,615
+Look. Green Lanterns
+positively got to have
+
+284
+00:20:39,682 --> 00:20:43,419
+a physical body to walk around
+and interact with people,
+
+285
+00:20:43,486 --> 00:20:45,788
+not a bunch of creepy bugs.
+
+286
+00:20:45,855 --> 00:20:47,723
+<i>Parameters set.</i>
+
+287
+00:21:05,608 --> 00:21:09,445
+<i>A body like this?</i>
+
+288
+00:21:09,512 --> 00:21:11,513
+[groans]
+
+9999
+00:00:0,500 --> 00:00:2,00
+<font color="#ffff00" size=14>www.tvsubtitles.net</font>
