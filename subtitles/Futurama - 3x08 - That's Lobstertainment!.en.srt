@@ -1,0 +1,1230 @@
+1
+00:00:07,215 --> 00:00:09,331  X1:208 X2:509 Y1:494 Y2:516
+That's Lobstertainment
+
+2
+00:00:36,175 --> 00:00:39,531  X1:183 X2:533 Y1:450 Y2:516
+So I says, "Super Collider?
+I just met her."
+
+3
+00:00:41,855 --> 00:00:47,851  X1:106 X2:608 Y1:061 Y2:126
+And then they built the Super Collider.
+Thank you. You've been great.
+
+4
+00:00:48,735 --> 00:00:51,010  X1:117 X2:598 Y1:061 Y2:087
+Humorbot 5.0, ladies and gentlemen.
+
+5
+00:00:51,215 --> 00:00:55,094  X1:157 X2:558 Y1:061 Y2:127
+Our next standup's a veteran
+of four comedy traffic schools.
+
+6
+00:00:55,255 --> 00:00:58,292  X1:125 X2:590 Y1:061 Y2:087
+Give it way up for Bobcat Zoidberg!
+
+7
+00:00:58,495 --> 00:00:59,894  X1:302 X2:413 Y1:490 Y2:516
+All right!
+
+8
+00:01:00,095 --> 00:01:01,813  X1:298 X2:418 Y1:451 Y2:516
+- Yeah!
+- All right!
+
+9
+00:01:02,775 --> 00:01:07,485  X1:153 X2:563 Y1:061 Y2:126
+Earth. What a planet. On Earth,
+you enjoy eating a tasty clam.
+
+10
+00:01:07,735 --> 00:01:11,614  X1:154 X2:560 Y1:061 Y2:126
+On my planet,
+clams enjoy eating a tasty you!
+
+11
+00:01:13,335 --> 00:01:18,409  X1:109 X2:608 Y1:061 Y2:127
+Maybe I'm not loud enough. On Earth,
+everybody is looking for a squid!
+
+12
+00:01:18,655 --> 00:01:21,374  X1:263 X2:455 Y1:490 Y2:516
+On my planet...
+
+13
+00:01:22,775 --> 00:01:24,367  X1:311 X2:405 Y1:495 Y2:516
+Reload.
+
+14
+00:01:25,015 --> 00:01:29,770  X1:156 X2:561 Y1:061 Y2:121
+So these three parasitic worms
+bore into a human's head.
+
+15
+00:01:30,335 --> 00:01:32,803  X1:174 X2:543 Y1:456 Y2:516
+And they walk up to the bar
+and then...
+
+16
+00:01:33,015 --> 00:01:36,166  X1:187 X2:528 Y1:489 Y2:516
+Wait! Stop! I've got more!
+
+17
+00:01:41,255 --> 00:01:43,769  X1:129 X2:587 Y1:061 Y2:087
+My whole life I worked on that act.
+
+18
+00:01:43,975 --> 00:01:47,604  X1:160 X2:556 Y1:061 Y2:126
+- And they hated it.
+- You're a crazy lobster doctor!
+
+19
+00:01:47,855 --> 00:01:51,768  X1:159 X2:556 Y1:061 Y2:127
+- You shouldn't be a comedian!
+- But comedy is in my valves.
+
+20
+00:01:51,975 --> 00:01:56,685  X1:128 X2:588 Y1:061 Y2:126
+My Uncle Harold was a big star
+back in the era of silent holograms.
+
+21
+00:01:56,895 --> 00:02:01,252  X1:167 X2:550 Y1:451 Y2:516
+- Your uncle was Harold Zoid?
+- This I cannot deny.
+
+22
+00:02:01,455 --> 00:02:05,767  X1:107 X2:609 Y1:450 Y2:516
+Why, I've been a fan since back when
+my hips were made of bone!
+
+23
+00:02:05,975 --> 00:02:09,331  X1:125 X2:590 Y1:451 Y2:516
+As it happens,
+I still have some of my original 78s.
+
+24
+00:03:05,535 --> 00:03:08,652  X1:203 X2:511 Y1:450 Y2:516
+He's a lot funnier
+than you could ever be.
+
+25
+00:03:08,855 --> 00:03:13,690  X1:093 X2:621 Y1:451 Y2:516
+Maybe, but perhaps if I wrote him
+and asked for a few hundred pointers...
+
+26
+00:03:14,655 --> 00:03:20,366  X1:130 X2:586 Y1:451 Y2:516
+This letter has to be very personal,
+so I'm writing it in my own ink.
+
+27
+00:03:23,775 --> 00:03:27,370  X1:169 X2:545 Y1:451 Y2:516
+<i>"Dear Uncle Zoid,</i>
+<i>Greetings from your nephew.</i>
+
+28
+00:03:27,575 --> 00:03:30,214  X1:145 X2:572 Y1:456 Y2:516
+<i>Norm and Sam and Sadie's boy?</i>
+<i>Remember?</i>
+
+29
+00:03:30,455 --> 00:03:34,687  X1:128 X2:591 Y1:451 Y2:516
+<i>Now I'm the most important doctor</i>
+<i>at the company where I work.</i>
+
+30
+00:03:34,935 --> 00:03:37,608  X1:141 X2:576 Y1:490 Y2:516
+<i>But my life is bereft of laughter. "</i>
+
+31
+00:03:37,815 --> 00:03:40,045  X1:152 X2:564 Y1:489 Y2:516
+"I beg of you, Mr. Funny Uncle.
+
+32
+00:03:40,255 --> 00:03:44,214  X1:149 X2:566 Y1:451 Y2:516
+Teach me the comedy business.
+Sincerely, Zoidberg."
+
+33
+00:03:44,455 --> 00:03:46,286  X1:261 X2:456 Y1:494 Y2:516
+Isn't that nice?
+
+34
+00:03:46,535 --> 00:03:52,087  X1:124 X2:591 Y1:450 Y2:516
+- What's that scribble-di-gook?
+- It's a letter from my rich nephew...
+
+35
+00:03:52,335 --> 00:03:57,170  X1:137 X2:583 Y1:451 Y2:516
+...who just might be my ticket out
+of this flophouse, he might.
+
+36
+00:04:00,175 --> 00:04:02,769  X1:206 X2:509 Y1:489 Y2:516
+Yeah, you'd better run!
+
+37
+00:04:08,575 --> 00:04:12,011  X1:181 X2:537 Y1:450 Y2:516
+"Dear Rich Doctor Nephew,
+I can help you be funny.
+
+38
+00:04:12,255 --> 00:04:14,564  X1:225 X2:491 Y1:451 Y2:516
+The first funny thing
+you must do...
+
+39
+00:04:14,735 --> 00:04:18,853  X1:134 X2:585 Y1:451 Y2:516
+...is put your money in check form
+and come to Hollywood."
+
+40
+00:04:19,055 --> 00:04:22,934  X1:205 X2:512 Y1:455 Y2:516
+"Sincerely, Harold Zoid.
+P. S: cashier's check."
+
+41
+00:04:23,135 --> 00:04:26,252  X1:203 X2:513 Y1:451 Y2:516
+Did you hear that?
+I'm going to Hollywood!
+
+42
+00:04:42,615 --> 00:04:44,207  X1:204 X2:511 Y1:490 Y2:516
+Welcome to Hollywood!
+
+43
+00:04:44,455 --> 00:04:45,570  X1:238 X2:477 Y1:061 Y2:087
+I must warn you...
+
+44
+00:04:45,975 --> 00:04:50,571  X1:160 X2:554 Y1:455 Y2:516
+...there's no refund if you get
+discovered and leave the tour.
+
+45
+00:04:50,935 --> 00:04:53,165  X1:144 X2:572 Y1:489 Y2:516
+I'm kidding. That never happens.
+
+46
+00:04:53,375 --> 00:04:57,766  X1:167 X2:551 Y1:450 Y2:516
+Now, to your right, you'll see
+30th Century Fox Studios.
+
+47
+00:04:58,015 --> 00:05:00,529  X1:219 X2:498 Y1:451 Y2:516
+Fox uses searchlights
+to blind pilots...
+
+48
+00:05:00,735 --> 00:05:04,569  X1:178 X2:536 Y1:451 Y2:516
+...then film
+the resulting plane crashes.
+
+49
+00:05:07,655 --> 00:05:08,974  X1:298 X2:417 Y1:456 Y2:516
+- Neat!
+- Ahead...
+
+50
+00:05:09,175 --> 00:05:15,364  X1:117 X2:601 Y1:455 Y2:516
+...you'll see the home of Mel Gibson,
+star of the hit film <i>Bravehead.</i>
+
+51
+00:05:15,735 --> 00:05:17,965  X1:128 X2:587 Y1:490 Y2:516
+Do we have any fans of Calculon...
+
+52
+00:05:18,215 --> 00:05:20,854  X1:203 X2:516 Y1:451 Y2:516
+...star of the robot soap
+<i>All My Circuits</i>?
+
+53
+00:05:21,455 --> 00:05:23,173  X1:227 X2:489 Y1:495 Y2:516
+I am! Me! Bender is!
+
+54
+00:05:23,375 --> 00:05:27,573  X1:122 X2:594 Y1:455 Y2:516
+Then you'll want to get a close look
+at his Bel Air home.
+
+55
+00:05:27,775 --> 00:05:29,288  X1:289 X2:426 Y1:493 Y2:516
+Yes, I will.
+
+56
+00:05:34,215 --> 00:05:36,365  X1:159 X2:558 Y1:061 Y2:121
+- Are you my hot-water heater?
+- No.
+
+57
+00:05:36,615 --> 00:05:39,175  X1:184 X2:534 Y1:061 Y2:126
+- We met once. Remember?
+- Absolutely not.
+
+58
+00:05:39,375 --> 00:05:41,969  X1:126 X2:592 Y1:490 Y2:516
+Remember I was bugging you a lot?
+
+59
+00:05:42,175 --> 00:05:46,646  X1:096 X2:619 Y1:451 Y2:516
+- You remember, right?
+- Look, I'm programmed to be very busy.
+
+60
+00:05:46,855 --> 00:05:51,565  X1:129 X2:586 Y1:451 Y2:516
+Unless you can heat water
+to 21 2 degrees, I'm not interested.
+
+61
+00:05:53,215 --> 00:05:56,969  X1:115 X2:603 Y1:456 Y2:516
+Have you got an extra GOTO 1 0 line?
+I don't need a Bender.
+
+62
+00:05:57,175 --> 00:06:00,087  X1:201 X2:514 Y1:061 Y2:126
+That was the other guy.
+My name's Boiler.
+
+63
+00:06:02,175 --> 00:06:05,451  X1:166 X2:549 Y1:456 Y2:516
+- Nice work, Boiler.
+- Thanks. And call me Bender.
+
+64
+00:06:09,255 --> 00:06:13,453  X1:117 X2:598 Y1:450 Y2:516
+That's where I'm meeting Uncle Zoid
+to discuss my dreams.
+
+65
+00:06:13,655 --> 00:06:17,409  X1:152 X2:563 Y1:451 Y2:516
+Next time you see me,
+don't be surprised if I've eaten.
+
+66
+00:06:22,975 --> 00:06:26,888  X1:126 X2:591 Y1:456 Y2:516
+Uncle Zoid! You look young enough
+to be thrown back.
+
+67
+00:06:27,095 --> 00:06:28,210  X1:271 X2:445 Y1:490 Y2:516
+Rich nephew!
+
+68
+00:06:28,455 --> 00:06:33,768  X1:124 X2:594 Y1:451 Y2:516
+Come over here and give your uncle
+a nice, big meal.
+
+69
+00:06:36,255 --> 00:06:37,688  X1:249 X2:465 Y1:493 Y2:516
+So, here we are.
+
+70
+00:06:37,935 --> 00:06:40,005  X1:154 X2:561 Y1:495 Y2:516
+A still-famous film comedian...
+
+71
+00:06:40,215 --> 00:06:44,094  X1:171 X2:546 Y1:451 Y2:516
+And a rich, respected doctor
+with surviving patients.
+
+72
+00:06:44,295 --> 00:06:47,412  X1:215 X2:502 Y1:456 Y2:516
+Eating in a restaurant,
+as we both often do.
+
+73
+00:06:47,615 --> 00:06:51,767  X1:108 X2:609 Y1:451 Y2:516
+- So, you want to be a comedian, is it?
+- It's my lifelong dream.
+
+74
+00:06:51,975 --> 00:06:55,604  X1:152 X2:563 Y1:451 Y2:516
+That dream dies now!
+You're unfunny and untalented!
+
+75
+00:06:55,855 --> 00:06:58,653  X1:116 X2:598 Y1:489 Y2:516
+That's why you're perfect for drama!
+
+76
+00:06:58,815 --> 00:07:00,214  X1:259 X2:458 Y1:495 Y2:516
+Serious drama?
+
+77
+00:07:00,415 --> 00:07:04,169  X1:116 X2:599 Y1:490 Y2:516
+Perhaps it is time to give up comedy.
+
+78
+00:07:05,895 --> 00:07:09,808  X1:141 X2:573 Y1:450 Y2:516
+I'm putting together
+a big drama picture as we speak.
+
+79
+00:07:10,055 --> 00:07:14,173  X1:141 X2:575 Y1:451 Y2:516
+The script is dynamite!
+I know because I wrote it myself.
+
+80
+00:07:14,415 --> 00:07:16,167  X1:185 X2:531 Y1:490 Y2:516
+By directing and starring...
+
+81
+00:07:16,375 --> 00:07:20,891  X1:186 X2:529 Y1:450 Y2:516
+...I'll be back on top
+after 50 miserable years...
+
+82
+00:07:21,415 --> 00:07:23,565  X1:285 X2:431 Y1:454 Y2:516
+...of fame.
+- Ah, fame.
+
+83
+00:07:23,775 --> 00:07:27,973  X1:127 X2:589 Y1:451 Y2:516
+- Where do I come in?
+- This film has a juicy part for you...
+
+84
+00:07:28,175 --> 00:07:31,406  X1:168 X2:551 Y1:451 Y2:516
+...if you completely finance it
+with your money.
+
+85
+00:07:31,655 --> 00:07:33,771  X1:259 X2:457 Y1:490 Y2:516
+So, are you in?
+
+86
+00:07:34,255 --> 00:07:37,292  X1:114 X2:604 Y1:490 Y2:516
+Okay. How much do I have to invest?
+
+87
+00:07:37,495 --> 00:07:41,170  X1:219 X2:496 Y1:456 Y2:516
+Not much. Not much.
+A million dollars.
+
+88
+00:07:41,455 --> 00:07:44,606  X1:173 X2:541 Y1:450 Y2:516
+Then it's settled.
+Another big Hollywood deal!
+
+89
+00:07:44,815 --> 00:07:47,375  X1:222 X2:495 Y1:456 Y2:516
+- What can I get you?
+- Is bread free?
+
+90
+00:07:47,615 --> 00:07:49,446  X1:225 X2:490 Y1:451 Y2:516
+- Yeah.
+- We'll split an order.
+
+91
+00:07:59,655 --> 00:08:03,694  X1:104 X2:612 Y1:450 Y2:516
+- What's with Monstro?
+- He promised his uncle a million bucks.
+
+92
+00:08:03,935 --> 00:08:07,814  X1:123 X2:591 Y1:450 Y2:516
+I've been here a day,
+and already I'm a Hollywood phony.
+
+93
+00:08:08,015 --> 00:08:11,166  X1:203 X2:512 Y1:451 Y2:516
+Perhaps I could call on
+TV's Calculon to help...
+
+94
+00:08:11,375 --> 00:08:13,093  X1:178 X2:539 Y1:494 Y2:516
+...now that I'm in show biz.
+
+95
+00:08:13,295 --> 00:08:19,370  X1:101 X2:614 Y1:451 Y2:516
+- Since when have you been in the biz?
+- Long enough, little man. Long enough.
+
+96
+00:08:36,175 --> 00:08:39,884  X1:169 X2:545 Y1:451 Y2:516
+I would be remiss
+if I didn't bring you scripts...
+
+97
+00:08:40,055 --> 00:08:43,172  X1:195 X2:520 Y1:456 Y2:516
+...that can make you
+an international film star.
+
+98
+00:08:43,415 --> 00:08:45,212  X1:190 X2:525 Y1:490 Y2:516
+Tell me about the project.
+
+99
+00:08:45,455 --> 00:08:48,686  X1:187 X2:529 Y1:450 Y2:516
+- It's a movie.
+- Interesting. Tell me more.
+
+100
+00:08:48,935 --> 00:08:52,894  X1:206 X2:510 Y1:455 Y2:516
+Get this. For a scant
+$ 1 million investment...
+
+101
+00:08:53,135 --> 00:08:54,568  X1:213 X2:503 Y1:490 Y2:516
+...you can be the star.
+
+102
+00:08:54,775 --> 00:08:55,969  X1:325 X2:391 Y1:495 Y2:516
+And?
+
+103
+00:08:56,175 --> 00:09:00,168  X1:179 X2:537 Y1:450 Y2:516
+- And it'll win you an Oscar.
+- An Oscar, you say?
+
+104
+00:09:00,335 --> 00:09:04,965  X1:167 X2:547 Y1:456 Y2:516
+That would get me out
+of television once and for all.
+
+105
+00:09:05,215 --> 00:09:06,853  X1:217 X2:499 Y1:490 Y2:516
+Let me see the script.
+
+106
+00:09:07,855 --> 00:09:09,971  X1:173 X2:543 Y1:492 Y2:516
+No. No, I don't like the font.
+
+107
+00:09:10,175 --> 00:09:12,484  X1:237 X2:479 Y1:495 Y2:516
+Wait! Harold Zoid?
+
+108
+00:09:12,695 --> 00:09:16,574  X1:115 X2:603 Y1:456 Y2:516
+- Was this written by the Harold Zoid?
+- Written and xeroxed.
+
+109
+00:09:16,735 --> 00:09:20,774  X1:140 X2:576 Y1:451 Y2:516
+Good heavens. A chance to work
+with the legendary Harold Zoid!
+
+110
+00:09:20,935 --> 00:09:22,607  X1:220 X2:496 Y1:489 Y2:516
+He's one of my idols!
+
+111
+00:09:22,855 --> 00:09:26,814  X1:134 X2:584 Y1:451 Y2:516
+- You can guarantee me the Oscar?
+- I can guarantee anything.
+
+112
+00:09:27,055 --> 00:09:28,966  X1:262 X2:454 Y1:450 Y2:516
+- Then I'll do it!
+- Hooray!
+
+113
+00:09:29,175 --> 00:09:30,767  X1:205 X2:511 Y1:489 Y2:516
+Here's your checkbook!
+
+114
+00:09:35,935 --> 00:09:38,574  X1:213 X2:503 Y1:456 Y2:516
+Ladies and gentlemen,
+our director...
+
+115
+00:09:38,735 --> 00:09:42,569  X1:173 X2:544 Y1:490 Y2:516
+...the legendary Harold Zoid!
+
+116
+00:09:43,415 --> 00:09:46,725  X1:114 X2:601 Y1:451 Y2:516
+Thank you.
+A more classic movie plot there isn't.
+
+117
+00:09:46,935 --> 00:09:50,484  X1:167 X2:549 Y1:455 Y2:516
+A son doesn't want to follow
+in his father's business.
+
+118
+00:09:50,735 --> 00:09:53,966  X1:185 X2:530 Y1:451 Y2:516
+And that business is being
+president of Earth.
+
+119
+00:09:54,215 --> 00:09:56,968  X1:190 X2:524 Y1:490 Y2:516
+The son is vice president.
+
+120
+00:09:57,175 --> 00:09:59,405  X1:153 X2:561 Y1:493 Y2:516
+That makes sense. Wink, wink.
+
+121
+00:09:59,615 --> 00:10:03,449  X1:142 X2:574 Y1:450 Y2:516
+- You said, "Wink, wink."
+- No, I didn't. Raise middle finger.
+
+122
+00:10:06,175 --> 00:10:10,248  X1:161 X2:556 Y1:450 Y2:516
+Now, remember, I can't stress
+this enough, this is a talkie.
+
+123
+00:10:10,455 --> 00:10:15,813  X1:118 X2:598 Y1:451 Y2:516
+So I want the full gamut of emotions
+from every actor in every scene.
+
+124
+00:10:16,015 --> 00:10:18,893  X1:210 X2:506 Y1:454 Y2:516
+<i>The Magnificent Three.</i>
+Scene one, take one.
+
+125
+00:10:19,095 --> 00:10:20,608  X1:283 X2:432 Y1:495 Y2:516
+And action!
+
+126
+00:10:20,855 --> 00:10:23,449  X1:131 X2:584 Y1:490 Y2:516
+Take back your gilded pen, Father.
+
+127
+00:10:23,655 --> 00:10:27,443  X1:164 X2:550 Y1:451 Y2:516
+Signing bills into law was
+always your dream, not mine.
+
+128
+00:10:27,655 --> 00:10:29,771  X1:286 X2:430 Y1:495 Y2:516
+Cut! Cut it!
+
+129
+00:10:30,015 --> 00:10:33,405  X1:183 X2:532 Y1:451 Y2:516
+I said this is a talkie!
+You've got to emote more!
+
+130
+00:10:33,655 --> 00:10:37,887  X1:137 X2:578 Y1:451 Y2:516
+And you extras? Wave your arms!
+What is this, a morgue?
+
+131
+00:10:38,095 --> 00:10:41,610  X1:210 X2:506 Y1:454 Y2:516
+<i>The Magnificent Three.</i>
+Scene 1 0, take 95.
+
+132
+00:10:41,855 --> 00:10:44,653  X1:150 X2:565 Y1:451 Y2:516
+Action!
+And I mean circus-grade action.
+
+133
+00:10:44,855 --> 00:10:49,292  X1:227 X2:489 Y1:451 Y2:516
+Sir? I call upon you,
+not as a president...
+
+134
+00:10:49,535 --> 00:10:52,971  X1:244 X2:472 Y1:495 Y2:516
+...but as a father!
+
+135
+00:10:54,575 --> 00:10:58,488  X1:140 X2:576 Y1:451 Y2:516
+Cut! Cut it!
+Would you show a little emotion?
+
+136
+00:10:58,735 --> 00:11:02,125  X1:116 X2:598 Y1:456 Y2:516
+People, please.
+Just because it's a dramatic scene...
+
+137
+00:11:02,335 --> 00:11:05,213  X1:191 X2:529 Y1:450 Y2:516
+...doesn't mean you can't
+do a little comedy.
+
+138
+00:11:05,415 --> 00:11:07,451  X1:170 X2:544 Y1:489 Y2:516
+Throw a pie, for God's sake!
+
+139
+00:11:15,015 --> 00:11:17,006  X1:337 X2:379 Y1:495 Y2:516
+No!
+
+140
+00:11:22,935 --> 00:11:28,089  X1:131 X2:584 Y1:450 Y2:516
+Cut! Cut it! Look, it's all right, kid.
+We'll get it in editing.
+
+141
+00:11:28,335 --> 00:11:29,654  X1:263 X2:452 Y1:489 Y2:516
+That's a wrap!
+
+142
+00:11:29,855 --> 00:11:32,767  X1:130 X2:585 Y1:455 Y2:516
+I'm gonna see you at the premiere!
+Which is...?
+
+143
+00:11:33,015 --> 00:11:35,973  X1:206 X2:509 Y1:451 Y2:516
+Editing is a long
+and expensive process.
+
+144
+00:11:36,215 --> 00:11:40,094  X1:147 X2:568 Y1:451 Y2:516
+We spent all the money on pies,
+so it'll be ready Friday.
+
+145
+00:11:47,295 --> 00:11:51,004  X1:186 X2:531 Y1:450 Y2:516
+Nice turnout. That Oscar's
+practically on your mantel.
+
+146
+00:11:51,255 --> 00:11:54,247  X1:210 X2:508 Y1:456 Y2:516
+I just pray they like me
+half as much as I do.
+
+147
+00:12:03,815 --> 00:12:06,375  X1:134 X2:581 Y1:490 Y2:516
+I agreed to be your vice president!
+
+148
+00:12:06,575 --> 00:12:10,011  X1:135 X2:581 Y1:490 Y2:516
+But I never agreed to be your son!
+
+149
+00:12:13,215 --> 00:12:19,370  X1:129 X2:587 Y1:451 Y2:516
+- Thank you, Lieutenant Smith.
+- Good morning, Mr. Vice President.
+
+150
+00:12:22,015 --> 00:12:26,566  X1:143 X2:572 Y1:450 Y2:516
+We're missing it! My life's goal
+is to attend a Hollywood shindig.
+
+151
+00:12:26,815 --> 00:12:29,090  X1:183 X2:533 Y1:456 Y2:516
+- Pay the valet the 2 bucks.
+- No!
+
+152
+00:12:29,295 --> 00:12:33,447  X1:167 X2:548 Y1:450 Y2:516
+It's the principle of the thing.
+I see a parking lot ahead.
+
+153
+00:12:42,495 --> 00:12:45,965  X1:179 X2:539 Y1:456 Y2:516
+I have asked you to join me
+on the White House roof...
+
+154
+00:12:46,215 --> 00:12:48,854  X1:223 X2:491 Y1:456 Y2:516
+...so we could have
+a heart-to-heart talk.
+
+155
+00:12:49,055 --> 00:12:51,569  X1:138 X2:578 Y1:489 Y2:516
+I'll never follow in your footsteps!
+
+156
+00:12:51,815 --> 00:12:55,171  X1:214 X2:503 Y1:451 Y2:516
+Here is my resignation
+as vice president!
+
+157
+00:12:55,375 --> 00:12:59,004  X1:161 X2:557 Y1:456 Y2:516
+No! My son will not shame me
+like this!
+
+158
+00:12:59,255 --> 00:13:01,769  X1:176 X2:540 Y1:493 Y2:516
+I would sooner die, I would!
+
+159
+00:13:02,015 --> 00:13:04,575  X1:240 X2:475 Y1:490 Y2:516
+Father! The ledge!
+
+160
+00:13:07,175 --> 00:13:09,086  X1:213 X2:501 Y1:490 Y2:516
+The president is dead.
+
+161
+00:13:09,335 --> 00:13:11,974  X1:156 X2:559 Y1:490 Y2:516
+Congratulations, Mr. President!
+
+162
+00:13:12,175 --> 00:13:14,370  X1:337 X2:379 Y1:495 Y2:516
+No!
+
+163
+00:13:21,055 --> 00:13:25,526  X1:118 X2:598 Y1:450 Y2:516
+- He's a visionary!
+- Everyone walked out. They hated it.
+
+164
+00:13:25,695 --> 00:13:28,334  X1:203 X2:516 Y1:451 Y2:516
+Plagues have had better
+opening nights.
+
+165
+00:13:28,615 --> 00:13:31,175  X1:221 X2:494 Y1:451 Y2:516
+You said the Oscar
+was practically mine!
+
+166
+00:13:31,335 --> 00:13:34,293  X1:159 X2:559 Y1:450 Y2:516
+That's why I used the qualifier
+"practically."
+
+167
+00:13:34,495 --> 00:13:37,567  X1:206 X2:510 Y1:456 Y2:516
+You listen to me.
+I'm out a million bucks!
+
+168
+00:13:37,735 --> 00:13:39,805  X1:234 X2:481 Y1:451 Y2:516
+Get me that Oscar,
+or you're dead!
+
+169
+00:13:40,015 --> 00:13:45,373  X1:142 X2:572 Y1:451 Y2:516
+You and these sniveling lobsters!
+Dead, you hear me? Dead!
+
+170
+00:13:46,215 --> 00:13:48,445  X1:226 X2:490 Y1:490 Y2:516
+Oy! Now he emotes.
+
+171
+00:13:55,935 --> 00:14:00,167  X1:126 X2:589 Y1:451 Y2:516
+Four hundred categories
+and not a single nomination for me.
+
+172
+00:14:00,375 --> 00:14:04,653  X1:127 X2:589 Y1:451 Y2:516
+- But you won this Golden Globe!
+- That's the Emmy of movie awards!
+
+173
+00:14:05,735 --> 00:14:09,364  X1:126 X2:589 Y1:451 Y2:516
+- I want an Oscar!
+- Then maybe you should act better.
+
+174
+00:14:09,575 --> 00:14:11,247  X1:211 X2:504 Y1:489 Y2:516
+It's not about acting...
+
+175
+00:14:11,455 --> 00:14:15,494  X1:153 X2:567 Y1:450 Y2:516
+...it's about earning the respect
+of the creative community!
+
+176
+00:14:15,695 --> 00:14:18,255  X1:190 X2:526 Y1:456 Y2:516
+- We could rig the awards.
+- That's fine!
+
+177
+00:14:22,855 --> 00:14:27,007  X1:150 X2:565 Y1:453 Y2:516
+It's no use. The tar is too thick.
+Plus, I think I flooded it.
+
+178
+00:14:27,215 --> 00:14:31,493  X1:132 X2:582 Y1:450 Y2:516
+Well, we're gonna die.
+We might as well enjoy the sights.
+
+179
+00:14:31,735 --> 00:14:34,886  X1:150 X2:566 Y1:490 Y2:516
+Oh, my God! Sylvester Stallone!
+
+180
+00:14:37,095 --> 00:14:40,804  X1:145 X2:570 Y1:451 Y2:516
+This is where you live?
+I thought you were a movie star.
+
+181
+00:14:41,015 --> 00:14:44,166  X1:146 X2:569 Y1:450 Y2:516
+No, I'm not.
+I'm an even bigger liar than you!
+
+182
+00:14:44,375 --> 00:14:48,334  X1:112 X2:602 Y1:451 Y2:516
+My career went down
+the day they invented Smell-A-Vision.
+
+183
+00:14:48,535 --> 00:14:52,574  X1:166 X2:550 Y1:450 Y2:516
+Calculon's gonna kill us.
+It's all everybody else's fault!
+
+184
+00:14:52,775 --> 00:14:58,088  X1:123 X2:593 Y1:456 Y2:516
+All I wanted was for people to think
+of me one last time before I die.
+
+185
+00:14:58,295 --> 00:15:02,766  X1:132 X2:583 Y1:451 Y2:516
+What are you talking about?
+Everybody remembers Harold Zoid.
+
+186
+00:15:02,975 --> 00:15:08,174  X1:103 X2:612 Y1:451 Y2:516
+As a pathetic has-been
+and forgotten relic, they remember me!
+
+187
+00:15:08,415 --> 00:15:10,246  X1:216 X2:500 Y1:494 Y2:516
+It's better to die now.
+
+188
+00:15:10,455 --> 00:15:14,084  X1:186 X2:529 Y1:451 Y2:516
+No! This is one death
+I won't be responsible for.
+
+189
+00:15:14,335 --> 00:15:16,007  X1:258 X2:457 Y1:490 Y2:516
+Zoidberg away!
+
+190
+00:15:25,975 --> 00:15:27,772  X1:189 X2:526 Y1:061 Y2:083
+Hi. I'm Joan Rivers' head.
+
+191
+00:15:27,975 --> 00:15:32,890  X1:146 X2:571 Y1:061 Y2:127
+I've had so many face-lifts, they
+finally lifted it right off my body!
+
+192
+00:15:33,135 --> 00:15:35,365  X1:241 X2:474 Y1:061 Y2:083
+It's true! It's true!
+
+193
+00:15:35,575 --> 00:15:40,774  X1:129 X2:587 Y1:061 Y2:127
+Here comes Jack Nicholson's DNA,
+reconstituted in a gorilla body!
+
+194
+00:15:43,455 --> 00:15:44,604  X1:300 X2:415 Y1:490 Y2:516
+Catering.
+
+195
+00:15:50,135 --> 00:15:53,684  X1:162 X2:553 Y1:061 Y2:124
+Here's washed-up actor
+what's-his-name, Harold Zoid.
+
+196
+00:15:53,895 --> 00:15:57,524  X1:111 X2:605 Y1:061 Y2:126
+Are you presenting one of the awards
+or getting one?
+
+197
+00:15:57,735 --> 00:15:59,293  X1:256 X2:459 Y1:494 Y2:516
+I'm a seat filler.
+
+198
+00:15:59,535 --> 00:16:02,891  X1:202 X2:514 Y1:451 Y2:516
+My only marketable skill
+is to occupy space.
+
+199
+00:16:07,215 --> 00:16:10,844  X1:127 X2:588 Y1:450 Y2:516
+The second I don't win that award,
+you're cat food.
+
+200
+00:16:11,055 --> 00:16:13,569  X1:277 X2:440 Y1:490 Y2:516
+Right, Boxy?
+
+201
+00:16:18,455 --> 00:16:22,767  X1:139 X2:576 Y1:451 Y2:516
+<i>And now, the host of the 1 07 4th</i>
+<i>Academy Awards...</i>
+
+202
+00:16:22,975 --> 00:16:26,047  X1:262 X2:457 Y1:490 Y2:516
+<i>... Billy Crystal!</i>
+
+203
+00:16:26,255 --> 00:16:29,770  X1:102 X2:613 Y1:490 Y2:516
+Now I know how a Pez dispenser feels.
+
+204
+00:16:30,775 --> 00:16:33,369  X1:175 X2:543 Y1:490 Y2:516
+Oh, you like that one, Jack?
+
+205
+00:16:37,015 --> 00:16:39,893  X1:153 X2:562 Y1:061 Y2:126
+All right.
+We're already one hour behind.
+
+206
+00:16:40,135 --> 00:16:44,174  X1:206 X2:511 Y1:061 Y2:126
+Our first award tonight,
+Best Cinematography.
+
+207
+00:16:46,295 --> 00:16:50,004  X1:175 X2:541 Y1:456 Y2:516
+You want to play tic-tac-toe
+before we eat our shoes?
+
+208
+00:16:50,255 --> 00:16:53,292  X1:213 X2:502 Y1:450 Y2:516
+Oh, I knew I'd die
+at the bottom of a pit.
+
+209
+00:16:53,535 --> 00:16:56,368  X1:231 X2:486 Y1:490 Y2:516
+But a pit full of tar?
+
+210
+00:16:56,575 --> 00:17:00,488  X1:159 X2:557 Y1:456 Y2:516
+What was that? A tar dolphin?
+Or a tar shark?
+
+211
+00:17:00,695 --> 00:17:04,404  X1:168 X2:549 Y1:455 Y2:516
+It's some kind of hollow tube
+devoid of human life.
+
+212
+00:17:04,655 --> 00:17:08,364  X1:116 X2:599 Y1:451 Y2:516
+The L.A. subway!
+We can blast our way in and escape!
+
+213
+00:17:08,535 --> 00:17:11,572  X1:184 X2:533 Y1:451 Y2:516
+All right, but I still feel like
+having a shoe.
+
+214
+00:17:15,695 --> 00:17:19,324  X1:138 X2:577 Y1:451 Y2:516
+- What category is it?
+- They're giving out minor awards.
+
+215
+00:17:19,495 --> 00:17:23,124  X1:106 X2:609 Y1:455 Y2:516
+- They're up to writing.
+- That leaves Best Product Placement...
+
+216
+00:17:23,295 --> 00:17:25,490  X1:243 X2:473 Y1:456 Y2:516
+...and Best Actor.
+There's no time.
+
+217
+00:17:25,695 --> 00:17:28,687  X1:176 X2:540 Y1:456 Y2:516
+And the nominees for
+Best Product Placement are:
+
+218
+00:17:28,935 --> 00:17:31,403  X1:145 X2:568 Y1:490 Y2:516
+<i>Star Trek: The Pepsi Generation.</i>
+
+219
+00:17:31,655 --> 00:17:33,611  X1:212 X2:505 Y1:490 Y2:516
+<i>They Call Me Mr. Pibb.</i>
+
+220
+00:17:33,855 --> 00:17:36,210  X1:146 X2:567 Y1:490 Y2:516
+And <i>Snow White and the 7 Ups.</i>
+
+221
+00:17:38,575 --> 00:17:42,011  X1:159 X2:557 Y1:456 Y2:516
+And now to present the award
+for Best Actor...
+
+222
+00:17:42,255 --> 00:17:45,884  X1:156 X2:562 Y1:451 Y2:516
+<i>... a bit player in the flop movie</i>
+The Magnificent Three...
+
+223
+00:17:46,135 --> 00:17:48,968  X1:257 X2:456 Y1:490 Y2:516
+<i>... Dr. Zoidberg.</i>
+
+224
+00:17:52,415 --> 00:17:56,090  X1:153 X2:562 Y1:451 Y2:516
+Okay, Boxy.
+Keep your prong on the trigger.
+
+225
+00:17:56,295 --> 00:17:58,763  X1:237 X2:478 Y1:456 Y2:516
+And the nominees
+for Best Actor are:
+
+226
+00:17:58,975 --> 00:18:02,684  X1:184 X2:529 Y1:456 Y2:516
+Sir Lawrence Ooooo
+in <i>The Merchant of Venus.</i>
+
+227
+00:18:02,935 --> 00:18:06,814  X1:183 X2:536 Y1:451 Y2:516
+Hive Mind Gamma Seven X
+in <i>Bikini Party Summer.</i>
+
+228
+00:18:07,055 --> 00:18:10,365  X1:195 X2:523 Y1:451 Y2:516
+The Soda Machine Robot
+in <i>Bikini Party Summer.</i>
+
+229
+00:18:10,575 --> 00:18:13,965  X1:163 X2:551 Y1:451 Y2:516
+Mark Jones
+in <i>How Beige Was My Jacket.</i>
+
+230
+00:18:14,175 --> 00:18:17,292  X1:167 X2:548 Y1:456 Y2:516
+And, instead of the fifth guy,
+Calculon...
+
+231
+00:18:17,535 --> 00:18:22,165  X1:135 X2:584 Y1:451 Y2:516
+...for his powerhouse performance
+in <i>The Magnificent Three.</i>
+
+232
+00:18:23,255 --> 00:18:27,134  X1:126 X2:589 Y1:061 Y2:126
+- He read the wrong name.
+- Play along, like with Marisa Tomei.
+
+233
+00:18:27,295 --> 00:18:31,004  X1:166 X2:549 Y1:450 Y2:516
+Hooray! I won't be murdered!
+I'll live another day!
+
+234
+00:18:31,255 --> 00:18:33,371  X1:246 X2:469 Y1:490 Y2:516
+Another day of...
+
+235
+00:18:33,535 --> 00:18:36,447  X1:172 X2:545 Y1:490 Y2:516
+...pathetic, forgotten misery.
+
+236
+00:18:41,255 --> 00:18:43,405  X1:223 X2:492 Y1:495 Y2:516
+And the winner is...
+
+237
+00:18:47,735 --> 00:18:51,171  X1:141 X2:573 Y1:451 Y2:516
+And the winner,
+instead of any of the nominees...
+
+238
+00:18:51,375 --> 00:18:54,685  X1:157 X2:559 Y1:490 Y2:516
+...is the legendary Harold Zoid!
+
+239
+00:18:57,255 --> 00:18:58,893  X1:317 X2:399 Y1:495 Y2:516
+What?
+
+240
+00:19:05,095 --> 00:19:07,165  X1:147 X2:567 Y1:490 Y2:516
+Thank you! Thank you so much!
+
+241
+00:19:07,375 --> 00:19:09,172  X1:162 X2:553 Y1:490 Y2:516
+Through my ups and downs...
+
+242
+00:19:09,415 --> 00:19:13,806  X1:140 X2:574 Y1:451 Y2:516
+...I thought the most important
+thing in life was to win an Oscar.
+
+243
+00:19:14,055 --> 00:19:19,971  X1:113 X2:602 Y1:450 Y2:516
+But tonight I realize what's
+really important is to win two Oscars!
+
+244
+00:19:20,775 --> 00:19:22,208  X1:282 X2:433 Y1:489 Y2:516
+I'm kidding.
+
+245
+00:19:22,455 --> 00:19:26,209  X1:152 X2:562 Y1:451 Y2:516
+What matters in life
+is that people care about you...
+
+246
+00:19:26,455 --> 00:19:29,174  X1:151 X2:565 Y1:494 Y2:516
+...whether it's a whole crowd...
+
+247
+00:19:29,375 --> 00:19:32,970  X1:187 X2:529 Y1:490 Y2:516
+...or just one die-hard fan.
+
+248
+00:19:43,695 --> 00:19:45,606  X1:225 X2:490 Y1:490 Y2:516
+Thank you, nephew.
+
+249
+00:19:45,855 --> 00:19:47,368  X1:210 X2:505 Y1:490 Y2:516
+Now I can die happy...
+
+250
+00:19:47,615 --> 00:19:50,049  X1:198 X2:519 Y1:456 Y2:516
+...1 0 seconds from now,
+when Calculon kills us.
+
+251
+00:19:53,695 --> 00:19:55,731  X1:270 X2:445 Y1:456 Y2:516
+- Harold Zoid!
+- Hit the deck!
+
+252
+00:19:55,935 --> 00:19:58,608  X1:221 X2:496 Y1:450 Y2:516
+- Where's that Oscar?
+- Here. Enjoy.
+
+253
+00:19:58,855 --> 00:20:03,053  X1:169 X2:545 Y1:450 Y2:516
+Why are you upset? It's less
+fraudulent for you to have it.
+
+254
+00:20:03,375 --> 00:20:06,811  X1:176 X2:538 Y1:489 Y2:516
+Yes. Yes, it's a real beauty.
+
+255
+00:20:07,055 --> 00:20:10,491  X1:100 X2:615 Y1:490 Y2:516
+Someday I hope to win one of my own.
+
+256
+00:20:10,735 --> 00:20:13,124  X1:160 X2:557 Y1:489 Y2:516
+Then you're not gonna kill us?
+
+257
+00:20:13,335 --> 00:20:18,090  X1:147 X2:570 Y1:456 Y2:516
+I respect and admire Harold Zoid
+too much to beat him to death.
+
+258
+00:20:18,335 --> 00:20:20,371  X1:321 X2:393 Y1:495 Y2:516
+Yeah!
+
+259
+00:20:20,935 --> 00:20:21,970  X1:282 X2:433 Y1:490 Y2:516
+Earthquake!
+
+260
+00:20:22,215 --> 00:20:23,409  X1:275 X2:440 Y1:495 Y2:516
+Hit the deck!
+
+261
+00:20:23,655 --> 00:20:25,771  X1:227 X2:488 Y1:490 Y2:516
+Let the earth quake!
+
+262
+00:20:25,975 --> 00:20:29,206  X1:180 X2:536 Y1:489 Y2:516
+I've got somebody's Oscar!
+
+263
+00:20:36,655 --> 00:20:41,251  X1:104 X2:611 Y1:450 Y2:516
+- We made it! I'm at a Hollywood party!
+- I'm sorry. This is a private...
+
+264
+00:20:41,455 --> 00:20:45,164  X1:160 X2:555 Y1:451 Y2:516
+Oh, pardon me.
+I see you're with Mr. Stallone.
+
+0
+00:00:0,500 --> 00:00:2,00
+<font color="#ffff00" size=14>www.tvsubtitles.net</font>

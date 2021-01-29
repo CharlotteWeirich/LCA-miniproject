@@ -1,0 +1,1236 @@
+1
+00:00:07,413 --> 00:00:09,483  X1:273 X2:444 Y1:495 Y2:516
+Future Shock
+
+2
+00:00:38,813 --> 00:00:40,644  X1:190 X2:525 Y1:490 Y2:516
+Good thing I noticed that.
+
+3
+00:00:40,853 --> 00:00:42,730  X1:173 X2:543 Y1:061 Y2:087
+Planet Express stockholders.
+
+4
+00:00:42,933 --> 00:00:48,644  X1:122 X2:595 Y1:061 Y2:121
+I present our chief executive officer,
+Professor Hubert Farnsworth.
+
+5
+00:00:50,013 --> 00:00:52,322  X1:277 X2:439 Y1:061 Y2:121
+- There he is!
+- Take it off!
+
+6
+00:00:53,013 --> 00:00:56,926  X1:129 X2:586 Y1:061 Y2:126
+- Where am I?
+- Move forward! Walk into the light!
+
+7
+00:00:57,133 --> 00:01:01,604  X1:123 X2:592 Y1:492 Y2:516
+Oh, God! I'm dead! Well, no matter.
+
+8
+00:01:01,813 --> 00:01:03,724  X1:191 X2:523 Y1:490 Y2:516
+Thank you all for coming.
+
+9
+00:01:03,893 --> 00:01:08,011  X1:159 X2:557 Y1:061 Y2:127
+I don't recognize any of you,
+nor can I recall why I am here.
+
+10
+00:01:08,253 --> 00:01:09,925  X1:215 X2:499 Y1:061 Y2:082
+Without further ado...
+
+11
+00:01:10,093 --> 00:01:16,089  X1:146 X2:570 Y1:061 Y2:126
+...a film highlighting Planet
+Express, Inc.'s latest fiscal year.
+
+12
+00:01:16,373 --> 00:01:19,012  X1:156 X2:561 Y1:061 Y2:087
+<i>Planet Express is on the move!</i>
+
+13
+00:01:19,213 --> 00:01:22,808  X1:111 X2:603 Y1:061 Y2:126
+<i>For this hip, young delivery company,</i>
+<i>tomorrow is today...</i>
+
+14
+00:01:22,973 --> 00:01:27,285  X1:191 X2:528 Y1:061 Y2:121
+<i>... and today is yesterday!</i>
+<i>You heard me.</i>
+
+15
+00:01:28,173 --> 00:01:34,612  X1:151 X2:561 Y1:451 Y2:516
+<i>It was a year of soaring profits</i>
+<i>and significant one-time losses.</i>
+
+16
+00:01:36,253 --> 00:01:39,882  X1:089 X2:626 Y1:061 Y2:126
+Watching myself work makes me hungry.
+Help me find food.
+
+17
+00:01:40,133 --> 00:01:43,330  X1:188 X2:527 Y1:061 Y2:127
+I'll not only find it,
+I'll help you do more to it.
+
+18
+00:01:47,773 --> 00:01:51,652  X1:125 X2:590 Y1:451 Y2:516
+A Bot-Mitzvah!
+Shalom, hunger. Shalom, free food.
+
+19
+00:01:51,813 --> 00:01:54,008  X1:279 X2:437 Y1:495 Y2:516
+No shellfish!
+
+20
+00:01:54,213 --> 00:01:57,842  X1:243 X2:473 Y1:456 Y2:516
+- That is so unfair.
+- Tell me about it.
+
+21
+00:02:07,773 --> 00:02:10,606  X1:188 X2:528 Y1:455 Y2:516
+So you guys don't believe
+in Robot-Jesus?
+
+22
+00:02:10,853 --> 00:02:15,483  X1:098 X2:619 Y1:456 Y2:516
+He was built and was well-programmed,
+but he wasn't our messiah.
+
+23
+00:02:16,533 --> 00:02:19,286  X1:104 X2:607 Y1:490 Y2:516
+<i>And so, our company flames onwards.</i>
+
+24
+00:02:19,533 --> 00:02:23,412  X1:135 X2:580 Y1:456 Y2:516
+<i>Planet Express: limitless potential,</i>
+<i>boundless horizons!</i>
+
+25
+00:02:23,573 --> 00:02:28,203  X1:180 X2:542 Y1:451 Y2:516
+<i>The unstoppable juggernaut</i>
+<i>of the corporate universe!</i>
+
+26
+00:02:28,373 --> 00:02:33,447  X1:110 X2:608 Y1:450 Y2:516
+It's been a terrible year. The company
+is on the verge of bankruptcy.
+
+27
+00:02:33,613 --> 00:02:37,401  X1:122 X2:593 Y1:451 Y2:516
+- But the movie...
+- A substantial loss for the company.
+
+28
+00:02:37,613 --> 00:02:41,288  X1:172 X2:545 Y1:451 Y2:516
+The blue pie slice represents
+the money we earned.
+
+29
+00:02:41,533 --> 00:02:45,731  X1:164 X2:551 Y1:455 Y2:516
+The green slice represents
+an $8 bank error in our favor.
+
+30
+00:02:45,933 --> 00:02:49,482  X1:185 X2:531 Y1:456 Y2:516
+What about our thousands
+of shares of stock?
+
+31
+00:02:49,693 --> 00:02:51,331  X1:282 X2:434 Y1:451 Y2:516
+- Worthless.
+- I'll kill you!
+
+32
+00:02:51,533 --> 00:02:56,482  X1:124 X2:592 Y1:456 Y2:516
+I own one share of Planet kajiggers,
+so I'm entitled to some answers.
+
+33
+00:02:56,693 --> 00:02:59,969  X1:178 X2:540 Y1:451 Y2:516
+Question: Why does no one
+visit me in my home?
+
+34
+00:03:00,173 --> 00:03:03,688  X1:193 X2:521 Y1:451 Y2:516
+Your apartment smells
+like Polygrip and cat pee!
+
+35
+00:03:05,453 --> 00:03:07,284  X1:213 X2:501 Y1:490 Y2:516
+This is perfect for me!
+
+36
+00:03:09,813 --> 00:03:14,409  X1:113 X2:604 Y1:451 Y2:516
+Do you have to have been
+cryogenically frozen to get the free...?
+
+37
+00:03:14,613 --> 00:03:18,401  X1:156 X2:560 Y1:450 Y2:516
+You didn't let me finish!
+I was going to say "free food"!
+
+38
+00:03:21,213 --> 00:03:25,286  X1:118 X2:597 Y1:453 Y2:516
+- My name's Joe and I'm a defrostee.
+- Hello, Joe!
+
+39
+00:03:25,493 --> 00:03:28,291  X1:208 X2:507 Y1:456 Y2:516
+When I was frozen,
+carrots ruled the earth.
+
+40
+00:03:28,493 --> 00:03:32,850  X1:163 X2:552 Y1:450 Y2:516
+But now they don't.
+It takes some getting used to.
+
+41
+00:03:33,613 --> 00:03:36,730  X1:161 X2:554 Y1:456 Y2:516
+In the 1 980s,
+I was the toast of Wall Street.
+
+42
+00:03:36,933 --> 00:03:40,050  X1:180 X2:536 Y1:456 Y2:516
+I had whiskey with Boesky,
+cookies with Milken.
+
+43
+00:03:40,253 --> 00:03:43,768  X1:189 X2:528 Y1:456 Y2:516
+But then, I was diagnosed
+with terminal bone-itis.
+
+44
+00:03:43,973 --> 00:03:47,727  X1:157 X2:561 Y1:455 Y2:516
+Bone-itis? That's a funny name
+for a horrible disease.
+
+45
+00:03:47,933 --> 00:03:51,130  X1:152 X2:563 Y1:451 Y2:516
+There was no cure.
+One drug company was close...
+
+46
+00:03:51,293 --> 00:03:57,323  X1:133 X2:586 Y1:456 Y2:516
+...but I arranged a hostile takeover
+and sold its assets. Made 1 00 mil.
+
+47
+00:04:02,093 --> 00:04:04,653  X1:115 X2:601 Y1:490 Y2:516
+I froze myself until a cure was found.
+
+48
+00:04:04,813 --> 00:04:11,002  X1:124 X2:591 Y1:451 Y2:516
+And now here I am, ready to sleaze
+my way back to the top, '80s style!
+
+49
+00:04:11,213 --> 00:04:15,206  X1:140 X2:575 Y1:451 Y2:516
+As a caveman frozen in a glacier,
+I face many challenges.
+
+50
+00:04:15,413 --> 00:04:20,407  X1:110 X2:607 Y1:451 Y2:516
+The hardest thing was seeing my wife
+on display in the British Museum.
+
+51
+00:04:21,693 --> 00:04:25,402  X1:108 X2:610 Y1:450 Y2:516
+I'm from your time.
+Remember that song, "Safety Dance"?
+
+52
+00:04:25,613 --> 00:04:26,841  X1:303 X2:412 Y1:495 Y2:516
+Sure do.
+
+53
+00:04:33,373 --> 00:04:35,364  X1:169 X2:545 Y1:494 Y2:516
+That dance wasn't that safe.
+
+54
+00:04:35,573 --> 00:04:40,169  X1:112 X2:606 Y1:455 Y2:516
+I tell you, two go-go '80s Reaganauts
+like us could rule this world!
+
+55
+00:04:40,373 --> 00:04:43,126  X1:105 X2:611 Y1:451 Y2:516
+- Right.
+- lf only someone would give us a shot.
+
+56
+00:04:43,293 --> 00:04:48,447  X1:113 X2:604 Y1:450 Y2:516
+They're scared of us. But if you want
+a job, I could beg my company.
+
+57
+00:04:48,933 --> 00:04:51,845  X1:142 X2:572 Y1:495 Y2:516
+Awesome. Awesome to the max!
+
+58
+00:04:52,213 --> 00:04:56,729  X1:142 X2:575 Y1:451 Y2:516
+And finally, the post office meter
+is for business mail only.
+
+59
+00:04:56,933 --> 00:05:00,289  X1:194 X2:520 Y1:455 Y2:516
+Come on! I've got a lot
+of ransom notes to send!
+
+60
+00:05:00,493 --> 00:05:02,848  X1:169 X2:546 Y1:490 Y2:516
+Enough talk! Time for action!
+
+61
+00:05:03,053 --> 00:05:05,408  X1:127 X2:588 Y1:490 Y2:516
+I move that everyone comes over...
+
+62
+00:05:05,613 --> 00:05:07,569  X1:217 X2:498 Y1:456 Y2:516
+...to snuggle my cat!
+- Second.
+
+63
+00:05:07,773 --> 00:05:11,083  X1:128 X2:587 Y1:456 Y2:516
+- I move your cat stinks and is ugly!
+- Second.
+
+64
+00:05:11,293 --> 00:05:15,969  X1:130 X2:588 Y1:451 Y2:516
+I move that we vote on a new CEO
+and oust this old creep!
+
+65
+00:05:16,173 --> 00:05:20,132  X1:105 X2:610 Y1:456 Y2:516
+- And my cat smells good and is pretty.
+- Second.
+
+66
+00:05:20,333 --> 00:05:23,689  X1:120 X2:596 Y1:456 Y2:516
+- Very well. I nominate the Professor!
+- Second!
+
+67
+00:05:23,933 --> 00:05:27,403  X1:127 X2:588 Y1:450 Y2:516
+- I'm your man!
+- I vote my shares for the Professor.
+
+68
+00:05:27,653 --> 00:05:29,211  X1:260 X2:456 Y1:456 Y2:516
+- The Professor!
+- Me!
+
+69
+00:05:31,333 --> 00:05:33,051  X1:227 X2:488 Y1:490 Y2:516
+I nominate that guy.
+
+70
+00:05:33,253 --> 00:05:38,327  X1:136 X2:582 Y1:456 Y2:516
+Because he knows about business
+and stuff and has a tie.
+
+71
+00:05:38,813 --> 00:05:41,532  X1:179 X2:537 Y1:451 Y2:516
+Shares still count
+if they were washed, right?
+
+72
+00:05:43,893 --> 00:05:47,408  X1:155 X2:562 Y1:451 Y2:516
+If I know anything
+about which number is bigger...
+
+73
+00:05:47,613 --> 00:05:51,811  X1:136 X2:581 Y1:451 Y2:516
+Hold on! Scruffy votes his 40,000
+shares for the stranger.
+
+74
+00:05:52,013 --> 00:05:56,086  X1:128 X2:589 Y1:456 Y2:516
+You have four times as much stock
+as the rest of us?
+
+75
+00:05:56,333 --> 00:05:59,723  X1:141 X2:573 Y1:490 Y2:516
+Scruffy believes in this company.
+
+76
+00:06:00,573 --> 00:06:06,170  X1:121 X2:597 Y1:453 Y2:516
+It's a tie. In the event of a tie, the
+Professor, as current CEO, remains...
+
+77
+00:06:06,373 --> 00:06:11,401  X1:127 X2:591 Y1:451 Y2:516
+I demand the floor! I may only have
+one share, but I get to vote too!
+
+78
+00:06:11,613 --> 00:06:16,448  X1:117 X2:598 Y1:450 Y2:516
+And I'm voting against the cat-hater!
+Isn't that right, kitty?
+
+79
+00:06:16,693 --> 00:06:19,969  X1:194 X2:521 Y1:490 Y2:516
+Hey! You ate my change!
+
+80
+00:06:21,213 --> 00:06:26,241  X1:121 X2:597 Y1:450 Y2:516
+It's settled. The new chief executive
+officer of Planet Express is...
+
+81
+00:06:26,453 --> 00:06:28,603  X1:267 X2:450 Y1:489 Y2:516
+..."That Guy"!
+
+82
+00:06:36,533 --> 00:06:40,446  X1:139 X2:575 Y1:451 Y2:516
+Please welcome our new
+chief executive officer, That Guy!
+
+83
+00:06:44,373 --> 00:06:48,605  X1:158 X2:557 Y1:451 Y2:516
+There are two kinds of people:
+sheep and sharks.
+
+84
+00:06:48,813 --> 00:06:52,044  X1:155 X2:560 Y1:450 Y2:516
+Anyone who's a sheep is fired.
+Who's a sheep?
+
+85
+00:06:52,293 --> 00:06:55,330  X1:142 X2:575 Y1:451 Y2:516
+Excuse me,
+which one do people like to hug?
+
+86
+00:06:55,533 --> 00:06:59,492  X1:151 X2:564 Y1:455 Y2:516
+Gutsy question. You're a shark.
+Sharks don't look back...
+
+87
+00:06:59,733 --> 00:07:03,169  X1:137 X2:579 Y1:450 Y2:516
+...because they don't have necks.
+Necks are for sheep.
+
+88
+00:07:04,373 --> 00:07:07,285  X1:153 X2:564 Y1:455 Y2:516
+I'm proud to shepherd this herd
+of sharks...
+
+89
+00:07:07,533 --> 00:07:11,811  X1:115 X2:604 Y1:451 Y2:516
+...and I am gonna lead you to the top
+in this industry of...
+
+90
+00:07:12,013 --> 00:07:15,801  X1:170 X2:546 Y1:451 Y2:516
+- Package delivery.
+- Package delivery?! Oh, God!
+
+91
+00:07:16,013 --> 00:07:22,122  X1:099 X2:617 Y1:451 Y2:516
+Fantastic! The first order of business,
+blame everything on the guy before me.
+
+92
+00:07:22,333 --> 00:07:25,848  X1:123 X2:592 Y1:451 Y2:516
+- Professor?
+- I'll ruin you like I did this company!
+
+93
+00:07:26,053 --> 00:07:31,207  X1:112 X2:604 Y1:451 Y2:516
+Terrific. Question number one:
+What was your overall business plan?
+
+94
+00:07:31,613 --> 00:07:36,482  X1:116 X2:600 Y1:451 Y2:516
+Business plan? Yes.
+I keep it here, right next to my heart.
+
+95
+00:07:40,093 --> 00:07:43,165  X1:197 X2:519 Y1:451 Y2:516
+This is no business plan,
+it's an escape plan.
+
+96
+00:07:43,373 --> 00:07:46,410  X1:244 X2:470 Y1:490 Y2:516
+So long, suckers!
+
+97
+00:07:48,853 --> 00:07:54,849  X1:104 X2:612 Y1:450 Y2:516
+Fry, as a fellow '80s dollar jockey,
+I'm making you my new vice chairman.
+
+98
+00:07:55,053 --> 00:07:57,009  X1:139 X2:576 Y1:489 Y2:516
+I'm rolling up the corporate ramp!
+
+99
+00:07:57,213 --> 00:07:59,443  X1:266 X2:450 Y1:455 Y2:516
+- It's the end!
+- We're ruined!
+
+100
+00:07:59,653 --> 00:08:05,011  X1:121 X2:596 Y1:451 Y2:516
+What fevered dream is this that bids
+to tear this company in twain?
+
+101
+00:08:07,053 --> 00:08:09,567  X1:199 X2:515 Y1:490 Y2:516
+Thank you. Come again.
+
+102
+00:08:09,773 --> 00:08:13,209  X1:112 X2:602 Y1:450 Y2:516
+That's what I call a hostile makeover.
+Hair gel?
+
+103
+00:08:13,413 --> 00:08:16,211  X1:174 X2:541 Y1:490 Y2:516
+No, thanks. I make my own.
+
+104
+00:08:28,333 --> 00:08:32,804  X1:138 X2:577 Y1:450 Y2:516
+We'll shoot straight to the top
+and stay there, like Cindy Lauper!
+
+105
+00:08:33,013 --> 00:08:37,370  X1:140 X2:578 Y1:451 Y2:516
+I ask you, who is the number one
+delivery service on earth?
+
+106
+00:08:37,573 --> 00:08:42,283  X1:170 X2:548 Y1:451 Y2:516
+- Is it Planet Express, master?
+- Is this guy a shark or what?
+
+107
+00:08:42,533 --> 00:08:45,684  X1:202 X2:514 Y1:451 Y2:516
+Seriously, we stink.
+Here's the big enchirito.
+
+108
+00:08:47,933 --> 00:08:50,367  X1:134 X2:582 Y1:489 Y2:516
+Mom's Friendly Delivery Company.
+
+109
+00:08:50,573 --> 00:08:55,408  X1:104 X2:611 Y1:455 Y2:516
+We can't compete! Her company is big
+and evil. We're small and neutral.
+
+110
+00:08:55,613 --> 00:09:00,892  X1:096 X2:618 Y1:450 Y2:516
+Switzerland is small and neutral. We're
+Germany, ambitious and misunderstood.
+
+111
+00:09:01,093 --> 00:09:05,928  X1:124 X2:592 Y1:451 Y2:516
+Everyone wants to be like Germany.
+Do we have the strength of will?
+
+112
+00:09:06,133 --> 00:09:10,411  X1:138 X2:579 Y1:451 Y2:516
+I say we do! Will we let ourselves
+get beaten by an old lady?
+
+113
+00:09:10,613 --> 00:09:12,205  X1:266 X2:449 Y1:490 Y2:516
+Yes, my liege.
+
+114
+00:09:12,413 --> 00:09:18,090  X1:122 X2:592 Y1:451 Y2:516
+No! I speak for the entire board
+when I issue this challenge to Mom!
+
+115
+00:09:18,293 --> 00:09:21,012  X1:251 X2:465 Y1:490 Y2:516
+Look at my butt!
+
+116
+00:09:23,573 --> 00:09:27,885  X1:168 X2:547 Y1:454 Y2:516
+You call that a pressed ham?
+Walt, hit the retaliate button!
+
+117
+00:09:29,413 --> 00:09:32,849  X1:159 X2:557 Y1:450 Y2:516
+- Let's see...
+- Any button! They all retaliate!
+
+118
+00:09:54,773 --> 00:09:57,003  X1:156 X2:558 Y1:493 Y2:516
+Yeah! Hit him, hit him, hit him!
+
+119
+00:09:57,213 --> 00:10:00,683  X1:160 X2:554 Y1:451 Y2:516
+This is the high life!
+Watching apes kill each other.
+
+120
+00:10:00,933 --> 00:10:05,085  X1:149 X2:568 Y1:451 Y2:516
+In my day, we had coke parties,
+but the principle's the same.
+
+121
+00:10:05,813 --> 00:10:09,852  X1:161 X2:554 Y1:451 Y2:516
+Get your stinking trike off me,
+you damn, dirty ape!
+
+122
+00:10:10,053 --> 00:10:12,283  X1:161 X2:555 Y1:489 Y2:516
+Now that you're my protégé...
+
+123
+00:10:12,533 --> 00:10:16,845  X1:122 X2:598 Y1:450 Y2:516
+...it's time I cut you in on the secret
+to success. Any guesses?
+
+124
+00:10:17,093 --> 00:10:18,845  X1:240 X2:477 Y1:456 Y2:516
+- Work really hard?
+- No.
+
+125
+00:10:19,093 --> 00:10:22,722  X1:181 X2:534 Y1:451 Y2:516
+- Oh, thank God!
+- It's all about appearances.
+
+126
+00:10:22,973 --> 00:10:25,851  X1:204 X2:510 Y1:450 Y2:516
+It's time to update
+our company's image...
+
+127
+00:10:26,093 --> 00:10:30,883  X1:164 X2:550 Y1:451 Y2:516
+...and give it the sleek,
+dazzling veneer of the 1 980s!
+
+128
+00:10:38,733 --> 00:10:42,646  X1:143 X2:574 Y1:455 Y2:516
+This company's on the fast track
+to the It List. Kudos!
+
+129
+00:10:42,853 --> 00:10:46,562  X1:161 X2:557 Y1:450 Y2:516
+We haven't made one delivery
+since you two took over.
+
+130
+00:10:46,773 --> 00:10:49,890  X1:188 X2:530 Y1:456 Y2:516
+Delivery has nothing to do
+with our business.
+
+131
+00:10:50,133 --> 00:10:52,886  X1:206 X2:508 Y1:451 Y2:516
+Image, people!
+Scope out this new ad!
+
+132
+00:10:53,093 --> 00:10:59,043  X1:191 X2:526 Y1:451 Y2:516
+<i>We are all one. One mind.</i>
+<i>One purpose. One act.</i>
+
+133
+00:10:59,253 --> 00:11:01,721  X1:194 X2:524 Y1:451 Y2:516
+<i>Our enemy shall be eaten</i>
+<i>by scorpions.</i>
+
+134
+00:11:02,213 --> 00:11:06,001  X1:189 X2:524 Y1:451 Y2:516
+<i>And we shall bow down</i>
+<i>and worship to ourselves.</i>
+
+135
+00:11:06,213 --> 00:11:09,410  X1:253 X2:468 Y1:490 Y2:516
+<i>We shall prevail!</i>
+
+136
+00:11:11,013 --> 00:11:13,129  X1:168 X2:550 Y1:490 Y2:516
+<i>Hey, we were watching that!</i>
+
+137
+00:11:16,013 --> 00:11:18,481  X1:147 X2:568 Y1:451 Y2:516
+Terrible!
+People won't know what we do.
+
+138
+00:11:18,693 --> 00:11:23,721  X1:100 X2:615 Y1:450 Y2:516
+I don't know what we do. Just kidding.
+What are we, a bus or something?
+
+139
+00:11:23,933 --> 00:11:26,811  X1:120 X2:598 Y1:456 Y2:516
+- Did you approve that awful ad, Fry?
+- I did...
+
+140
+00:11:27,013 --> 00:11:30,244  X1:211 X2:506 Y1:450 Y2:516
+...and I'll tell you why.
+It grows the brand.
+
+141
+00:11:30,453 --> 00:11:31,647  X1:298 X2:418 Y1:493 Y2:516
+Oh, Lord.
+
+142
+00:11:32,533 --> 00:11:37,209  X1:137 X2:577 Y1:450 Y2:516
+This company's circling the drain!
+I'd sell my stock for a sandwich.
+
+143
+00:11:37,413 --> 00:11:38,402  X1:325 X2:390 Y1:495 Y2:516
+Sold!
+
+144
+00:11:41,213 --> 00:11:44,205  X1:214 X2:501 Y1:490 Y2:516
+A complete sandwich!
+
+145
+00:11:44,413 --> 00:11:50,249  X1:114 X2:602 Y1:451 Y2:516
+You got fleeced. I would have settled
+for a hard roll with ketchup inside.
+
+146
+00:11:53,573 --> 00:11:56,133  X1:197 X2:520 Y1:490 Y2:516
+What is this moose drip?
+
+147
+00:11:57,493 --> 00:12:02,692  X1:118 X2:596 Y1:061 Y2:127
+"The New Delivery Kings"? I'm sick
+of hearing about those turtle squirts!
+
+148
+00:12:02,893 --> 00:12:07,489  X1:161 X2:555 Y1:450 Y2:516
+- But they're kings, Mommy.
+- Jam a bastard in it, you crap!
+
+149
+00:12:10,213 --> 00:12:15,685  X1:104 X2:610 Y1:451 Y2:516
+Our private dining room. This is where
+we serve our most successful chumps.
+
+150
+00:12:15,933 --> 00:12:17,332  X1:237 X2:478 Y1:489 Y2:516
+Tonight, that's us.
+
+151
+00:12:17,533 --> 00:12:19,649  X1:229 X2:489 Y1:450 Y2:516
+- What's overpriced?
+- Everything.
+
+152
+00:12:19,893 --> 00:12:23,010  X1:158 X2:558 Y1:451 Y2:516
+- Bring me that.
+- Me too. And a glass of water.
+
+153
+00:12:23,213 --> 00:12:27,889  X1:107 X2:609 Y1:455 Y2:516
+Okay, let's work on your execu-speak.
+I'm worried about "blank."
+
+154
+00:12:28,093 --> 00:12:30,766  X1:173 X2:542 Y1:450 Y2:516
+Don't worry.
+Let me worry about "blank."
+
+155
+00:12:30,973 --> 00:12:34,283  X1:131 X2:583 Y1:456 Y2:516
+Good. I also would have accepted:
+"Blank? Blank!
+
+156
+00:12:34,533 --> 00:12:37,411  X1:234 X2:480 Y1:450 Y2:516
+You're not looking
+at the big picture!"
+
+157
+00:12:38,613 --> 00:12:40,649  X1:192 X2:523 Y1:490 Y2:516
+What a pleasant surprise.
+
+158
+00:12:40,853 --> 00:12:44,289  X1:199 X2:515 Y1:456 Y2:516
+Shut up, booger-blaster!
+It's time we all talk.
+
+159
+00:12:44,533 --> 00:12:49,607  X1:132 X2:582 Y1:450 Y2:516
+I'll handle this, Fry. You get back
+to the farm, shift some paradigms.
+
+160
+00:12:49,813 --> 00:12:53,931  X1:166 X2:551 Y1:450 Y2:516
+I'm on it. But if you need me,
+you know where I'll be.
+
+161
+00:12:59,533 --> 00:13:02,730  X1:196 X2:520 Y1:451 Y2:516
+Call me a booger-blaster!
+I'll blast a booger...
+
+162
+00:13:02,933 --> 00:13:08,724  X1:116 X2:599 Y1:450 Y2:516
+- We're worried about Planet Express.
+- Don't. Let me worry about "blank."
+
+163
+00:13:08,933 --> 00:13:13,609  X1:128 X2:588 Y1:450 Y2:516
+That Guy is a con man, and you've
+been hypnotized by his bologna!
+
+164
+00:13:13,853 --> 00:13:17,004  X1:186 X2:529 Y1:450 Y2:516
+- You've changed, Fry.
+- What? I haven't changed.
+
+165
+00:13:17,213 --> 00:13:19,602  X1:214 X2:503 Y1:451 Y2:516
+- Suz, have I changed?
+<i>- No, Mr. Fry.</i>
+
+166
+00:13:19,813 --> 00:13:21,405  X1:274 X2:441 Y1:493 Y2:516
+Thanks, doll.
+
+167
+00:13:21,613 --> 00:13:26,607  X1:111 X2:603 Y1:450 Y2:516
+I don't care. That Guy's turning
+this place into some kind of business.
+
+168
+00:13:26,813 --> 00:13:29,407  X1:219 X2:495 Y1:450 Y2:516
+This isn't a business!
+I thought of it...
+
+169
+00:13:29,653 --> 00:13:33,282  X1:167 X2:550 Y1:451 Y2:516
+...as a source of cheap labor.
+Like a family.
+
+170
+00:13:33,533 --> 00:13:37,651  X1:126 X2:593 Y1:450 Y2:516
+Right. We're not a traditional family
+like the Murphys...
+
+171
+00:13:37,893 --> 00:13:43,570  X1:118 X2:596 Y1:450 Y2:516
+...or the lesbian coven, but we're
+a family. That Guy understands that.
+
+172
+00:13:43,773 --> 00:13:47,368  X1:182 X2:530 Y1:456 Y2:516
+<i>Everyone's fired,</i>
+<i>and we're out of business.</i>
+
+173
+00:13:47,573 --> 00:13:52,442  X1:115 X2:599 Y1:451 Y2:516
+<i>I'm selling Planet Express to Mom.</i>
+<i>She'll gut the company, eliminate us.</i>
+
+174
+00:13:52,693 --> 00:13:55,412  X1:191 X2:525 Y1:451 Y2:516
+<i>Don 't let the door hit you</i>
+<i>on the way out.</i>
+
+175
+00:13:55,653 --> 00:13:58,292  X1:209 X2:506 Y1:451 Y2:516
+<i>I don 't want ass prints</i>
+<i>on my new door!</i>
+
+176
+00:14:07,413 --> 00:14:11,372  X1:171 X2:547 Y1:456 Y2:516
+Ms. Johnson, please bring in
+some more chair fuel.
+
+177
+00:14:16,333 --> 00:14:21,202  X1:116 X2:598 Y1:451 Y2:516
+I had no idea the company would be
+sold! I was just an innocent suck-up!
+
+178
+00:14:21,813 --> 00:14:25,647  X1:150 X2:565 Y1:456 Y2:516
+Leave us alone
+and let us clear out our lockers.
+
+179
+00:14:28,653 --> 00:14:34,011  X1:150 X2:567 Y1:450 Y2:516
+It's so sad!
+Where will I go? What will I do?
+
+180
+00:14:34,213 --> 00:14:38,001  X1:108 X2:609 Y1:453 Y2:516
+You have Mrs. Darlinghaven's cotillion
+at 7, ma'am.
+
+181
+00:14:38,213 --> 00:14:39,931  X1:266 X2:449 Y1:494 Y2:516
+That'll be fun.
+
+182
+00:14:44,613 --> 00:14:48,288  X1:107 X2:608 Y1:450 Y2:516
+Ms. Johnson, you've never lied to me.
+Am I a good person?
+
+183
+00:14:48,493 --> 00:14:51,530  X1:158 X2:554 Y1:451 Y2:516
+<i>I don 't know.</i>
+<i>I'm a program in the intercom.</i>
+
+184
+00:14:51,733 --> 00:14:55,009  X1:187 X2:528 Y1:453 Y2:516
+I've got to redeem myself!
+Somehow, sometime...
+
+185
+00:14:55,213 --> 00:14:58,603  X1:210 X2:506 Y1:456 Y2:516
+...for some reason,
+I'll block this takeover!
+
+186
+00:14:58,813 --> 00:15:01,327  X1:121 X2:592 Y1:490 Y2:516
+<i>Mr. Fry, your 2:00 magician is here.</i>
+
+187
+00:15:01,533 --> 00:15:07,005  X1:116 X2:598 Y1:451 Y2:516
+I have more important things to do
+today than laugh and clap my hands.
+
+188
+00:15:07,213 --> 00:15:08,487  X1:281 X2:435 Y1:495 Y2:516
+Reschedule.
+
+189
+00:15:33,973 --> 00:15:37,363  X1:201 X2:515 Y1:451 Y2:516
+- Sell 1 00 soylent beans!
+- Buy 3000 corn bellies!
+
+190
+00:15:37,573 --> 00:15:40,883  X1:131 X2:584 Y1:451 Y2:516
+- Two hundred cans of Whoop-Ass!
+- Three bags of trash!
+
+191
+00:15:41,093 --> 00:15:45,086  X1:138 X2:579 Y1:451 Y2:516
+Attention. The takeover of PlanEx
+by Mom's Delivery Company...
+
+192
+00:15:45,333 --> 00:15:48,131  X1:153 X2:564 Y1:490 Y2:516
+...will take place in 1 0 minutes.
+
+193
+00:15:48,373 --> 00:15:51,683  X1:141 X2:575 Y1:490 Y2:516
+I am Jorell, master of scheduling!
+
+194
+00:15:58,533 --> 00:16:03,766  X1:116 X2:602 Y1:455 Y2:516
+Okay. We've got the hot tub hot, the
+wine coolers cool. It's Hammer time!
+
+195
+00:16:05,813 --> 00:16:08,008  X1:293 X2:421 Y1:495 Y2:516
+You suck!
+
+196
+00:16:08,693 --> 00:16:12,811  X1:162 X2:556 Y1:451 Y2:516
+By regulation, both companies
+must approve the takeover.
+
+197
+00:16:13,013 --> 00:16:15,925  X1:173 X2:544 Y1:451 Y2:516
+Planet Express shareholders,
+please vote.
+
+198
+00:16:16,133 --> 00:16:20,604  X1:202 X2:513 Y1:451 Y2:516
+Great Bonda of Uganda!
+We can vote against it!
+
+199
+00:16:20,813 --> 00:16:24,203  X1:181 X2:536 Y1:455 Y2:516
+I'll vote it down like a raise
+for school teachers!
+
+200
+00:16:35,853 --> 00:16:40,768  X1:108 X2:608 Y1:451 Y2:516
+The shares I bought from Dr. Zoidberg
+gave me majority control.
+
+201
+00:16:40,973 --> 00:16:43,407  X1:105 X2:612 Y1:490 Y2:516
+Zoidberg owned 51% of the company?
+
+202
+00:16:43,653 --> 00:16:47,202  X1:178 X2:536 Y1:451 Y2:516
+The shares were worthless!
+He asked for toilet paper!
+
+203
+00:16:47,413 --> 00:16:52,362  X1:132 X2:584 Y1:456 Y2:516
+And now if MomCorp shareholders
+will cast their ballots.
+
+204
+00:17:04,133 --> 00:17:06,727  X1:190 X2:525 Y1:490 Y2:516
+The ballot was confusing!
+
+205
+00:17:06,933 --> 00:17:09,891  X1:169 X2:549 Y1:451 Y2:516
+- How about a hand re-count?
+- Okay.
+
+206
+00:17:10,093 --> 00:17:13,005  X1:156 X2:560 Y1:451 Y2:516
+The takeover of Planet Express
+is approved!
+
+207
+00:17:14,573 --> 00:17:16,848  X1:218 X2:498 Y1:451 Y2:516
+- This stinks!
+- Madame is outraged!
+
+208
+00:17:17,053 --> 00:17:21,092  X1:179 X2:537 Y1:456 Y2:516
+Security! I want that bunch
+of rowdies out of here!
+
+209
+00:17:21,333 --> 00:17:23,801  X1:203 X2:512 Y1:495 Y2:516
+Wait a minute! Hold on!
+
+210
+00:17:28,373 --> 00:17:32,127  X1:140 X2:577 Y1:451 Y2:516
+MomCorp will purchase all shares
+of Planet Express...
+
+211
+00:17:32,373 --> 00:17:34,967  X1:166 X2:552 Y1:456 Y2:516
+...at the current market price,
+which is...
+
+212
+00:17:35,293 --> 00:17:37,011  X1:229 X2:491 Y1:495 Y2:516
+<i>One hundred seven!</i>
+
+213
+00:17:40,773 --> 00:17:45,403  X1:127 X2:590 Y1:451 Y2:516
+- And also it hurt my feelings!
+- What are you solids griping about?
+
+214
+00:17:45,613 --> 00:17:48,446  X1:123 X2:591 Y1:490 Y2:516
+Your shares are worth $ 1 07 apiece.
+
+215
+00:17:48,653 --> 00:17:54,205  X1:122 X2:596 Y1:450 Y2:516
+I'm a millionaire! Suddenly I have an
+opinion about the capital gains tax!
+
+216
+00:17:54,413 --> 00:17:59,407  X1:242 X2:474 Y1:455 Y2:516
+- I'm even richer!
+- I have no shares!
+
+217
+00:18:00,613 --> 00:18:04,891  X1:155 X2:562 Y1:451 Y2:516
+Wait! My sandwich! Has it also
+appreciated in value? Please!
+
+218
+00:18:05,093 --> 00:18:12,329  X1:128 X2:588 Y1:450 Y2:516
+- You didn't refrigerate it, spineless!
+- You had to drag spines into this!
+
+219
+00:18:15,013 --> 00:18:18,323  X1:177 X2:535 Y1:451 Y2:516
+<i>As vice chairman,</i>
+<i>I'd like to say a few words.</i>
+
+220
+00:18:18,533 --> 00:18:22,048  X1:172 X2:542 Y1:456 Y2:516
+<i>A time comes for every man</i>
+<i>that deserts his friends...</i>
+
+221
+00:18:22,293 --> 00:18:26,002  X1:135 X2:579 Y1:453 Y2:516
+<i>... when he goes back how it was.</i>
+<i>For me, that time is now.</i>
+
+222
+00:18:26,213 --> 00:18:29,569  X1:193 X2:523 Y1:451 Y2:516
+So I ask you, as a friend,
+stop this deal.
+
+223
+00:18:29,773 --> 00:18:32,526  X1:187 X2:529 Y1:450 Y2:516
+I'm an '80s guy.
+Friendship means for $2...
+
+224
+00:18:32,773 --> 00:18:38,962  X1:129 X2:588 Y1:451 Y2:516
+...I beat you till you got detached
+retinas. The deal will go ahead as...
+
+225
+00:18:45,893 --> 00:18:47,690  X1:291 X2:424 Y1:490 Y2:516
+My bones!
+
+226
+00:18:47,933 --> 00:18:50,003  X1:186 X2:530 Y1:490 Y2:516
+Oh, my God! His bone-itis!
+
+227
+00:18:50,213 --> 00:18:53,888  X1:141 X2:576 Y1:450 Y2:516
+I was so busy being an '80s guy,
+I forgot to cure it!
+
+228
+00:18:59,613 --> 00:19:01,092  X1:234 X2:481 Y1:490 Y2:516
+My only regret is...
+
+229
+00:19:01,333 --> 00:19:02,891  X1:260 X2:456 Y1:495 Y2:516
+...that I have...
+
+230
+00:19:03,133 --> 00:19:04,612  X1:285 X2:432 Y1:495 Y2:516
+...bone-itis!
+
+231
+00:19:06,533 --> 00:19:08,808  X1:289 X2:426 Y1:494 Y2:516
+He's dead!
+
+232
+00:19:10,373 --> 00:19:13,445  X1:203 X2:512 Y1:456 Y2:516
+Feed him to the jackals!
+Go on with the sale!
+
+233
+00:19:13,693 --> 00:19:18,687  X1:133 X2:584 Y1:450 Y2:516
+I don't think so! As vice chairman,
+I gain voting control of his shares.
+
+234
+00:19:18,893 --> 00:19:22,363  X1:163 X2:552 Y1:455 Y2:516
+- Don't be a fool!
+- I'll be whatever I want to do!
+
+235
+00:19:22,573 --> 00:19:25,406  X1:185 X2:533 Y1:456 Y2:516
+That Guy was the greatest
+businessman ever.
+
+236
+00:19:25,613 --> 00:19:29,003  X1:136 X2:580 Y1:451 Y2:516
+Before his death,
+he taught me everything he knew.
+
+237
+00:19:29,213 --> 00:19:31,647  X1:110 X2:605 Y1:490 Y2:516
+But some things I had to learn myself.
+
+238
+00:19:31,853 --> 00:19:35,243  X1:185 X2:531 Y1:451 Y2:516
+I learned money is fine,
+but what counts is people.
+
+239
+00:19:35,493 --> 00:19:38,087  X1:164 X2:551 Y1:489 Y2:516
+You can't put a price on that.
+
+240
+00:19:38,333 --> 00:19:42,406  X1:116 X2:602 Y1:450 Y2:516
+So I'm giving control of the company
+to a man of experience...
+
+241
+00:19:42,613 --> 00:19:45,810  X1:154 X2:562 Y1:495 Y2:516
+...Professor Hubert Farnsworth!
+
+242
+00:19:46,213 --> 00:19:49,808  X1:163 X2:551 Y1:494 Y2:516
+What? I'm awake! I'm awake!
+
+243
+00:19:52,733 --> 00:19:55,167  X1:152 X2:563 Y1:490 Y2:516
+Stop doing the right thing, jerk!
+
+244
+00:19:55,373 --> 00:20:00,811  X1:115 X2:600 Y1:456 Y2:516
+- Let Mom buy it! We want to be rich!
+- Two out of three doesn't cut it.
+
+245
+00:20:01,013 --> 00:20:04,005  X1:227 X2:490 Y1:450 Y2:516
+You'd rather be rich
+than work together?
+
+246
+00:20:04,213 --> 00:20:05,532  X1:290 X2:426 Y1:490 Y2:516
+Hell, yeah!
+
+247
+00:20:05,773 --> 00:20:10,210  X1:141 X2:576 Y1:451 Y2:516
+This company was the only place
+I ever really felt at home.
+
+248
+00:20:10,413 --> 00:20:14,042  X1:180 X2:537 Y1:451 Y2:516
+If being millionaires is more
+important than friendship...
+
+249
+00:20:14,253 --> 00:20:18,212  X1:165 X2:553 Y1:450 Y2:516
+...then I'll sell Planet Express,
+for you.
+
+250
+00:20:18,533 --> 00:20:22,811  X1:147 X2:570 Y1:450 Y2:516
+Millionaires nothing! The stock's
+only worth three kajiggers!
+
+251
+00:20:23,013 --> 00:20:24,492  X1:297 X2:419 Y1:495 Y2:516
+Come on!
+
+252
+00:20:24,693 --> 00:20:27,810  X1:173 X2:542 Y1:455 Y2:516
+It's worth less now
+than when it was worthless!
+
+253
+00:20:28,013 --> 00:20:32,803  X1:183 X2:536 Y1:455 Y2:516
+It is? We're poor no matter
+what I do! The deal is off!
+
+254
+00:20:35,813 --> 00:20:39,328  X1:170 X2:548 Y1:451 Y2:516
+Once again, the conservative
+sandwich-heavy portfolio...
+
+255
+00:20:39,573 --> 00:20:42,804  X1:133 X2:584 Y1:490 Y2:516
+...pays off for the hungry investor!
+
+256
+00:20:44,013 --> 00:20:47,005  X1:261 X2:455 Y1:492 Y2:516
+Oh, I'm ruined!
+
+257
+00:20:47,333 --> 00:20:49,563  X1:281 X2:435 Y1:490 Y2:516
+Why? Why?
+
+258
+00:20:49,773 --> 00:20:54,130  X1:142 X2:574 Y1:450 Y2:516
+So we're not millionaires.
+But we still get to work together.
+
+259
+00:20:54,373 --> 00:20:56,807  X1:222 X2:493 Y1:490 Y2:516
+Shut your fat mouth!
+
+260
+00:20:57,013 --> 00:20:59,368  X1:209 X2:505 Y1:490 Y2:516
+See you guys Monday!
+
+0
+00:00:0,500 --> 00:00:2,00
+<font color="#ffff00" size=14>www.tvsubtitles.net</font>

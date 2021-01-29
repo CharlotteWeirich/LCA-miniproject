@@ -1,0 +1,1004 @@
+1
+00:00:07,255 --> 00:00:09,405  X1:230 X2:487 Y1:495 Y2:516
+Birdbot of IceCatraz
+
+2
+00:00:32,695 --> 00:00:37,052  X1:139 X2:576 Y1:061 Y2:126
+Those cookies are fresh-a-licious,
+but they produce a lot of trash.
+
+3
+00:00:51,175 --> 00:00:54,451  X1:199 X2:516 Y1:061 Y2:126
+That head spray makes
+your antenna smell nice.
+
+4
+00:00:54,695 --> 00:00:57,414  X1:165 X2:550 Y1:061 Y2:126
+- Thank you.
+- But it's damaging the planet.
+
+5
+00:00:57,655 --> 00:01:00,123  X1:121 X2:593 Y1:061 Y2:088
+So? It's not the only one we've got.
+
+6
+00:01:00,375 --> 00:01:05,893  X1:108 X2:607 Y1:061 Y2:127
+Good news! I'm sending you
+on an extremely controversial mission.
+
+7
+00:01:06,095 --> 00:01:09,007  X1:262 X2:455 Y1:061 Y2:126
+- Controversial?
+- Oh, my, no.
+
+8
+00:01:09,215 --> 00:01:14,448  X1:120 X2:596 Y1:061 Y2:126
+For this highly controversial mission,
+you'll be towing the <i>Juan Valdez...</i>
+
+9
+00:01:14,655 --> 00:01:18,489  X1:163 X2:551 Y1:061 Y2:121
+...an orbiting supertanker
+full of Colombian dark matter.
+
+10
+00:01:18,735 --> 00:01:21,932  X1:161 X2:556 Y1:456 Y2:516
+Oil? What if we hit something,
+and the tanker leaks?
+
+11
+00:01:22,175 --> 00:01:25,804  X1:182 X2:532 Y1:061 Y2:121
+lmpossible.
+The tanker has 6000 hulls.
+
+12
+00:01:26,015 --> 00:01:29,928  X1:215 X2:499 Y1:061 Y2:126
+So, unlike me,
+it's entirely leakproof.
+
+13
+00:01:30,135 --> 00:01:33,684  X1:159 X2:559 Y1:061 Y2:127
+Once you've hauled the tanker
+past the protestors...
+
+14
+00:01:33,935 --> 00:01:37,325  X1:172 X2:543 Y1:456 Y2:516
+- Protestors?
+- Correct. Six thousand hulls.
+
+15
+00:01:37,575 --> 00:01:41,284  X1:151 X2:567 Y1:451 Y2:516
+Why do we fly within three feet
+of this penguin preserve?
+
+16
+00:01:41,535 --> 00:01:43,412  X1:210 X2:505 Y1:495 Y2:516
+To avoid the tollbooth.
+
+17
+00:01:45,095 --> 00:01:48,405  X1:113 X2:601 Y1:450 Y2:516
+She's restocked with emergency jam.
+Let's get going.
+
+18
+00:01:48,655 --> 00:01:53,490  X1:118 X2:597 Y1:451 Y2:516
+At the risk of sounding negative, no.
+I can't participate in this mission.
+
+19
+00:01:53,655 --> 00:01:55,293  X1:167 X2:550 Y1:490 Y2:516
+What are you yapping about?
+
+20
+00:01:55,455 --> 00:01:58,845  X1:206 X2:509 Y1:456 Y2:516
+Your reckless disregard
+for the environment!
+
+21
+00:01:59,095 --> 00:02:01,211  X1:150 X2:565 Y1:489 Y2:516
+I'm gonna join those protestors.
+
+22
+00:02:01,455 --> 00:02:06,006  X1:143 X2:573 Y1:451 Y2:516
+This is an outrage. I demand you
+hand over your captain's jacket.
+
+23
+00:02:06,175 --> 00:02:09,133  X1:195 X2:520 Y1:451 Y2:516
+This is my normal jacket.
+I've had it 1 0 years.
+
+24
+00:02:09,375 --> 00:02:12,253  X1:231 X2:484 Y1:493 Y2:516
+I said, hand it over.
+
+25
+00:02:13,175 --> 00:02:17,805  X1:194 X2:524 Y1:451 Y2:516
+Well, Fry, or should I say
+Captain Fry?
+
+26
+00:02:18,055 --> 00:02:21,013  X1:185 X2:531 Y1:450 Y2:516
+No, I shouldn't.
+Bender is the new captain.
+
+27
+00:02:21,255 --> 00:02:22,688  X1:274 X2:442 Y1:451 Y2:516
+- Bender?
+- That's right.
+
+28
+00:02:22,855 --> 00:02:25,653  X1:177 X2:537 Y1:456 Y2:516
+Being captain
+is about intuition and heart.
+
+29
+00:02:25,895 --> 00:02:28,045  X1:139 X2:575 Y1:489 Y2:516
+A good captain can't have either.
+
+30
+00:02:28,295 --> 00:02:32,004  X1:152 X2:565 Y1:450 Y2:516
+That's why cold, logical Bender
+is perfect for the job.
+
+31
+00:02:32,255 --> 00:02:35,213  X1:207 X2:511 Y1:451 Y2:516
+I do think of human life
+as expendable.
+
+32
+00:02:35,415 --> 00:02:38,213  X1:122 X2:594 Y1:451 Y2:516
+No fair!
+Leela was training me to be captain.
+
+33
+00:02:38,415 --> 00:02:42,169  X1:127 X2:588 Y1:456 Y2:516
+She let me sit on her lap and steer,
+in this comic I drew.
+
+34
+00:02:42,335 --> 00:02:44,212  X1:231 X2:484 Y1:494 Y2:516
+The new one's out!
+
+35
+00:02:44,455 --> 00:02:47,686  X1:171 X2:545 Y1:451 Y2:516
+The title of captain
+may inflate the human ego...
+
+36
+00:02:47,895 --> 00:02:52,013  X1:172 X2:546 Y1:450 Y2:516
+...but it's beneath the notice
+of my mighty robo-logic.
+
+37
+00:02:52,215 --> 00:02:56,288  X1:210 X2:505 Y1:456 Y2:516
+Now, look spry, men.
+We launch at six bells.
+
+38
+00:03:06,055 --> 00:03:11,846  X1:142 X2:574 Y1:450 Y2:516
+Greetings. I'm Free Waterfall Sr.,
+founder of Penguins Unlimited.
+
+39
+00:03:12,015 --> 00:03:14,768  X1:169 X2:545 Y1:451 Y2:516
+No applause.
+When you clap your hands...
+
+40
+00:03:14,935 --> 00:03:19,770  X1:119 X2:598 Y1:450 Y2:516
+...you kill thousands of spores that'll
+someday form a nutritious fungus.
+
+41
+00:03:19,975 --> 00:03:23,854  X1:150 X2:564 Y1:451 Y2:516
+Just show your approval
+with a mold-friendly thumbs up.
+
+42
+00:03:24,095 --> 00:03:26,655  X1:108 X2:608 Y1:490 Y2:516
+Please hold your thumbs until the end.
+
+43
+00:03:26,895 --> 00:03:30,934  X1:153 X2:561 Y1:455 Y2:516
+It's time to stop that tanker
+with a nonviolent human circle.
+
+44
+00:03:31,135 --> 00:03:34,445  X1:180 X2:537 Y1:456 Y2:516
+Why resort to nonviolence?
+Can't we kick their asses?
+
+45
+00:03:34,695 --> 00:03:38,244  X1:150 X2:568 Y1:450 Y2:516
+Little lady, those people's asses
+are living things too.
+
+46
+00:03:43,775 --> 00:03:46,926  X1:192 X2:523 Y1:450 Y2:516
+We're hitched up tighter
+than Davy Jones' U-Haul.
+
+47
+00:03:47,135 --> 00:03:49,410  X1:263 X2:453 Y1:456 Y2:516
+- At ease, men.
+- I am at ease.
+
+48
+00:03:49,615 --> 00:03:53,051  X1:188 X2:530 Y1:456 Y2:516
+I like to give my first mate
+an informal nickname.
+
+49
+00:03:53,295 --> 00:03:56,412  X1:174 X2:541 Y1:451 Y2:516
+From now on,
+you'll be known as Wiggles.
+
+50
+00:03:56,655 --> 00:04:01,251  X1:132 X2:584 Y1:451 Y2:516
+The hell I will. Have you even read
+the captain's handbook?
+
+51
+00:04:01,455 --> 00:04:05,243  X1:138 X2:580 Y1:450 Y2:516
+I have now. What's Peter Parrot's
+first rule of captaining?
+
+52
+00:04:05,455 --> 00:04:08,447  X1:144 X2:570 Y1:450 Y2:516
+"Always respect
+the chain o' command," captain.
+
+53
+00:04:08,695 --> 00:04:14,406  X1:119 X2:598 Y1:450 Y2:516
+Correct, Wiggles. You've just earned
+an invitation to the captain's table.
+
+54
+00:04:14,615 --> 00:04:17,925  X1:120 X2:594 Y1:489 Y2:516
+The captain's table? What an honor.
+
+55
+00:04:19,295 --> 00:04:24,005  X1:139 X2:576 Y1:451 Y2:516
+Our peace ring has them trapped
+like a tiger in a washing machine.
+
+56
+00:04:25,735 --> 00:04:28,966  X1:158 X2:557 Y1:451 Y2:516
+- Get ready.
+- Look at that. Here they come.
+
+57
+00:04:33,095 --> 00:04:37,930  X1:157 X2:559 Y1:455 Y2:516
+Didn't you realize spaceships
+can move in three dimensions?
+
+58
+00:04:38,175 --> 00:04:39,210  X1:272 X2:443 Y1:493 Y2:516
+No, I did not.
+
+59
+00:04:48,815 --> 00:04:53,286  X1:136 X2:580 Y1:451 Y2:516
+That tanker gave us the slip,
+but we'll stop them here on Pluto.
+
+60
+00:04:53,535 --> 00:04:58,290  X1:124 X2:592 Y1:450 Y2:516
+If you're cold, rub your bodies with
+permafrost. It's nature's long johns.
+
+61
+00:04:58,775 --> 00:05:02,927  X1:142 X2:573 Y1:451 Y2:516
+If rubbing dirt in your crotch
+is wrong, I don't wanna be right.
+
+62
+00:05:03,695 --> 00:05:06,846  X1:136 X2:579 Y1:490 Y2:516
+This here is our penguin preserve.
+
+63
+00:05:07,575 --> 00:05:12,205  X1:156 X2:561 Y1:455 Y2:516
+They're so cute, like if puppies
+and kittens could have babies.
+
+64
+00:05:12,455 --> 00:05:17,404  X1:087 X2:629 Y1:456 Y2:516
+We use hand puppets around young ones
+to simulate a natural environment.
+
+65
+00:05:22,215 --> 00:05:25,013  X1:252 X2:462 Y1:494 Y2:516
+That's adorable.
+
+66
+00:05:29,495 --> 00:05:31,804  X1:140 X2:576 Y1:061 Y2:088
+It's this medal I'm most proud of.
+
+67
+00:05:32,015 --> 00:05:36,054  X1:153 X2:561 Y1:451 Y2:516
+I won it for saving the children
+of Earth from a giant kangaroo.
+
+68
+00:05:36,255 --> 00:05:38,974  X1:184 X2:531 Y1:456 Y2:516
+It was on Australian news.
+You didn't see it.
+
+69
+00:05:39,135 --> 00:05:42,013  X1:164 X2:554 Y1:451 Y2:516
+- Brilliant.
+- Would you cram a sock in it?
+
+70
+00:05:42,255 --> 00:05:47,010  X1:132 X2:585 Y1:450 Y2:516
+Those aren't even medals. They're
+bottle caps and pepperoni slices.
+
+71
+00:05:47,855 --> 00:05:49,288  X1:224 X2:491 Y1:490 Y2:516
+Thank you, steward.
+
+72
+00:05:49,535 --> 00:05:52,811  X1:181 X2:536 Y1:450 Y2:516
+Weren't you about to toast
+your gallant captain?
+
+73
+00:05:53,015 --> 00:05:57,611  X1:126 X2:588 Y1:450 Y2:516
+Fine, I've got a toast.
+To Captain Bender. He's the best...
+
+74
+00:05:57,815 --> 00:06:01,410  X1:130 X2:588 Y1:456 Y2:516
+...at being a jerk, and his ugly face
+is as dumb as a butt.
+
+75
+00:06:01,615 --> 00:06:03,094  X1:246 X2:469 Y1:494 Y2:516
+I've heard better.
+
+76
+00:06:03,295 --> 00:06:06,492  X1:169 X2:546 Y1:451 Y2:516
+If I were in charge,
+I wouldn't treat you like this.
+
+77
+00:06:06,655 --> 00:06:08,611  X1:154 X2:560 Y1:489 Y2:516
+You're nothing but a blowhard.
+
+78
+00:06:09,455 --> 00:06:12,811  X1:141 X2:573 Y1:490 Y2:516
+Sir, you forget yourself. Shut up.
+
+79
+00:06:17,695 --> 00:06:22,132  X1:106 X2:611 Y1:451 Y2:516
+Being captain is more important to you
+than being my friend. I'm going.
+
+80
+00:06:22,295 --> 00:06:27,813  X1:148 X2:569 Y1:455 Y2:516
+Going? But a captain can't drink
+without his first mate.
+
+81
+00:06:30,255 --> 00:06:34,009  X1:148 X2:569 Y1:451 Y2:516
+- You can drink with me, maybe?
+- I don't feel like drinking.
+
+82
+00:06:34,255 --> 00:06:36,007  X1:183 X2:531 Y1:489 Y2:516
+Then if you'll excuse me...
+
+83
+00:06:36,175 --> 00:06:40,009  X1:127 X2:587 Y1:451 Y2:516
+...I see some ravioli
+that only has two shoe prints on it.
+
+84
+00:06:40,255 --> 00:06:41,608  X1:317 X2:398 Y1:495 Y2:516
+Three.
+
+85
+00:06:58,375 --> 00:07:02,414  X1:146 X2:569 Y1:456 Y2:516
+Please have some liquor.
+Robots need alcohol to function.
+
+86
+00:07:02,615 --> 00:07:06,324  X1:229 X2:489 Y1:456 Y2:516
+I once knew a guy...
+You look like him.
+
+87
+00:07:06,575 --> 00:07:09,408  X1:224 X2:492 Y1:494 Y2:516
+He wasn't neither...
+
+88
+00:07:09,655 --> 00:07:14,854  X1:152 X2:564 Y1:450 Y2:516
+- I'm a good captain.
+- Please, I love you like a father!
+
+89
+00:07:19,335 --> 00:07:21,565  X1:164 X2:551 Y1:061 Y2:087
+Oh, I hope they read my sign!
+
+90
+00:07:25,495 --> 00:07:30,364  X1:122 X2:593 Y1:450 Y2:516
+- Bender's too low and upside down.
+- He must be talking on a cell phone.
+
+91
+00:07:41,655 --> 00:07:46,445  X1:123 X2:593 Y1:455 Y2:516
+- What's happening?
+- All 6000 hulls have been breached.
+
+92
+00:07:46,655 --> 00:07:52,252  X1:140 X2:578 Y1:450 Y2:516
+Fools. If only they'd built it with
+6001 hulls. When will they learn?
+
+93
+00:08:07,535 --> 00:08:11,528  X1:123 X2:593 Y1:451 Y2:516
+<i>Continuing our coverage of a tragic,</i>
+<i>but faraway, story.</i>
+
+94
+00:08:11,735 --> 00:08:15,967  X1:181 X2:538 Y1:451 Y2:516
+<i>The crisis on Pluto worsens</i>
+<i>as dark matter spreads.</i>
+
+95
+00:08:16,175 --> 00:08:19,451  X1:173 X2:544 Y1:490 Y2:516
+<i>The images are truly horrific.</i>
+
+96
+00:08:25,055 --> 00:08:30,573  X1:106 X2:612 Y1:451 Y2:516
+<i>I don 't think any of us can understand</i>
+<i>how those poor penguins feel.</i>
+
+97
+00:08:32,215 --> 00:08:34,809  X1:262 X2:452 Y1:490 Y2:516
+<i>Oily humanoid.</i>
+
+98
+00:08:36,015 --> 00:08:41,009  X1:114 X2:598 Y1:451 Y2:516
+<i>At the time of the crash, the captain</i>
+<i>had an alcohol level of. 08 percent...</i>
+
+99
+00:08:41,215 --> 00:08:45,003  X1:181 X2:538 Y1:456 Y2:516
+<i>... well below the legal limit</i>
+<i>for robots.</i>
+
+100
+00:08:45,255 --> 00:08:50,807  X1:127 X2:588 Y1:450 Y2:516
+As your lawyer, I declare y'all
+are in a 1 2-piece bucket of trouble.
+
+101
+00:08:51,015 --> 00:08:54,849  X1:133 X2:582 Y1:451 Y2:516
+But I struck you a deal.
+Five hours of community service...
+
+102
+00:08:55,015 --> 00:08:56,687  X1:197 X2:519 Y1:490 Y2:516
+...cleaning up that mess.
+
+103
+00:08:56,935 --> 00:09:01,008  X1:137 X2:578 Y1:450 Y2:516
+Five hours? Couldn't you have
+just gotten me the death penalty?
+
+104
+00:09:01,255 --> 00:09:04,725  X1:158 X2:557 Y1:450 Y2:516
+I'd have done better,
+but it's hard pleading a case...
+
+105
+00:09:04,895 --> 00:09:07,807  X1:222 X2:495 Y1:451 Y2:516
+...while awaiting trial
+for incompetence.
+
+106
+00:09:08,015 --> 00:09:10,654  X1:224 X2:490 Y1:495 Y2:516
+Good luck with that.
+
+107
+00:09:27,535 --> 00:09:31,414  X1:201 X2:514 Y1:456 Y2:516
+Now, you stay away
+from those Puffin twins.
+
+108
+00:09:32,135 --> 00:09:36,094  X1:102 X2:614 Y1:451 Y2:516
+To avoid frostbite,
+put your hands between your buttocks.
+
+109
+00:09:36,335 --> 00:09:38,007  X1:206 X2:509 Y1:489 Y2:516
+That's nature's pocket.
+
+110
+00:09:38,215 --> 00:09:42,413  X1:100 X2:615 Y1:450 Y2:516
+- I'll check on Bender.
+- Watch so he doesn't pick your pocket.
+
+111
+00:09:46,895 --> 00:09:48,613  X1:184 X2:532 Y1:489 Y2:516
+Can't beat fresh-squeezed.
+
+112
+00:09:48,815 --> 00:09:53,206  X1:146 X2:570 Y1:451 Y2:516
+Bender, can you at least pretend
+you're being punished?
+
+113
+00:09:54,375 --> 00:09:56,127  X1:190 X2:525 Y1:490 Y2:516
+Clean the black parts too.
+
+114
+00:09:58,135 --> 00:10:00,774  X1:118 X2:597 Y1:490 Y2:516
+Are they black with white feathers...
+
+115
+00:10:00,935 --> 00:10:05,690  X1:128 X2:588 Y1:451 Y2:516
+...or white with black feathers?
+- Don't matter. They're all beautiful.
+
+116
+00:10:05,935 --> 00:10:10,725  X1:127 X2:587 Y1:456 Y2:516
+Yo, screws, more Tegrin over here.
+What's this?
+
+117
+00:10:27,895 --> 00:10:30,125  X1:236 X2:479 Y1:490 Y2:516
+Man, he got away.
+
+118
+00:10:30,495 --> 00:10:32,133  X1:131 X2:584 Y1:490 Y2:516
+This is why chief says no hugging.
+
+119
+00:10:34,415 --> 00:10:37,646  X1:163 X2:552 Y1:451 Y2:516
+Good work, everyone.
+I suggest you get some sleep.
+
+120
+00:10:37,895 --> 00:10:44,414  X1:106 X2:613 Y1:450 Y2:516
+I'm gonna stay up singing songs about
+penguins in a fine, piercing tenor.
+
+121
+00:10:44,615 --> 00:10:50,053  X1:138 X2:578 Y1:454 Y2:516
+Has anyone seen Bender? Bender!
+Here robot, robot, robot.
+
+122
+00:10:51,895 --> 00:10:54,853  X1:150 X2:567 Y1:450 Y2:516
+Why weren't you Kong donkeys
+cleaning up?
+
+123
+00:10:55,095 --> 00:10:58,770  X1:153 X2:561 Y1:451 Y2:516
+They sent us inside
+for doing an unsatisfactory job.
+
+124
+00:10:58,975 --> 00:11:02,285  X1:187 X2:528 Y1:456 Y2:516
+- And eating penguin eggs.
+- You ate most of them.
+
+125
+00:11:02,495 --> 00:11:07,649  X1:107 X2:610 Y1:450 Y2:516
+Where's Captain Bender?
+Off catastrophizing some other planet?
+
+126
+00:11:07,895 --> 00:11:13,447  X1:114 X2:601 Y1:450 Y2:516
+- Damn it, Fry! He's still your captain!
+- He didn't come back with the group.
+
+127
+00:11:13,695 --> 00:11:14,810  X1:288 X2:430 Y1:455 Y2:516
+- He didn't?
+- No.
+
+128
+00:11:15,015 --> 00:11:18,803  X1:121 X2:595 Y1:450 Y2:516
+It's 20 degrees below absolute zero.
+I better go find him.
+
+129
+00:11:19,015 --> 00:11:23,293  X1:098 X2:617 Y1:456 Y2:516
+Wait. Bender and I have disagreements,
+but we're still friends...
+
+130
+00:11:23,495 --> 00:11:26,805  X1:184 X2:534 Y1:455 Y2:516
+...and I'm gonna show him
+what that means.
+
+131
+00:11:27,855 --> 00:11:28,924  X1:280 X2:435 Y1:490 Y2:516
+To the ship.
+
+132
+00:11:29,175 --> 00:11:32,611  X1:145 X2:571 Y1:450 Y2:516
+Why don't you walk?
+He was only 20 yards from here.
+
+133
+00:11:32,855 --> 00:11:34,686  X1:154 X2:562 Y1:493 Y2:516
+Madam, I am in command now.
+
+134
+00:11:34,935 --> 00:11:39,565  X1:182 X2:535 Y1:453 Y2:516
+Such a man. I'd follow him
+to hell and back, I would.
+
+135
+00:11:53,575 --> 00:11:55,213  X1:282 X2:435 Y1:495 Y2:516
+What the...?
+
+136
+00:11:58,775 --> 00:12:03,212  X1:149 X2:567 Y1:450 Y2:516
+What's this water made of, ice?
+Forget this!
+
+137
+00:12:44,455 --> 00:12:48,926  X1:100 X2:615 Y1:450 Y2:516
+I don't think we're on Pluto.
+We may have left space as we know it.
+
+138
+00:12:49,175 --> 00:12:50,403  X1:226 X2:491 Y1:495 Y2:516
+Then where are we?
+
+139
+00:12:50,615 --> 00:12:55,006  X1:115 X2:600 Y1:451 Y2:516
+- You said you knew how to navigate.
+- Stop yelling at me.
+
+140
+00:14:08,215 --> 00:14:13,005  X1:117 X2:600 Y1:450 Y2:516
+It's worse than we thought. It seems
+dark matter is nature's sex drug.
+
+141
+00:14:13,255 --> 00:14:18,807  X1:096 X2:620 Y1:450 Y2:516
+It's like a mix of penguin estrogen,
+penguin Viagra and Spanish penguin fly.
+
+142
+00:14:19,055 --> 00:14:21,888  X1:169 X2:546 Y1:455 Y2:516
+- It's making them ultrafertile.
+- How ultra?
+
+143
+00:14:22,095 --> 00:14:25,212  X1:195 X2:522 Y1:451 Y2:516
+A garden-variety penguin
+lays one egg a year.
+
+144
+00:14:25,415 --> 00:14:29,886  X1:159 X2:556 Y1:451 Y2:516
+Since the spill, our penguins
+lay six eggs every 1 5 minutes!
+
+145
+00:14:30,095 --> 00:14:33,007  X1:106 X2:608 Y1:490 Y2:516
+Also, the eggs hatch in only 1 2 hours!
+
+146
+00:14:33,215 --> 00:14:36,013  X1:149 X2:566 Y1:490 Y2:516
+Also, the males are laying eggs!
+
+147
+00:14:37,735 --> 00:14:40,613  X1:188 X2:527 Y1:490 Y2:516
+This man has overgasped!
+
+148
+00:14:40,975 --> 00:14:44,047  X1:169 X2:548 Y1:456 Y2:516
+Soon, there will be too many
+birds to count.
+
+149
+00:14:44,255 --> 00:14:49,727  X1:111 X2:603 Y1:451 Y2:516
+Before long, they will exhaust
+their food supply and starve to death.
+
+150
+00:14:49,935 --> 00:14:55,009  X1:140 X2:574 Y1:450 Y2:516
+If only we hadn't flown penguins
+to Pluto and dumped oil on them.
+
+151
+00:14:55,215 --> 00:15:00,972  X1:109 X2:609 Y1:450 Y2:516
+- Can't we stop them from multiplying?
+- Yes. Thankfully, we have a plan.
+
+152
+00:15:01,175 --> 00:15:04,850  X1:160 X2:556 Y1:450 Y2:516
+- What is it? We'll do anything!
+- Grab your guns.
+
+153
+00:15:05,055 --> 00:15:09,333  X1:144 X2:573 Y1:451 Y2:516
+I declare penguin hunting season
+officially open!
+
+154
+00:15:18,415 --> 00:15:21,964  X1:171 X2:546 Y1:450 Y2:516
+Isn't there some way
+to keep them from breeding?
+
+155
+00:15:22,175 --> 00:15:25,292  X1:195 X2:522 Y1:455 Y2:516
+Cold showers don't work
+on Antarctic creatures.
+
+156
+00:15:25,495 --> 00:15:30,364  X1:133 X2:583 Y1:456 Y2:516
+Surely, a quick semipainless death
+is better than weeks of starvation.
+
+157
+00:15:30,575 --> 00:15:32,805  X1:253 X2:462 Y1:490 Y2:516
+Well, I suppose.
+
+158
+00:15:33,055 --> 00:15:37,367  X1:144 X2:571 Y1:451 Y2:516
+But I joined Penguins Unlimited
+to love penguins, not hunt them.
+
+159
+00:15:37,575 --> 00:15:39,293  X1:154 X2:561 Y1:495 Y2:516
+The two are one and the same.
+
+160
+00:15:39,495 --> 00:15:44,091  X1:125 X2:592 Y1:451 Y2:516
+Now, are you with us, or are you
+gonna let innocent penguins suffer?
+
+161
+00:15:45,255 --> 00:15:50,045  X1:169 X2:546 Y1:450 Y2:516
+Oh, God, it's inhuman!
+It's like Hong Kong! I'll do it!
+
+162
+00:15:51,495 --> 00:15:55,488  X1:142 X2:573 Y1:455 Y2:516
+That's a good old-fashioned gun.
+Rifle check!
+
+163
+00:15:55,695 --> 00:15:58,607  X1:276 X2:439 Y1:451 Y2:516
+- Oh, yeah!
+- Wee doggy!
+
+164
+00:15:58,815 --> 00:16:00,692  X1:223 X2:491 Y1:489 Y2:516
+You're enjoying this!
+
+165
+00:16:00,895 --> 00:16:06,174  X1:119 X2:598 Y1:451 Y2:516
+Look, if you have to shoot penguins,
+you might as well enjoy it.
+
+166
+00:16:06,375 --> 00:16:10,288  X1:173 X2:543 Y1:455 Y2:516
+Sorry, if it's fun in any way,
+it's not environmentalism.
+
+167
+00:16:10,535 --> 00:16:15,290  X1:111 X2:607 Y1:454 Y2:516
+- Really? How about blowing up dams?
+- Yeah, that is fun.
+
+168
+00:16:15,495 --> 00:16:17,326  X1:247 X2:469 Y1:494 Y2:516
+Let's conservate!
+
+169
+00:16:20,895 --> 00:16:23,728  X1:107 X2:608 Y1:489 Y2:516
+It's been an honor to serve under you!
+
+170
+00:16:30,215 --> 00:16:32,524  X1:184 X2:530 Y1:490 Y2:516
+This is for their own good.
+
+171
+00:16:32,775 --> 00:16:37,087  X1:199 X2:515 Y1:455 Y2:516
+Don't leave orphans.
+Gotta kill entire families.
+
+172
+00:16:40,255 --> 00:16:46,728  X1:111 X2:603 Y1:450 Y2:516
+They're so cute. No! You can do this.
+It's like murdering a little butler.
+
+173
+00:16:46,975 --> 00:16:49,887  X1:280 X2:435 Y1:494 Y2:516
+I can't look.
+
+174
+00:16:54,535 --> 00:16:58,494  X1:178 X2:537 Y1:493 Y2:516
+Oh, no! What have I done?!
+
+175
+00:17:02,295 --> 00:17:04,684  X1:233 X2:482 Y1:490 Y2:516
+You poor little guy!
+
+176
+00:17:05,015 --> 00:17:07,290  X1:201 X2:515 Y1:489 Y2:516
+I'm so sorry l... Bender?!
+
+177
+00:17:15,815 --> 00:17:18,648  X1:111 X2:606 Y1:490 Y2:516
+Were you hiding out with these guys?
+
+178
+00:17:18,855 --> 00:17:21,005  X1:167 X2:548 Y1:490 Y2:516
+Of course not! Filthy ice rats!
+
+179
+00:17:21,215 --> 00:17:22,807  X1:281 X2:433 Y1:495 Y2:516
+Scat! Shoo!
+
+180
+00:17:23,495 --> 00:17:25,406  X1:152 X2:563 Y1:490 Y2:516
+What are you doing? Get away!
+
+181
+00:17:25,615 --> 00:17:29,654  X1:200 X2:516 Y1:454 Y2:516
+- They love you.
+- Well, I don't love them.
+
+182
+00:17:35,175 --> 00:17:38,485  X1:151 X2:564 Y1:455 Y2:516
+I don't know why,
+but when I look at their faces...
+
+183
+00:17:38,695 --> 00:17:42,483  X1:171 X2:546 Y1:451 Y2:516
+...it makes me want to puke!
+In a good way.
+
+184
+00:17:52,535 --> 00:17:54,605  X1:223 X2:492 Y1:490 Y2:516
+Stop! Stop shooting!
+
+185
+00:17:54,815 --> 00:17:57,568  X1:261 X2:455 Y1:450 Y2:516
+- It's me! Leela!
+- Sorry.
+
+186
+00:17:57,775 --> 00:18:01,688  X1:158 X2:558 Y1:450 Y2:516
+Why aren't you firing at them?
+Don't you want to help them?
+
+187
+00:18:01,895 --> 00:18:06,366  X1:109 X2:607 Y1:451 Y2:516
+- Not this way.
+- You're not a tree-hugging kook at all!
+
+188
+00:18:06,575 --> 00:18:09,965  X1:139 X2:578 Y1:450 Y2:516
+I don't know if shooting penguins
+will help or not.
+
+189
+00:18:10,175 --> 00:18:15,568  X1:117 X2:598 Y1:450 Y2:516
+But the decision shouldn't be in the
+hands of people who kill just for fun.
+
+190
+00:18:15,775 --> 00:18:19,404  X1:174 X2:540 Y1:451 Y2:516
+You may just be farming
+some free-range truth there.
+
+191
+00:18:20,015 --> 00:18:24,167  X1:140 X2:577 Y1:451 Y2:516
+But we already made 200 pounds
+of batter for penguin tempura.
+
+192
+00:18:24,375 --> 00:18:28,288  X1:171 X2:545 Y1:455 Y2:516
+- Okay, boys, it's them or us!
+- No!
+
+193
+00:18:29,055 --> 00:18:31,125  X1:238 X2:479 Y1:456 Y2:516
+- Where did they...?
+- Attack!
+
+194
+00:18:47,495 --> 00:18:50,726  X1:161 X2:557 Y1:451 Y2:516
+Make sure they use every part
+of my body!
+
+195
+00:18:50,975 --> 00:18:53,170  X1:180 X2:536 Y1:489 Y2:516
+I'll avenge your death, son!
+
+196
+00:18:53,655 --> 00:18:57,443  X1:156 X2:561 Y1:451 Y2:516
+They used to be peaceful.
+I suppose this was your doing?
+
+197
+00:18:57,655 --> 00:19:01,887  X1:172 X2:546 Y1:450 Y2:516
+I taught them if it ain't black
+and white, peck and bite.
+
+198
+00:19:02,095 --> 00:19:05,485  X1:159 X2:557 Y1:490 Y2:516
+Now, to take off my tuxedo...
+
+199
+00:19:08,815 --> 00:19:12,490  X1:123 X2:592 Y1:489 Y2:516
+Guys, it's me, your lovable dictator!
+
+200
+00:19:19,055 --> 00:19:20,966  X1:183 X2:533 Y1:490 Y2:516
+If only we had a toboggan!
+
+201
+00:19:23,575 --> 00:19:25,884  X1:265 X2:450 Y1:495 Y2:516
+Faster! Faster!
+
+202
+00:19:41,135 --> 00:19:45,287  X1:152 X2:563 Y1:451 Y2:516
+Right, they can swim.
+It's all coming back to me now.
+
+203
+00:19:50,415 --> 00:19:52,133  X1:296 X2:421 Y1:450 Y2:516
+- It's Fry!
+- Wiggles?
+
+204
+00:19:59,775 --> 00:20:02,733  X1:204 X2:511 Y1:450 Y2:516
+At least it'll help
+reduce their population.
+
+205
+00:20:02,935 --> 00:20:06,894  X1:170 X2:545 Y1:490 Y2:516
+Yeah, life is hilariously cruel.
+
+206
+00:20:12,015 --> 00:20:14,483  X1:172 X2:546 Y1:456 Y2:516
+- Permission to come aboard?
+- Granted.
+
+207
+00:20:14,695 --> 00:20:18,483  X1:107 X2:608 Y1:489 Y2:516
+We can't take off without our captain.
+
+208
+00:20:20,175 --> 00:20:22,405  X1:200 X2:514 Y1:490 Y2:516
+And bring my toboggan.
+
+209
+00:20:25,695 --> 00:20:30,325  X1:115 X2:602 Y1:451 Y2:516
+- Were you able to help the penguins?
+- Sure. I mean, not really.
+
+210
+00:20:30,535 --> 00:20:32,969  X1:185 X2:530 Y1:495 Y2:516
+Nature will work itself out.
+
+211
+00:20:33,135 --> 00:20:36,286  X1:176 X2:542 Y1:450 Y2:516
+It can't screw up any worse
+than we did, right?
+
+212
+00:20:36,455 --> 00:20:37,444  X1:271 X2:444 Y1:494 Y2:516
+I don't know.
+
+213
+00:20:37,615 --> 00:20:44,054  X1:104 X2:613 Y1:451 Y2:516
+Quit worrying! Thanks to my influence,
+those stupid birds will do just fine.
+
+0
+00:00:0,500 --> 00:00:2,00
+<font color="#ffff00" size=14>www.tvsubtitles.net</font>
