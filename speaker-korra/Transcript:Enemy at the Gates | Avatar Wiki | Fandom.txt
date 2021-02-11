@@ -1,0 +1,150 @@
+Guard	We have an emergency!
+Baatar	 I'll contact President Raiko. He'll send the United Forces.
+Suyin	 Call whomever you want, but they'll never make it in time.  Kuvira's already here and she brought her entire army.
+Kuvira	Don't get ahead of yourself. Securing your hometown won't be like every other city. [She walks over to the map, leaving Baatar Jr. at the window.]
+Kuvira	No. The eyes of the world are on us now. We must do this right. That's why we need Bolin.
+Kuvira	[Turning back to the map.] Su trusts him. She'll listen to him.
+Jinora	Are you sure we should be going to Zaofu? Dad wanted us to bring you back to Republic City.
+Korra	 If Kuvira's heading to Zaofu, so am I. She needs to know that the Avatar is back.  The world needs to know.
+Meelo	Woo-hoo! Avatar fight! This is going to be awesome!
+Korra	 Meelo, there's not gonna be a fight. Kuvira saved my dad. She was a captain in Su's guard; I think she can be reasoned with.
+Meelo	What? No fight? Why did we go through all that trouble to save you if you're not going to beat someone up?
+Varrick	Zhu Li! Is this thing on? 
+Varrick	Okay. I'm Varrick, of Varrick Industries, International-- [He smiles as he says his name.] --and this is Spirit Vine Experiment 3-02. Hand me the thing!
+Varrick	" In this stasis capsule is a preserved spirit vine sample weighing approximately two ""Zhu Lis""."
+Varrick	"I have postulated that these spirit vines are a form of pure energy that's unstable in what we call--  --""typical earth conditions"".  This machine should transfer the energy from the vine into a battery using electrical currents, reverse magnetic polarity, and a little-known phenomenon I like to call--  --the Varri-Effect!"
+Varrick	" It's working! It's registering five ""Varricks"" of power.  Now seven Varricks!"
+Varrick	Whoa! What is this? What's going on?
+Varrick	Zhu Li! Shut it down! There are too many Varricks!
+Varrick	You're too heavy! You know, you could stand to lose a few Zhu Lis!
+Zhu Li	[Softly.] Varrick ... you saved me.
+Varrick	 Of course I saved you.
+Varrick	I can't clean this place up by myself!  Grab a broom!
+Kuvira	What happened? Were we attacked?
+Varrick	 No! We were spirit-vined! But don't worry! I'm putting the kibosh on this project.
+Kuvira	No, you're not. Do you realize what we could do with this kind of power?
+Varrick	 Yes! I do! And that's why we gotta put an end to it! What if it fell into the wrong hands?
+Varrick	"[Hushed.] I know, it's not like me, right? Usually I look at a project like this and think, ""Wow! I could make a ton of money off this!"" But recently, I've been having these strange feelings ... inside. [Confused.] It's like I'm ... concerned with others. And there's this nagging voice in my head constantly telling me what's right from wrong!"
+Kuvira	[Unwavering.] Well, I'm the other voice in your head, and I'm telling you you will continue with this project.
+Varrick	Sorry, no. I just really gotta stand my ground on this one-- Whoa!
+Kuvira	And now there's a voice in my head telling me to drop you on the tracks.  Should I listen?
+Varrick	 No! No! Head voices are liars, what do head voices know? I'll work on the project! Please don't drop me!
+Hiroshi	Asami, you came.
+Asami	 I came to return these.
+Hiroshi	 You never opened them.
+Asami	Stop writing me. I never want to see or hear from you again. 
+Hiroshi	 Please, just let me say one thing, then I'll never contact you again.
+Hiroshi	I can't forgive myself for all the horrible things I've done. And I never expect you to forgive me. I tore our family apart, and destroyed our good name.  But in a life of regret, you're the one thing I look back on that makes me smile.  I just want you to know I'm so proud of you, Asami. You are the greatest thing I ever created.
+Bolin	Am ... I in trouble?
+Kuvira	No. In fact, I have good news. We want you to be a part of our inner circle.
+Bolin	 Inner circle? No way! Yes!  That is a great honor. What does it mean, exactly?
+Kuvira	It means you've proven your worth. We're so close to uniting the Empire, but Su has some resentment towards me and Baatar that might cloud her judgment and stop her from making a wise decision. We believe you can help her see clearly.
+Bolin	 I can do that! By the time I'm finished telling her all the great things we've done, she'll be begging to join!
+Kuvira	Good. Because we're here.
+Bolin	Aren't all these troops gonna send the wrong message?
+Kuvira	The army is here to project strength. You're here to present peace.
+Bolin	 Opal! You're here, too! 
+Opal	 No! You've chosen your side.
+Bolin	Sides? There shouldn't be sides!  I know, why don't we all stand in a circle, huh? Maybe hold hands?
+Suyin	 I'm not giving up Zaofu. I don't care if you brought your entire army.
+Kuvira	Su, I didn't bring my army to threaten you. I wanted to show you all that your son and I have accomplished.
+Suyin	 You must realize what you're doing goes against everything your father and I tried to teach you.
+Baatar	Son, you belong here.
+Suyin	Don't say that! Can't you see she's brainwashed you!
+Kuvira	 Ha! I didn't brainwash him! I set him free! And now he's accomplished more with me than he ever could with you.
+Bolin	 Okay, guys, obviously, there's a lot of personal, painful history here, so what do you say we just all forget about that stuff, huh? I mean, that's the past!  Right Wing? Right Wei? You guys know what I'm talkin' 'bout, right? High five!  All right. No, that's cool.  You know what I think we need to do? Focus on the future! And the future is bright, let me tell you!  I've seen it! Yeah!  Saw it last month! We went to this town that had nothing. Most of the people there had never seen a Satomobile before. Now, they have two Satomobiles, running water, and a magnet train that goes right through their town! I mean, how awesome is that?
+Opal	They might have been happy when you first arrived, but I've seen what happens after you leave. Citizens are forced to work as slave labor, dissenters are sent off to who-knows-where!
+Bolin	You're wrong, Opal! Now, I don't know what you think you've seen, but I am giving you the one-hundred-percent Bolin guarantee that we're making the Earth Empire a better place to live!
+Suyin	 I can't believe you brought Bolin here to try and sway us. Leave! Zaofu will never accept you as their leader!
+Kuvira	 Then you leave me no choice. You have twenty-four hours to agree to join the Empire, or we take the city by force.
+Meelo	I see it! Zaofu! We made it!  And a bunch of other people are here, too.
+Korra	 Oh, no. I hope we're not too late.
+Suyin	Korra? I can't believe it, where have you been?  You disappeared; everyone was so worried!
+Korra	I'll tell you the whole story later. Right now, I want to help you stop Kuvira. What can I do?
+Bolin	You were just bluffing, right? I mean, you're not really gonna attack Zaofu ... are you?
+Kuvira	When people don't cooperate, we must find other ways of convincing them to join.
+Bolin	" Other ... ways? How many ... times have we used these ""other ways"" in the past?"
+Kuvira	 It's not for you to worry about.
+Bolin	So, uh ... what does happen to all those towns and villages after we leave? I just realized I'd never really ... gone back and ... checked on them.
+Kuvira	 Those people are my loyal subjects, and they contribute to the Empire however I see fit. Now that you're in the inner circle, you're going to have to accept some hard truths.
+Bolin	"Maybe ... I'm not really an ""inner circle"" kind of guy. Or--or maybe, we don't take over Zaofu! Maybe we can just--let them be on their own, and then, ""Yay! The Empire's united! Congratulations to us!"""
+Kuvira	I didn't know your personal feelings for Opal were stronger than your loyalty to me. Zaofu will join us. The only thing I'm second-guessing is my decision to bring you along. Maybe you need to spend some time in a reeducation camp.
+Bolin	I ... thought that's where we sent people to learn new trade skills.
+Kuvira	[Menacingly.] Your loyalty seems to be wavering.
+Bolin	 No--no, I'm totally on your side, completely, one-hundred-percent loyal.
+Korra	How did things get so bad between you and Kuvira? I thought she was your protégé.
+Suyin	She was more than that. She was like a daughter to me. I took her in when she was eight years old and nourished her talents. Kuvira was smart, a natural leader, and quickly rose through the ranks. I saw myself in her.
+Korra	What happened?
+Suyin	 Three years ago, after the fall of the Earth Queen, Raiko and Tenzin came to see me.
+Raiko	The Earth Kingdom is in chaos. There's a vacuum of power, and I'm concerned about what will happen if someone doesn't take control of the situation.
+Suyin	And you think I should be the one?
+Tenzin	You're the perfect person to take charge. The world leaders trust you, and, as a Beifong, you have credibility in the Earth Kingdom.
+Suyin	I'm honored that you thought of me, but I'm not interested in imposing my ideals on an entire nation.  I'm afraid I can't help you.
+Kuvira	Suyin, I know this isn't my place, but I think you should do this. Zaofu has always been a beacon of modern progress, and now you can share that with everyone.
+Suyin	What would you have me do? March into Ba Sing Se with an army? We'd be seen as conquerors and greeted with nothing but war.
+Kuvira	There are already wars. The Earth Queen nearly destroyed our nation. This is our opportunity to change things.
+Suyin	 It's not going to happen.
+Suyin	 I didn't realize it at the time, but that moment put a rift between us. Kuvira turned my own son against me, and together they plotted behind my back.
+Suyin	What do you think you're doing?
+Kuvira	 We're doing what you don't have the guts to do: We're going to Ba Sing Se to help bring order back to the Earth Kingdom.
+Suyin	 No! You will stay here!
+Kuvira	 And who's going to stop me? Your security force was more than happy to join my cause. They're some of the best fighters in the world, and they are tired of being treated like exotic birds in your cage.
+Suyin	If you leave now, you will never be welcomed back.
+Kuvira	When I choose to return, it'll be on my own terms.
+Suyin	 Kuvira and Baatar left that day with Varrick, my security force, and a few of Zaofu's wealthiest citizens. After Kuvira proved herself by stabilizing Ba Sing Se,  Raiko and the other world leaders made her the provisional head of the Earth Kingdom. When she refused to step down, I knew it was only a matter of time before she made her way back here.
+Korra	I want to fix this.
+Suyin	You can. Go into the Avatar State and demolish her entire army. Remove Kuvira from power once and for all.
+Korra	 Fighting is something the old me would do. That always made things worse. Let me talk with Kuvira. Maybe I can reason with her.
+Suyin	 Kuvira doesn't listen to reason.
+Varrick	 I can't believe Kuvira locked me in here like a prisoner! I'm not feeling well! I think I'm running out of air! Zhu Li, hold your breath!
+Varrick	[Exasperated.] Great! Now we're both gonna die!
+Bolin	 Varrick? Varrick?!
+Varrick	Ahh! And the head voices are back!
+Varrick	Bolin! Thank goodness you're here! Where did that hatch come from? Forget the hatch! There's something important I gotta tell ya!
+Bolin	Well, there's something important I gotta tell you, too!
+Bolin	How'd you find out?
+Varrick	When I refused to build her a superweapon, she threatened my life!
+Bolin	She threatened me, too! And she's threatening Zaofu and it turns out, she's been threatening villages this whole time!  We gotta get outta here.
+Varrick	I couldn't agree more, kid.
+Kuvira	Korra, it's such an honor to see you again. The last I heard, you were still healing in the South Pole.
+Korra	Well, I'm feeling much better now.
+Kuvira	That's wonderful news.
+Korra	I'm here to ask you to back down. Please. Take your army and leave.
+Kuvira	I think we both know that's not going to happen.
+Korra	I can't let you take Zaofu.
+Kuvira	Look, I was tasked with bringing stability to the Earth Kingdom. Zaofu is the last holdout. Why should I treat it differently than any other state?
+Korra	What you're doing isn't right!
+Kuvira	I understand you're just trying to do Su a favor, but you can't come to me as I am on the verge of reuniting my nation and tell me to stop. The world was descending into chaos while you were gone.  In order to fix it, I had to make some tough decisions.
+Korra	I know what that's like. I've had plenty of people mad at me about decisions I've made.
+Kuvira	 Exactly. Korra, if you really want to help, go back to Su and try to talk some sense into her. Let's call a temporary truce. I won't make any moves until you talk to her and get back to me.
+Korra	 Maybe that will be for the best.
+Guard #1	He came by to see Varrick, but we turned him away.
+Baatar Jr.	We have some fugitives to catch.
+Bolin	Okay, I say we go up and around the mountains--  --and sneak into Zaofu from the rear.
+Varrick	We're not going to Zaofu, that place is doomed! We gotta head to Republic City!
+Bolin	What? No, nonono, we gotta help here.
+Varrick	We'll be helping by warning the world about Kuvira's potential superweapon!
+Bolin	 Well, that's helping, but it's a completely different type of helping.  Hmm. Let me think about this.
+Varrick	 That's not the flamethrower! What idiot designed these things?
+Varrick	[Pointing in Zhu Li's direction.] Less lecturing, more saving my life!
+Varrick	Hey! I think I figured it out!
+Baatar Jr.	Stop! Turn yourself over, or else ...
+Varrick	 Thanks a lot, Zhu Li.
+Hiroshi	You came back.
+Asami	When I first came here, it was because I wanted to tell you face to face that I never wanted to see or hear from you again. I wanted my words to hurt you so that you would know how you hurt me.
+Hiroshi	I'm sorry.
+Asami	But when I saw you, it wasn't anger I felt. It was sadness. You tainted our past and destroyed our future together.
+Hiroshi	I want to make amends.
+Asami	I'm not sure I'll ever be able to forgive you. But that doesn't mean I shouldn't try.
+Asami	I thought we could play some Pai Sho. Like we used to.
+Hiroshi	 Nothing ... would make me happier.
+Bolin	 Don't ... torture us.
+Kuvira	 Send these three away on the next train. Bolin and Zhu Li will be going to the reeducation camp for our most severe dissenters.  And you will continue work on the spirit-energy project, under close, armed supervision. I want it weaponized immediately. 
+Kuvira	[After a moment's hesitation, turning to look at the figure below her.] Why would I?
+Varrick	[Insulted.] Hey, come on! I'm right here!
+Kuvira	[Stares at Zhu Li before addressing Varrick and Bolin.] You two could learn something from her. Rise, Zhu Li. I'll give you another chance.
+Varrick	 Think about what you're doing! We're partners! We have history!
+Varrick	[As the troopers grab him and pull him outside.] No! Not the thing! Zhu Li!
+Korra	Where's Su? I have to talk to her.
+Baatar	 She's not here. She took Wing and Wei. They're going to sneak into Kuvira's camp and put an end to this.
+Korra	 No!

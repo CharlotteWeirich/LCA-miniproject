@@ -1,0 +1,134 @@
+Korra	"[Angrily.] Can you believe Hiroshi?! ""The Avatar's on the run"". I'm not running from anyone! Let's go back up there and knock some heads; they'll never know what hit 'em. [Turns to go back to do that.]"
+Mako	Relax. General Iroh's coming with an entire fleet of battleships. Then Amon will be the one who's running.
+Korra	" I hate this ""being patient"" stuff. "
+Asami	 You two were gone a while.
+Mako	 We were doing reconnaissance.
+Asami	 Whatever.
+Gommu	 Welcome back! Hope you worked up an appetite, 'cause dinner is served.
+Korra	Thanks so much for letting us hide out with you the past few days.
+Gommu	" Honored to oblige.  My associates and I heartily oppose Amon's so-called ""Equalist"" policies.  We got benders and nonbenders living together down here, but do you see us fightin'?  No siree; we've figured out how to harmoniously co-exist."
+Bolin	You are a wise and noble hobo.  Mmmm. This is the best-tasting street gruel I've ever had. Seriously!
+Gommu	I culled it from the finest dumpsters the city has to offer!
+Mako	Can't sleep either?
+Korra	No, I have this awful pit in my stomach.
+Mako	 Me too.
+Korra	 It's so crazy. A few months ago I was in the South Pole practicing for my firebending test,  and now I'm in the middle of an all-out war.
+Mako	I know, we didn't even know each other then. And now, I can't imagine my life without you in it.  You're the most loyal, brave, and selfless person I've ever known.
+Korra	 I think you're pretty incredible too, but ... you already knew that.
+Korra	I should probably try to get some sleep.
+Mako	Me too. Good night.
+Korra	Good night.
+Amon	You will now be cleansed of your impurity.  Next.
+Mako	 Coast is clear.
+Korra	Once the United Forces arrive, we need to be ready to help in any way we can.
+Mako	They're here!
+Bolin	 Whoops! 
+Iroh	Hmm ... Amon had to know we were coming. So why aren't we meeting any resistance?
+Korra	Wait a second ... where are the Equalist airships?
+Mako	 I don't see any mecha tanks, either. 
+Iroh	Something's not right.  It's a trick!  Water and earthbenders, detonate those mines!  What is that sound?
+Mako	What now?
+Bolin	 Where does Hiroshi find the time to keep inventing new evil machines?!
+Korra	[Swimming.] It's all right, I've got you.
+Iroh	 Avatar Korra? You saved my life. Thank you.
+Iroh	I was prepared to deal with Sato's mecha tanks, but not these new high-speed aircraft.
+Korra	I know.  Every time we think we have an advantage, Amon outsmarts us.
+Bolin	No matter what our plan is, he always has a better one.
+Iroh	Amon is winning so far, but we're not out of the fight yet.
+Bolin	 I like this man's confidence! So, how are we not out of the fight?
+Iroh	 A second wave of reinforcements is on the way, but I need to warn them.  Do you still have a way to get a message out?
+Korra	I know just the man for the job.
+Gommu	And who is the recipient of this top secret message?
+Iroh	Commander Bumi.  Second division of the United Forces.
+Korra	Tenzin's brother?
+Iroh	Yes, bit of a wild man, but the bravest commander you'll ever meet.
+Gommu	Ready, sir. 
+Iroh	Fleet ambushed and destroyed by Equalist aircraft. Retreat to Red Sand Island until my signal. Do not approach city until you receive the all clear.  Now comes the hard part. We need to ground those aircrafts. Otherwise, Bumi's fleet would never be able to retake the city.
+Mako	 They flew in from this direction. The airfield must be somewhere over this mountain range.
+Iroh	Everyone get ready, we leave at dawn.
+Asami	 It's time to take down my father. 
+Korra	 Wait, I'm sorry, but I'm not going with you tomorrow.
+Mako	What?
+Asami	Why not?
+Korra	I'm sick and tired of hiding from Amon. It's time I face him.
+Iroh	That's not a good plan. We need to stick together.
+Korra	I'm not waiting for him to hunt me down. My guts tell me it's time to end this, on my terms.
+Iroh	Korra, this is not a mission you should be handling alone.
+Mako	She won't be.  I'm going with you.
+Korra	 You don't have to do that.
+Mako	Yes, I do.
+Iroh	Hmm ... My grandfather would respect the Avatar's instinct.  So will I.
+Mako	Love you, little bro.
+Bolin	Love you back, big bro.  Korra, Amon is a nasty dude. Be careful.
+Korra	I will.  Good luck. If you're going into the mountains, you should bring Naga.  Take good care of Bolin for me. 
+Mako	Asami.  I'm sorry things got so messed up between us, but whatever happens today, I want you to know how much I care about you.
+Asami	I care about you, too. 
+Gommu	Good fortune and success to you, valiant heroes.
+Korra	There's Amon.
+Mako	We need to get into the temple. Then, when he returns ...
+Korra	We ambush him.
+Lieutenant	What are you two doing here?
+Mako	Uh, we were just transferred.
+Lieutenant	Well, you're getting transferred again. Amon wants extra security at the arena today.
+Mako	 The arena? For what?
+Lieutenant	The rally. You should've been briefed about this.
+Korra	 We'll be there, sir.  I know another way in. 
+Korra	Let's hide in the attic.
+Mako	Uh, we're not alone up here.
+Korra	Tarrlok?
+Tarrlok	I don't suppose you're here to rescue me.
+Korra	 We had no idea you were here. Are there other prisoners on the island?
+Tarrlok	No, I'm the only one.
+Korra	And what makes you so special?
+Tarrlok	I'm Amon's brother.  Amon is from the Northern Water Tribe.  He's a waterbender and a bloodbender,  just like I was.
+Korra	 What?
+Mako	Did you know this all along?
+Tarrlok	 No,  not until after he captured me.
+Korra	How did your brother end up becoming Amon?
+Tarrlok	 It all began with my father,  Yakone. With the help of his former gang,  he escaped prison and underwent surgery to change his appearance.  He assumed a new identity, and settled down in the Northern Water Tribe.  That's where he met my mother,  a warm, caring woman.  Before long, they started a family together.  Amon was the firstborn, under the name Noatak. I was born three years later.  Noatak was a good-natured kid, always looking out for me. Those were the good years.  Before my brother and I discovered we were waterbenders. At first we were excited by our new abilities, but our training brought out a different side of my father.
+Yakone	Tarrlok, you'd better shape up or you'll be out here in the cold all night until you get it right.
+Tarrlok	I'm trying, but-
+Yakone	Try harder!  Your brother was never this sloppy. 
+Noatak	Dad, he'll get it. He just needs time.
+Yakone	Don't talk back to me, son! Ever!
+Tarrlok	 Even back then, my brother wanted everyone to be treated fairly and equally.  When I was seven, my father took me and Noatak on a hunting trip far away from our home.  He told us his true identity was Yakone, Republic City's most notorious crime boss, and that he was once a bloodbender of rare skill.
+Tarrlok	 What's bloodbending?
+Yakone	The most powerful and feared form of bending in the world. It was declared illegal thanks to that coward, Katara. Our family has the strongest line of bloodbenders in history. You boys have this power inside of you, and I will teach you to master it.
+Noatak	 What happened to your bending, Dad?
+Yakone	The Avatar stole it from me.  That's why I brought you out here, to learn your destiny. You two will become bloodbenders of the highest order. When the time is right, you will claim Republic City and you will destroy the Avatar. You must avenge me. That is your purpose in life.
+Tarrlok	" The good days were behind us.  Every full moon, our father took us on another supposed ""hunting trip,"" where he secretly trained us in bloodbending.  We kept the truth from my mother."
+Tarrlok	 Stop! You're hurting it!
+Yakone	Toughen up, Tarrlok! You'll need a thicker skin for this.  Very good, son, very good.
+Tarrlok	 A few years later, my father taught us to bloodbend anytime, without the need of the full moon.  We practiced constantly, and I hated every minute of it.  I had no stomach for manipulating helpless animals. My brother, however, seemed to revel in this newfound power.  He was a prodigy, mastering my father's psychic bloodbending technique by the time he was fourteen.
+Yakone	 That's the way it's done. That's what you need to strive for.
+Tarrlok	 Even though Noatak was my father's favorite, it wasn't any easier for him. He carried the burden of all Yakone's expectations and demands.  Something changed in Noatak over the years;  the loving brother I once knew became cold and detached.  Our father pushed us to extremes, and one day, he made us bloodbend each other.
+Yakone	Noatak, go!  Excellent.  Tarrlok, your turn.
+Tarrlok	No.  I won't do it.
+Yakone	 Bloodbend your brother, Tarrlok!
+Tarrlok	That felt awful. I don't want to do that to anyone. I never want to bloodbend again.
+Yakone	You're a disgrace, a weakling. I'll teach you a lesson, you insubordinate- 
+Noatak	 Stay away from him.
+Yakone	How dare you bloodbend me!
+Noatak	What're you gonna do about it? You're the weak one.  You always say bloodbending is the most powerful thing in the world, but it isn't. The Avatar is. He took your bending away. What could be more powerful than that?
+Yakone	I made you what you are. You're mine.
+Noatak	We're your sons,  not your tools of revenge.  Let's go. We can run away from him.  Forever.
+Tarrlok	Run away? But what about Mom? We can't just leave her.
+Noatak	He was right about you. You are a weakling. 
+Tarrlok	Noatak! Don't leave! Please! Noatak!
+Tarrlok	 My father and I searched for days, but we never found a sign of Noatak. We thought he perished in that storm. My mother was never the same after the loss of my brother.  My father stopped training me. With Noatak gone, his hopes for revenge withered.  And he passed away, a few years later.
+Korra	That's one of the saddest stories I've ever heard.
+Tarrlok	Avatar Korra. I am truly sorry for all that I did to you. I thought I was better than my father, but his ghost still shaped me. I became a soldier of revenge, just like he wanted me to be. And so did my brother. The revolution may be built on a lie, but I think Amon truly believes bending is the source of all evil in the world.
+Mako	How did you figure out Amon is your brother?
+Tarrlok	When he took my bending, the sensation was somehow familiar. I later recognized it as my brother's bloodbending grip.
+Korra	So, he somehow uses bloodbending to take people's bending.
+Tarrlok	I don't know how he does it, but then again, I've never encountered a bender as strong as Noatak.
+Korra	How in the world do we beat him?
+Mako	We can't. Any attack we throw at him, he'll redirect with his mind. That's how he's been able to challenge any bender.
+Korra	 So much for our ambush. If we stay here, we're toast. But there's another way to beat him.
+Mako	How?
+Korra	This whole time, Amon has been one step ahead of us. But finally we have the advantage. We know the truth about him. If we expose him as a bender in front of all his supporters ...
+Mako	At the rally.
+Korra	... We could take away his true power!
+Mako	And undermine this whole revolution!
+Korra	 Thank you, for your help.  We can't just leave him here.
+Tarrlok	 Go. Amon can't know anyone spoke with me.  Defeat him. Put an end to this sad story. 

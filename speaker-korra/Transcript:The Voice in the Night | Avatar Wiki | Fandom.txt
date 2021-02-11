@@ -1,0 +1,155 @@
+Amon	After I take your bending away, you will be nothing. 
+Korra	It's ... it's all right, Naga. I just had a bad dream. 
+Tarrlok	There is a madman running around our beloved city, threatening to tear it apart. We need to create a task force whose sole mission is to find Amon and bring him to justice.
+Tenzin	 Absolutely not. A move that aggressive would only further divide benders and nonbenders.
+Tarrlok	[Stands up and bows.] It would be my honor and privilege to accept such a duty.
+Tenzin	 This is just another one of your ploys to gain more power, isn't it? 
+Tarrlok	All I'm trying to do is help. Think back, forty-two years ago, Republic City was threatened by another dangerous man. Yakone.  Your father wasn't afraid to deal with him head-on.
+Tenzin	This.. is a completely different situation ...  and how dare you compare yourself to Avatar Aang!
+Tarrlok	 Amon is not going to stop with the bending triads.  Eventually, he will come for all us benders. Our friends, our families. Vote for this task force and I will stop Amon before it's too late. All in favor?
+Amon	Good evening, my fellow Equalists.  This is your leader, Amon.  As you have heard, the Republic Council has voted to make me public enemy number one, proving once again that the bending  oppressors of this city will stop at nothing to quash our revolution. But we cannot be stopped. Our numbers grow stronger by the day. You no longer have to live in fear.  The time has come for benders to experience fear. 
+Asami	Oh, no!  I'm so sorry. I didn't see you. 
+Mako	 How could you not see me? I mean I was ju-juu ...  uh, I was ... I- I ... wow.  I was ... 
+Asami	 Are you okay? Did I hurt you? Ugh, I'm such an idiot. 
+Mako	Don't worry, I'm fine. My brother hits me harder than that every day in practice. 
+Asami	Wait, I recognize you. You're Mako, right? You play for the Fire Ferrets.
+Mako	Yeah, that's me.
+Asami	 I am so embarrassed.  My name is Asami. Let me make this up to you somehow. Uh, how about I treat you to dinner? Tomorrow night, eight o' clock, Kwong's Cuisine. 
+Mako	Uh, Kwong's? I don't have any clothes nice enough for a place that classy.
+Asami	 I'll take care of that. All you need to do is show up.  So ... it's a date?
+Mako	Uh, yeah, I guess so. I'll see you tomorrow night.
+Tenzin	We are grateful for this delicious food, for happiness, for compassion, and ...
+Tarrlok	 I'm not interrupting, am I? 
+Tenzin	This is my home, Tarrlok. We're about to eat dinner. 
+Tarrlok	Good, because I am absolutely famished.  Airbenders never turn away a hungry guest, am I right?
+Tenzin	 I suppose. 
+Tarrlok	 Ah, you must be the famous Avatar Korra. It is truly an honor.  I am Councilman Tarrlok, representative from the Northern Water Tribe.
+Korra	 Nice to meet you. 
+Ikki	 Why do you have three ponytails?  And how come you smell like a lady? You're weird.
+Tarrlok	Well aren't you ... precocious?  So, I've been reading all about your adventures in the papers. Infiltrating Amon's rally, now that took some real initiative.
+Korra	Oh, thanks. I think you're the first authority figure in the city who's happy I'm here.
+Tarrlok	Republic City is much better off now that you've arrived.
+Tenzin	 Enough with the flattery, Tarrlok. What do you want from Korra?
+Tarrlok	 Patience, Tenzin. I'm getting to that.  As you may have heard, I am assembling a task force that will strike at the heart of the revolution and I want you to join me.
+Korra	 Really?
+Tenzin	 What?!
+Tarrlok	I need someone who will help me attack Amon directly, someone who is fearless in the face of danger.  And that someone is you.
+Korra	Join your task force? I can't. 
+Tarrlok	 I must admit, I'm rather surprised. I thought you'd jump at the chance to help me lead the charge against Amon.
+Tenzin	 Me, too.
+Korra	I came to Republic City to finish my Avatar training with Tenzin. Right now, I just need to focus on that.
+Tarrlok	Which is why this opportunity is perfect. You would get on the job experience while performing your Avatar duty for the city.
+Tenzin	 Korra gave you her answer. It's time for you to go.
+Tarrlok	Very well.  But,  I'm not giving up on you just yet.  You'll be hearing from me soon.  It has been a pleasure, Avatar Korra. 
+Ikki	 Bye-bye, ponytail man!
+Server	Ah, welcome to Kwong's Cuisine, Master Mako. 
+Mako	"Uh, ""Master""?"
+Mako	The scarf stays.
+Server	As you wish, sir.  This way please. 
+Asami	 I am such a big pro-bending fan. I caught all of your matches this season.
+Mako	All of them? Wow. Honestly, I wish there were a few you hadn't seen.
+Asami	Oh, don't be ridiculous, you're amazing. I can't wait to see you play in the tournament.
+Mako	Yeah, well, ah, maybe next year.
+Asami	What do you mean? You made it in.
+Mako	It just isn't in the cards for us right now.
+Asami	 Tell me.  What's the problem?
+Mako	We don't have the cash to ante up for the championship pot. So, it looks like we're out of the running.
+Asami	That's not fair.
+Server	 Pardon me, Ms. Sato.  Your main course.
+Mako	Ms. Sato? You wouldn't happen to be related to Hiroshi Sato, creator of the Satomobile?
+Asami	Yeah. He's my dad.
+Mako	 Get out of town!
+Asami	I'm serious.  You want to meet him?
+Mako	Meet the most successful captain of industry in all of Republic City? Yeah, I'll take you up on that.
+Bolin	 Hello, fellow teammate!
+Korra	Hey, Bolin. 
+Bolin	Missed you at practice this week.
+Korra	Yeah, sorry about that.
+Bolin	Nah, that's all right. We're probably out of the tournament anyways unless some money miraculously drops out of the sky by tomorrow. Anyways, the reason I came by was to give you this.  Ta-da!
+Korra	Wow, thanks.  What's this for?
+Bolin	 Uh, oh I can't remember now. Oh yeah, now I remember. You saved me from Amon!
+Korra	Oh, that?  It was no big deal.
+Bolin	"No big deal, are you serious? I was totally freaking out when he was coming at me with his creepy mask all, ""I will take away your bending forever.""  I mean that is.. scary stuff; I still can't sleep well."
+Korra	Mhmm.
+Korra	Tell him I haven't changed my mind.
+Bolin	Who's this Tarrlok guy? Is he bothering you? Huh, 'cause I could have a word with him. [Punches fist into his other hand.]
+Korra	 Heh, no it's not like that. He's just some old guy who works with Tenzin on the council.
+Bolin	Oh, good. Good, that sounds better. I like that better.
+Mako	It's very impressive, Mr. Sato.
+Mako	Uh, well ...
+Asami	Dad, stop bragging. Just tell Mako the good news. [Her dad chuckles.]
+Mako	What good news?
+Mako	Are you serious?
+Asami	He's serious. My dad's going to cover your ante for the championship pot.
+Mako	Tha-that is good news.
+Mako	I'll tattoo it on my chest if you want, sir. [Points to his chest and smiles while both Hiroshi and Asami chuckle.] Thank you both so much. [Shakes Hiroshi and Asami's hands.] I promise the Fire Ferrets will make the most of this opportunity.
+Ikki	 Out of the way Daddy, we're driving here!  Beeeeeeep beebeebeeeeep!
+Meelo	Beep-beep.
+Tenzin	I see Tarrlok's gifts are getting more and more extravagant.
+Korra	" Yeah, that guy doesn't know how to take ""no"" for an answer."
+Tenzin	Korra, are you ... doing all right?
+Korra	Yeah, I'm fine. 
+Tenzin	 Why don't you take a break?  I'm glad you turned down Tarrlok, but I just want to make sure your decision was for the right reason.
+Korra	I'm just really focused on my airbending right now is all.
+Tenzin	 Right, that's what you said. You know, it's okay to be scared. The whole city is frightened by what's been going on. The important thing is to talk about our fears, because if we don't, they can throw us out of balance.
+Tenzin	I'm always here for you, if you want to talk.
+Korra	It doesn't matter how many gifts Tarrlok sends, I am no​t joining his task force.
+Korra	[Surprised.] To what? [Gives an angry look to the page and grabs the papers out of his hands and starts reading them.]
+Korra	I can't believe this is all for me.
+Tenzin	I'm not sure what Tarrlok's plotting, but keep your guard up. It's not like him to throw a party just for the fun of it.
+Tarrlok	 So glad you could make it, Avatar Korra.  If you'd excuse us, the city awaits its hero. 
+Tenzin	Meelo! No, that's not a toilet! Oh dear. 
+Tarrlok	Korra, it's my pleasure to introduce Republic City's most famous industrialist, Hiroshi Sato.
+Korra	Nice to meet you.
+Korra	Right, [Looks down sadly.] greatness.
+Mako	 Hey, Korra!
+Asami	It's lovely to meet you. Mako's told me so much about you.
+Korra	 Really? Because he hasn't mentioned you at all. How did you two meet?
+Bolin	 Asami crashed into him on her moped.
+Korra	 What? Are you okay?
+Mako	I'm fine. More than fine. Mister Sato agreed to sponsor our team; we're back in the tournament!
+Bolin	 Hehe, isn't that great?
+Korra	 Yeah, terrific.
+Tarrlok	 Chief Beifong, I believe you and Avatar Korra have already met.
+Tarrlok	If you'd be so kind, they just have a couple of questions.
+Korra	But ...
+Korra	[Clears throat.] I think he presents a real problem. [She sounds slightly confused while saying this.]
+Korra	Well, I ...
+Korra	[Offended.] What? No! I've never backed away from anything in my life!
+Reporter #4	Do you think pro-bending is more important than fighting the revolution?
+Reporter #2	[Cuts to a close-up of Korra's face; voice-over.] Are you afraid of Amon?
+Korra	 I am not afraid of anybody! If the city needs me then ...  I'll join Tarrlok's task force and help fight Amon.
+Tarrlok	 There's your headline, folks.
+Tarrlok	My fellow task force deputies, tonight we will execute a raid on an underground chi blocker training camp located in the Dragon Flats borough. According to my sources, there is a cellar underneath this bookstore,  where Equalists train chi blocking in secret.
+Korra	I'm going after those two.
+Korra	Nice timing. Thanks, Tarrlok.
+Tarrlok	We make a good team, Avatar.
+Korra	Yeah, we do. 
+Bolin	No Korra for practice again?
+Mako	 Doesn't look like it.
+Tarrlok	Avatar Korra has bravely answered the call to action. With the two of us leading the charge, Republic City has nothing to fear from Amon and the Equalists.
+Korra	[Comes closer to the microphone, while Tarrlok takes a step back.] You want to know why? Because Amon is hiding in the shadows like a coward. [Grabs microphone.] Amon, I challenge you to a duel! No task force, no chi blockers, just the two of us tonight at midnight on Avatar Aang Memorial Island. Let's cut to the chase and settle this thing, if you're man enough to face me. [Puts the microphone down and walks off stage, as the reporters buzz with questions asking for details and standing up to get attention.]
+Asami	I know it sounds weird to say this, but I'm really glad I hit you with my moped.
+Mako	 Uh, me too.
+Asami	I forgot to ask. Why didn't you accept the new silk scarf I bought for you last week? You didn't like it?
+Mako	No, it was really nice, but this scarf was my father's. And it's all I have left of him. I just feel like ...  Like it keeps me safe.
+Asami	I'm so sorry. I lost my mother when I was very young. 
+Asami	I feel so safe with you. 
+Tenzin	Korra, this is madness.
+Korra	 Don't try to stop me and don't follow me. I have to face Amon alone.
+Tenzin	 This is all your doing!
+Tarrlok	I tried to talk her out of it too, but she's made up her mind.
+Tarrlok	We'll be watching the island closely. If anything goes wrong, I have a fleet of police airships ready to swoop down.
+Korra	 Guess you're a no-show, Amon. Who's scared now? 
+Amon	I received your invitation, young Avatar.
+Amon	Our showdown, while inevitable, is premature. Although it would be the simplest thing for me to take away your bending right now, I won't. You'd only become a martyr.  Benders of every nation would rally behind your untimely demise,  but I assure you, I have a plan. And I'm saving you for last, then you'll get your duel, and I will destroy you.
+Korra	 Aang?
+Tenzin	 Korra!  Korra, are you all right? What happened? Was Amon here?
+Korra	Yeah, he ambushed me.
+Tenzin	 Did he ... did he take your bending away?
+Korra	 No, I'm okay.
+Tenzin	 Ah, thank goodness.
+Korra	 I was so terrified, I felt so helpless.
+Tenzin	 It's all right, the nightmare is over.
+Korra	 You ... you were right ... I've been scared this whole time.  I've never felt like this before and ... and Tenzin, I don't know what to do! 
+Tenzin	 Admitting your fears is the first and most difficult step in overcoming them.

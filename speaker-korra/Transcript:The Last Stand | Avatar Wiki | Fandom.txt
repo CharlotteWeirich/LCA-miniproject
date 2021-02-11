@@ -1,0 +1,106 @@
+Kuvira	Initiate lockdown! Find the Avatar and whoever else is with her.
+Korra	We need to move fast. Su, Lin, climb up to the arm and try to disable that weapon. Mako, Bolin, get to the engine and see if you can power this thing down.  I'm going after Kuvira.
+Suyin	Are you sure? When you fought Kuvira before ...
+Korra	I know.  She almost destroyed me.  Not this time.
+Mako	I'm going for that lever. You get the other one.
+Guard	Hey!
+Lin	 I'll deal with this guy! Disable the weapon!
+Lin	 Nice work.
+Suyin	The outside may be platinum,  but we can do a lot of damage in here.
+Helmsman	The weapon's loading mechanism has malfunctioned. We're unable to fire.
+Kuvira	 It's no malfunction.  I can feel someone metalbending inside the arm.  I've lost the connection! The weapon's useless now. 
+Mako	I'm ready!
+Bolin	Be with you in one second! Kind of busy!  Okay, ready now!
+Mako	One ... two ... three!  Nothing's happening! 
+Bolin	Kuvira must've done some override thing and taken control! 
+Mako	There's got to be some other way to shut down power from here.
+Bolin	 Ummm ... 
+Mako	Come on. You spent all that time working with Varrick and Baatar Jr. Didn't any of their genius rub off on you?
+Bolin	 Look, the only thing I know about these vines is that if you mess around with them too much,  they explode. 
+Mako	 Get those engineers out of here. I have an idea.
+Bolin	 Want to fill me in?
+Mako	I'm gonna zap these vines with some electricity.
+Bolin	 Let's back it up, okay?  I said that will make the vines explode.
+Mako	Exactly. This is our only way of shutting this thing down.  I can handle it.
+Bolin	 No! You can't! This isn't the time to prove how awesome you are. I already know how awesome you are  ... you're awesome.
+Mako	I don't have time to argue!  I'm doing this, so get out of here!
+Bolin	 Okay, but for the record,  I do not approve. Just,  get out as soon as you can.  Promise?
+Mako	 Promise. 
+Bolin	I love you.
+Mako	 I love you, too. Now go!
+Korra	It's over.  You're gonna call off your army  and surrender to President Raiko.  Then you and —
+Korra	Stop!
+Korra	 Kuvira! Give up!
+Kuvira	 Never.
+Korra	Please, stop this madness! It has to end now!
+Kuvira	 If you really want to end it, then come and get me!
+Kuvira	Now it's over.
+Korra	 Don't!
+Korra	 Shut it down!
+Kuvira	 I can't!
+Bolin	Look!
+Tenzin	 A new spirit portal.
+Mako	Korra!
+Mako	Tenzin, there's no sign of her.
+Tenzin	Keep looking! Korra!  Korra!
+Kuvira	What happened? Are we ... dead?
+Korra	 No, we're okay, but we're in the Spirit World.  All the energy from your weapon tore open a new portal and blasted us in here.
+Kuvira	 Why would you save my life, after everything I did to you?
+Korra	 I guess ... I see a lot of myself in you.
+Kuvira	 We are nothing alike!
+Korra	 Yes, we are. We're both fierce and determined to succeed,  sometimes without thinking things through.
+Kuvira	This wasn't how I wanted things to end.  If you would have all just surrendered,  none of this would have happened.
+Korra	 You brought this on yourself. Messing with the spirit vines, acting like a dictator over your people ... you had to know what you were doing wasn't right.
+Kuvira	 I was trying to help my people. Su turned her back on the Earth Kingdom, you were gone! I had to do something.
+Korra	 I think I get it now.
+Kuvira	 You don't understand anything about me.
+Korra	I do.  Su told me how she took you in when you were younger.  It must have been so hard being an orphan.
+Kuvira	 Don't pretend you know what it felt like!  The Avatar is adored by millions! I was cast aside by my own parents like I meant nothing to them.  How could I just stand by  and watch the same thing happen to my nation, when it needed someone to guide it?
+Korra	 You wanted to create a place where you and your people would never be vulnerable again.  I may not have been an orphan, but believe me, I understand what it feels like to be afraid.  After I was poisoned, I would have done anything to feel in control.
+Tenzin	The spirits have returned.
+Asami	 And so has Korra! 
+Bolin	 You're okay!
+Kuvira	[Cuts back to Korra and Kuvira as she removes her arm from Korra's shoulder and addresses her troops.] Stand down. This battle is over. I owe the Avatar my life. [Cuts to scene behind Tenzin and Bolin.] Her power is beyond anything I could ever hope to achieve. [Cuts to a close-up of Kuvira looking down, and Su looks at her.] I'll accept whatever punishment the world sees fit.
+Kuvira	 And Su, I'm sorry for all the anguish I've caused you and your family.
+Suyin	You're going to answer for everything you've done.
+Bolin	 And though the battle took a severe toll on our beloved city, out of the destruction, love did bloom!  So that is why, dearest friends and family, we gather today to celebrate the wondrous, and at time inexplicable bond between Sir Varrick and the Lady Zhu Li!
+Varrick	 Hey, pal, camera on me! This is my big day! 
+Bolin	True love is a fickle creature.  Difficult to find, nearly impossible to tame.  But Varrick and Zhu Li have proven that even the longest of long shots  can have a chance at happiness together. Now, for the vows!  Thank you, Master Pabu. Do you, Sir Iknik Blackstone Varrick of the Southern Water Tribe, Master of the High Seas, take the Lady Zhu Li Moon to be your lawfully wedded wife? Will you promise to treat her not as your assistant, but as your honored and cherished partner?
+Varrick	You're darn tootin' I do!
+Bolin	And do you, Zhu Li, take Varrick, to be your lawfully wedded husband? Do you promise to care for him, in sickness and in health,  and also scrub his callouses on a bi-weekly basis, which ... isn't really that much to ask ...  Okay, I'm not reading all this.
+Bolin	You may now [Varrick and Zhu Li lean in close together, Bolin takes a few steps back. Softly.] do the thing.
+Varrick	You just make me so dang happy!
+Mako	My cousin told me how level-headed you were during the whole evacuation. I got to admit, I'm impressed. I think you're going to make a great leader.  But that doesn't mean I'm gonna set you up with Korra, so don't ask.
+Wu	 That's okay, Mako. Sometimes, a good evacuation is its own reward. 
+Korra	Good to see you, Prince Wu. Or should I say, King Wu? You ready to get back to Ba Sing Se and finally take the throne?
+Wu	Yeah  ... about that  ... I was actually thinking of stepping down as king and getting rid of the monarchy all together. 
+Mako	 Are ... you joking?
+Wu	For once,  I'm not. Now I know what you're gonna say, I'm being lazy, I'm afraid of responsibility, I'm putting my singing career before my people, but it's none of those things. I really think the Earth Kingdom would be better off if the states were independent and had elected leaders, like the United Republic.
+Mako	 That's ... actually pretty wise and mature of you.
+Korra	I think it's a great idea. The Earth Kingdom should evolve, and I'll do everything in my power to help you make that happen.
+Wu	 Looking forward to working with you. But for now, the dance floor calls. 
+Korra	 How's the arm?
+Mako	Much better.
+Korra	" The words ""thank you"" don't feel big enough for what you did. But I honestly don't know what else to say."
+Mako	 You don't need to say anything. I want you to know, I'll follow you into battle, no matter how crazy things get. I've got your back  ... and I always will .
+Tenzin	I spoke to President Raiko.  Tomorrow, he's announcing a plan to expand the city, rather than rebuild downtown.
+Korra	 I bet Aang never could have imagined there'd be a spirit portal right in the heart of Republic City.
+Tenzin	 Korra, you've transformed the world more in a few years than most Avatars did during their lifetimes.
+Korra	 But I feel like I've only just begun.  There's so much more I want to learn and do.
+Tenzin	 You don't know how happy I am to hear you so full of hope again.
+Korra	 It's been a bit of a bumpy ride, huh?
+Tenzin	I've come to realize life is one, big, bumpy ride.
+Korra	 I know I was in a pretty dark place after I was poisoned. But I finally understand why I had to go through all that. I needed to understand what true suffering was so I could be more compassionate to others, even to people like Kuvira.
+Asami	 Excuse me Tenzin, Varrick is looking for you. Something about wanting to borrow a glidersuit to fly off the tower?
+Tenzin	 That doesn't seem like a good idea!
+Korra	 Wanna sit with me for a minute? I'm not ready to get back to the party just yet.  I don't think I ever really apologized.
+Asami	 For what?
+Korra	For being gone all that time. For not coming back sooner. 
+Asami	 You don't need to apologize for anything.  I'm just so happy you're here now.  I don't think I could have handled losing you and my father in the same day. 
+Korra	I am so sorry for what happened. 
+Asami	 Thank you. I'm just glad I was able to forgive him. 
+Korra	 So, what now? Back to the dance floor?
+Asami	I'm kind of all danced out. Honestly, after everything that's happened the past few months, I could use a vacation.
+Korra	 Let's do it! Let's go on a vacation, just the two of us. Anywhere you want.
+Asami	 Really? Okay ... I've always wanted to see what the Spirit World's like.
+Korra	Sounds perfect.
