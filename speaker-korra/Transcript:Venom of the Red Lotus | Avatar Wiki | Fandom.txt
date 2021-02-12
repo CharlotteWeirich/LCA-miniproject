@@ -1,3 +1,4 @@
+Shiro Shinobi	 The Red Lotus has captured the Avatar. Korra gave herself up in exchange for the airbenders, but Zaheer double crossed her, while Ghazan trapped Team Avatar at the temple. All seems lost until Bolin saved their lives by lavabending. But he's not the only one with new skills. Zaheer unlocked the ancient airbending ability of flight. Will Team Avatar save the Air Nation and Korra before it's too late?
 Korra	 When I get out of here, none of you will survive!
 Zaheer	You won't get out, unless the Metal Clan has taught you a way to bend platinum.  Once we administer this poison, your body will naturally react, forcing you into the Avatar State in an effort to keep you alive. Sadly for you, you'll be entering it for the last time.
 Korra	 No! The Avatar Cycle.
@@ -20,10 +21,13 @@ Zaheer	It's working.
 Amon	I told you, Korra.  The world doesn't need you anymore.
 Unalaq	 The time of the Avatar is over, Korra. Give up.
 Vaatu	 You're too weak to resist, and I'm stronger than ever. There's no use fighting. Let go.
+Amon, Unalaq, and Vaatu	Let go. Let go. Let go.
 Ikki	I'm thirsty!
 Meelo	I gotta go pee.
 Daw	Me too.
+Red Lotus sentry #1	Hey! Keep it down over there, or you're all gonna end up like them. 
 Pema	Sir, please. We just ask some water. There are children, and a baby here.
+Red Lotus sentry #1	Oh, so you just called me over to attack me? Fine! Now nobody gets any water.  I don't know how we ended up in daycare while everyone else gets to watch the Avatar being destroyed. I can hold a bowl of poison!
 Red Lotus sentry #2	Hey! What do you think you're doing?!
 Opal	Mom!
 Suyin	 Oh, honey, I'm so glad you're safe.

@@ -1,8 +1,10 @@
+Shiro Shinobi	 Benders be on alert. After coming face to face with Amon, leader of the Equalists, Avatar Korra discovers a terrifying truth: this masked mad man has the ability to take away a person's bending, permanently. Benders of Republic City are counting on their young Avatar. But is she prepared to face such a frightening foe?
 Amon	After I take your bending away, you will be nothing. 
 Korra	It's ... it's all right, Naga. I just had a bad dream. 
 Tarrlok	There is a madman running around our beloved city, threatening to tear it apart. We need to create a task force whose sole mission is to find Amon and bring him to justice.
 Tenzin	 Absolutely not. A move that aggressive would only further divide benders and nonbenders.
-Tarrlok	[Stands up and bows.] It would be my honor and privilege to accept such a duty.
+Fire Nation councilwoman	Tarrlok, I'm inclined to agree with your proposal, but who would even  head up such a task force?
+Tarrlok	 It would be my honor and privilege to accept such a duty.
 Tenzin	 This is just another one of your ploys to gain more power, isn't it? 
 Tarrlok	All I'm trying to do is help. Think back, forty-two years ago, Republic City was threatened by another dangerous man. Yakone.  Your father wasn't afraid to deal with him head-on.
 Tenzin	This.. is a completely different situation ...  and how dare you compare yourself to Avatar Aang!
@@ -71,18 +73,25 @@ Bolin	 Uh, oh I can't remember now. Oh yeah, now I remember. You saved me from A
 Korra	Oh, that?  It was no big deal.
 Bolin	"No big deal, are you serious? I was totally freaking out when he was coming at me with his creepy mask all, ""I will take away your bending forever.""  I mean that is.. scary stuff; I still can't sleep well."
 Korra	Mhmm.
+Council page	Delivery for Avatar Korra.  Tarrlok sends his compliments and urges you to reconsider his offer.
 Korra	Tell him I haven't changed my mind.
-Bolin	Who's this Tarrlok guy? Is he bothering you? Huh, 'cause I could have a word with him. [Punches fist into his other hand.]
+Council page	Mhmm ... 
+Bolin	Who's this Tarrlok guy? Is he bothering you? Huh, 'cause I could have a word with him. 
 Korra	 Heh, no it's not like that. He's just some old guy who works with Tenzin on the council.
 Bolin	Oh, good. Good, that sounds better. I like that better.
+Hiroshi Sato	What do you think of my little operation here?
 Mako	It's very impressive, Mr. Sato.
+Hiroshi Sato	Please, call me Hiroshi. So, I understand you're dirt poor.
 Mako	Uh, well ...
-Asami	Dad, stop bragging. Just tell Mako the good news. [Her dad chuckles.]
+Hiroshi Sato	Young man, it is nothing to be ashamed of. I too came from humble beginnings. Why, when I was your age, I was a mere shoe-shiner, and all I had to my name was an idea; the Satomobile.  Now, I was fortunate enough to meet someone who believed in me and my work ethic. He gave me the money I needed to get my idea off the ground and I built the entire Future Industries empire from that one selfless loan. 
+Asami	Dad, stop bragging. Just tell Mako the good news. 
 Mako	What good news?
+Hiroshi Sato	Well, my daughter passionately told me all about your hard earned success in the Pro-bending Arena. And about your team's current  financial stumbling block. Now, I'd hate to see you lose your chance at winning the championship just because you're short a few yuans. That's why I'm going to sponsor the Fire Ferrets in the tournament.
 Mako	Are you serious?
 Asami	He's serious. My dad's going to cover your ante for the championship pot.
 Mako	Tha-that is good news.
-Mako	I'll tattoo it on my chest if you want, sir. [Points to his chest and smiles while both Hiroshi and Asami chuckle.] Thank you both so much. [Shakes Hiroshi and Asami's hands.] I promise the Fire Ferrets will make the most of this opportunity.
+Hiroshi Sato	There's just one catch. You all have to wear the Future Industries logo on your uniforms.
+Mako	I'll tattoo it on my chest if you want, sir.  Thank you both so much.  I promise the Fire Ferrets will make the most of this opportunity.
 Ikki	 Out of the way Daddy, we're driving here!  Beeeeeeep beebeebeeeeep!
 Meelo	Beep-beep.
 Tenzin	I see Tarrlok's gifts are getting more and more extravagant.
@@ -93,16 +102,21 @@ Tenzin	 Why don't you take a break?  I'm glad you turned down Tarrlok, but I jus
 Korra	I'm just really focused on my airbending right now is all.
 Tenzin	 Right, that's what you said. You know, it's okay to be scared. The whole city is frightened by what's been going on. The important thing is to talk about our fears, because if we don't, they can throw us out of balance.
 Tenzin	I'm always here for you, if you want to talk.
+Council page	Avatar Korra! I have something for you.
 Korra	It doesn't matter how many gifts Tarrlok sends, I am no​t joining his task force.
-Korra	[Surprised.] To what? [Gives an angry look to the page and grabs the papers out of his hands and starts reading them.]
+Council page	It's not a gift, it's an invitation.
+Korra	 To what? 
+Council page	Tarrlok is throwing a gala in your honor.  All of Republic City's movers and shakers will be there. The councilman humbly requests your attendance.
 Korra	I can't believe this is all for me.
 Tenzin	I'm not sure what Tarrlok's plotting, but keep your guard up. It's not like him to throw a party just for the fun of it.
 Tarrlok	 So glad you could make it, Avatar Korra.  If you'd excuse us, the city awaits its hero. 
 Tenzin	Meelo! No, that's not a toilet! Oh dear. 
 Tarrlok	Korra, it's my pleasure to introduce Republic City's most famous industrialist, Hiroshi Sato.
 Korra	Nice to meet you.
-Korra	Right, [Looks down sadly.] greatness.
+Hiroshi Sato	 We're all expecting great things from you.
+Korra	Right,  greatness.
 Mako	 Hey, Korra!
+Hiroshi Sato	 This is my daughter, Asami.
 Asami	It's lovely to meet you. Mako's told me so much about you.
 Korra	 Really? Because he hasn't mentioned you at all. How did you two meet?
 Bolin	 Asami crashed into him on her moped.
@@ -111,13 +125,19 @@ Mako	I'm fine. More than fine. Mister Sato agreed to sponsor our team; we're bac
 Bolin	 Hehe, isn't that great?
 Korra	 Yeah, terrific.
 Tarrlok	 Chief Beifong, I believe you and Avatar Korra have already met.
+Lin Beifong	 Just because the city's throwing you this big to-do,  don't think you're something special.  You've done absolutely nothing to deserve this. 
 Tarrlok	If you'd be so kind, they just have a couple of questions.
 Korra	But ...
-Korra	[Clears throat.] I think he presents a real problem. [She sounds slightly confused while saying this.]
+Reporter #1	Avatar Korra, you witnessed Amon take away people's bending firsthand. How serious a threat does he pose to the innocent citizens of Republic City?
+Korra	 I think he presents a real problem. 
+Reporter #2	Then why have you refused to join Tarrlok's task force? As the Avatar, shouldn't you be going after Amon?
 Korra	Well, I ...
-Korra	[Offended.] What? No! I've never backed away from anything in my life!
+Reporter #2	Why are you backing away from this fight?
+Korra	 What? No! I've never backed away from anything in my life!
+Reporter #3	You promised to serve this city, aren't you going back on that promise now?
 Reporter #4	Do you think pro-bending is more important than fighting the revolution?
-Reporter #2	[Cuts to a close-up of Korra's face; voice-over.] Are you afraid of Amon?
+Reporter #5	How do you think Avatar Aang would have handled this?
+Reporter #2	 Are you afraid of Amon?
 Korra	 I am not afraid of anybody! If the city needs me then ...  I'll join Tarrlok's task force and help fight Amon.
 Tarrlok	 There's your headline, folks.
 Tarrlok	My fellow task force deputies, tonight we will execute a raid on an underground chi blocker training camp located in the Dragon Flats borough. According to my sources, there is a cellar underneath this bookstore,  where Equalists train chi blocking in secret.
@@ -128,7 +148,8 @@ Korra	Yeah, we do.
 Bolin	No Korra for practice again?
 Mako	 Doesn't look like it.
 Tarrlok	Avatar Korra has bravely answered the call to action. With the two of us leading the charge, Republic City has nothing to fear from Amon and the Equalists.
-Korra	[Comes closer to the microphone, while Tarrlok takes a step back.] You want to know why? Because Amon is hiding in the shadows like a coward. [Grabs microphone.] Amon, I challenge you to a duel! No task force, no chi blockers, just the two of us tonight at midnight on Avatar Aang Memorial Island. Let's cut to the chase and settle this thing, if you're man enough to face me. [Puts the microphone down and walks off stage, as the reporters buzz with questions asking for details and standing up to get attention.]
+Female reporter	Question for the Avatar!  Amon remains at large. Why have you failed to locate him?
+Korra	 You want to know why? Because Amon is hiding in the shadows like a coward.  Amon, I challenge you to a duel! No task force, no chi blockers, just the two of us tonight at midnight on Avatar Aang Memorial Island. Let's cut to the chase and settle this thing, if you're man enough to face me. 
 Asami	I know it sounds weird to say this, but I'm really glad I hit you with my moped.
 Mako	 Uh, me too.
 Asami	I forgot to ask. Why didn't you accept the new silk scarf I bought for you last week? You didn't like it?

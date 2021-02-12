@@ -1,5 +1,6 @@
 import glob
 import pandas as pd
+import re
 
 def remove_text_inside_brackets(text, brackets="()[]<>"):
     count = [0] * (len(brackets) // 2) # count open/close brackets
@@ -36,8 +37,8 @@ if __name__ == "__main__":
                 df = df.dropna()
                 listoflists = df.values.tolist()
                 for line in listoflists:
-                    if " " not in line[0]:
-                        line[1] = remove_text_inside_brackets(line[1])
+                    if len(line[0]) <= 30:
+                        line[1] = re.sub(r'\[[^\]]*\]', "", line[1])
                         if line[0] not in dict.keys():
                             dict[line[0]] = 0
                         dict[line[0]] += len(line[1].strip().split(" "))

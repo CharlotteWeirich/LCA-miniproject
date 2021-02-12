@@ -1,3 +1,4 @@
+Shiro Shinobi	 The world has entered a new age. Harmonic Convergence created an energy shift the likes of which has never been felt before. And after two weeks, Republic City continues to recover from Korra's epic battle with UnaVaatu. Vines have sprouted up all over, creating pockets of wilds the spirits have come to call home. What other changes are in store for our city?
 Bumi	 Come back, Bum-Ju!  If you don't want to wear the sweater I made you, that's fine. I'm sorry I got mad!  Bum-Ju, I'm running out of tree. Can we go down now?  Ahhh!  Bum-Ju, a little help!.
 Bumi	Look, I'm airbending!  Ah! Ow, that still hurt a lot.
 Korra	How are we ever gonna clear away all these vines?
@@ -6,11 +7,15 @@ Tenzin	I'm sure you'll find a way.
 Jinora	Why do you want to get rid of them? You changed the world. We're connected with the spirits again. The wilds are their home.
 Korra	I don't think that the people who used to live here are as excited about it as you are.
 Korra	 I gotta go face the press and tell them I still don't have a way to get rid of the vines.  This should be fun. 
-Raiko	I'm not concerned with snappy put-downs in the press. I'm facing this calamity just like every other citizen. [Points at large vine.] There's a tree growing right through my office. You think I'm not doing everything I can to get rid of it?
+Male reporter #1	"Mr President, are you concerned that your approval ratings are now nearly as low as the Avatar's?  Have you seen today's headline? It says ""Raik-oh no. Polls pan pres' plans""."
+Raiko	I'm not concerned with snappy put-downs in the press. I'm facing this calamity just like every other citizen.  There's a tree growing right through my office. You think I'm not doing everything I can to get rid of it?
 Reporters	Avatar Korra, few questions please.
+Male reporter #2	Avatar Korra, do you regret the way you handled the Unalaq Crisis?
 Female reporter #1	Why are you forcing the integration of spirits in Republic City?
 Korra	Listen, I've been trying everything I can think of to get rid of these vines, but-
+Male reporter #3	Why can't you fix this?
 Male reporter #4	Are the vines here to stay?
+Female reporter #2	Is this part of your New World Order?
 Korra	Look, Harmonic Convergence was just a couple weeks ago. I just needed a little more time to get everything back to normal.
 Raiko	The Avatar has put us all in a very difficult position, but my administration-
 Korra	 Oh, I'm sorry. Did I put you in a difficult position by fighting the giant force of pure evil that was going to destroy the whole world?  Maybe your administration could have handled that.
@@ -67,6 +72,7 @@ Bumi	And you didn't tell me?
 Lin	 Invisible spirit monster attack?
 Tenzin	Lin, you won't believe this. Bumi just started airbending. 
 Lin	I'm afraid he's not the only one.
+Tenzin and Korra	What?
 Mako	I got a call last night. About a guy who just started airbending out of nowhere.
 Tenzin	You mean there's another one? Where is he now?
 Mako	He ... blew a door down on me and got away. We got an all-points bulletin out on him right now.
@@ -90,9 +96,12 @@ Korra	 I'm so sorry! I thought you knew!
 Asami	 I'm just kidding. I knew a long time ago.
 Korra	 Well, whatever happened with Mako, I'm glad it hasn't come between us. I've never had a girlfriend to hang out with and talk to before, except for Naga. This is nice.
 Asami	Vine! Vine!
+Fruithog Spirit	Hey! Watch where you're going!
 Korra	What are you doing living in the middle of the road in the first place?!
+Fruithog Spirit	Don't ask me, Avatar! You made the world this way; we're just living in it!
 Korra	Look, I don't have anything against spirits, but these vines are causing major problems all over the city!
-Asami	[As Korra seats back staring into blank space.] Korra, you okay?
+Fruithog Spirit	Spirits, vines. We're all the same. Seems like the Avatar would know that. 
+Asami	 Korra, you okay?
 Korra	 I think that spirit just gave me an idea how to get rid of these vines ...  But I'm gonna need a lot of water.
 Tenzin	It's like a dream, Dad. After a hundred and seventy years, new airbenders.
 Ikki	Dad.  When that new guy's airbending, does that make him our brother?
@@ -110,10 +119,13 @@ Meelo	 Don't worry dad, we'll help you.
 Tenzin	I know you will. 
 Korra	I hope this works.  What are you guys doing here?
 Raiko	I was alerted that you had a new plan to wipe out these noxious weed. So I thought you'd want everyone to be here to watch.
-Korra	[Stretches out a hand; sharply.] No questions! Just stand there. Silently!
+Male reporter #5	Avatar Korra,  do you really think-
+Korra	 No questions! Just stand there. Silently!
 Korra	Go in peace. 
-Male reporter #7	Will you send the spirits away now? [Korra turns in annoyance.]
-Korra	[As reporters run away.] Look out! [Grabs her staff.]
+Male reporter #6	How did you know what to do?
+Male reporter #7	Will you send the spirits away now? 
+Female reporter #3	How soon can we expect public water service to resume?
+Korra	 Look out! 
 Korra	Let's go, people! Hurry.
 Korra	 Hang on.
 Bolin	I think that could've gone better.
@@ -151,11 +163,17 @@ Raiko	Well, you know who's not here to stay?  You! I order you to leave this cit
 Korra	Don't worry, I was already leaving.
 Korra	I can see my path now. There are new airbenders out there and I'm going to find them and rebuild the Air Nation.
 Tenzin	Don't think I'm not going with you. It's so exciting. Who knows who's out there now, discovering the gift of airbending for the first time?
-Zaheer	Of course. [Turns to face the wall, with his hands behind his head.]
+White Lotus sentry	You know the drill, Zaheer.
+Zaheer	Of course. 
+White Lotus sentry	Hope you still like rice.
 Zaheer	Have you ever read the poetry of the great airbending guru, Laghima?
+White Lotus sentry	What?
 Zaheer	Guru Laghima lived four thousand years ago in the Northern Air Temple. It is said that he unlocked the secret of weightlessness and became untethered from the earth, living his final forty years without ever touching the ground.
+White Lotus sentry	 Is that how you plan to escape? With something you picked up from an old airbender children's story?
 Zaheer	"Like all great children's tales, it contains truth within the myth. Laghima once wrote: ""Instinct is a lie, told by a fearful body, hoping to be wrong."""
-Zaheer	It means that when you base your expectations only on what you see, [Puts his hands down.] you blind yourself to the possibilities of a new reality.
+White Lotus sentry	What's that supposed to mean?
+Zaheer	It means that when you base your expectations only on what you see,  you blind yourself to the possibilities of a new reality.
 Zaheer	Uh, uh, uh. You wouldn't want to singe your friend, would you?
+White Lotus sentry	 How? You're not a ... bender.
 Zaheer	Nature is constantly changing. Like the wind.
 Zaheer	Now you might want to ration that bowl of rice. You've got three weeks until the next shift change. It's the dawning of a new age. The end of the White Lotus, and soon, the end of the Avatar.

@@ -1,5 +1,7 @@
+Shiro Shinobi	 After Kuvira harvested spirit vines from the swamp, the vines in Republic City reacted by abducting people. Korra saved everyone, but all is not well. Varrick and Bolin returned to warn everyone about Kuvira's spirit vine super weapon. Now Raiko wants to mount a defense against the Earth Empire! Meanwhile, Bolin, Opal, and Lin are on a mission to rescue Su Beifong and her family, who are being held captive by Kuvira!
 Bolin	All right, let's do this!  Saving the Beifongs and saving our love, because I vow to repair the rift that has grown betwixt us and make us whole again!
-Bolin	[Timidly.] Yes, ma'am.
+Lin Beifong	 You. Zip it. Now. I had enough of your babble on the way in.
+Bolin	 Yes, ma'am.
 Opal	Kuvira tore down all the domes. Why would she do that?
 Lin	 She's got a whole battalion of troops stationed there. There's no way we'll be able to spot anything useful from here. We'll have to go in for a closer look.
 Toph	Don't bother. All the prisoners have been moved.
@@ -41,10 +43,14 @@ Mako	Nice job in there. I'm proud of you. You're starting to act like the kind o
 Wu	"Thanks.  And if Korra buys this ""man of the people"" thing, I still might get to date her."
 Mako	 You always have to ruin it.
 Wu	What? Come on! Why do you think guys do anything great? To pick up girls. Every work of art, every song, every city evacuation, all for the ladies. 
+Baatar Jr.	 All right, everybody, let's test the power core.  I want everything in order for the full demonstration for Kuvira tomorrow. Load the energy capsule.
 Baatar Jr.	Zhu Li, initialize phase one.
-Baatar Jr.	[Reluctantly.] Shut it down.
-Baatar Jr.	[Urgently.] Everyone get out! Now!
-Baatar Jr.	[Holding up the cracked ring.] This channeling ring was cracked. That's what caused the reaction to overload. [Angrily.] Now we're taking this whole thing apart tonight and checking everything! Nothing is too small. This has to be ready by tomorrow.
+Zhu Li	There's a problem with the condenser. It's backing up!
+Baatar Jr.	 Shut it down.
+Zhu Li	 I can't. The override isn't working. Everyone needs to evacuate. This thing is going to blow!
+Baatar Jr.	 Everyone get out! Now!
+Zhu Li	Come on, Baatar! It's too late!
+Baatar Jr.	 This channeling ring was cracked. That's what caused the reaction to overload.  Now we're taking this whole thing apart tonight and checking everything! Nothing is too small. This has to be ready by tomorrow.
 Bolin	 So how long as it been since you two have seen each other?
 Toph	 Little while now. Couple of years. 
 Lin	Try twenty.
@@ -57,10 +63,14 @@ Bolin	 Whoa, that's one big ... thing.
 Toph	 I think I know where they are. Feel that cavern a few stories down? It seems empty, but it's guarded by an awful lot of mech.
 Lin	 Right. Why would you need soldiers guarding an empty cavern? They must have them in some kind of suspended prison, so they can't use their earthbending. 
 Bolin	Someone's coming. Hide!
-Kuvira	[Gazing up at the cannon.] I just wanted to check in to make sure everything was on track. It looks wonderful.
-Kuvira	[Turns to Zhu Li.] You've been working on this the entire time, Zhu Li. What do you think the problem is?
+Baatar Jr.	I didn't expect you until tomorrow.
+Kuvira	 I just wanted to check in to make sure everything was on track. It looks wonderful.
+Baatar Jr.	We've had a few minor malfunctions, but we should be ready for the test tomorrow.
+Kuvira	 You've been working on this the entire time, Zhu Li. What do you think the problem is?
+Zhu Li	It's a very complex machine. There are bound to be some bugs to work out.
 Kuvira	But you're doing everything you can to fix those, correct?
-Toph	She's lying. [Bolin lights up at this revelation.]
+Zhu Li	Of course, your eminence.
+Toph	She's lying. 
 Kuvira	Tell the troops and the factory workers to attend tomorrow's demonstration. I want them all to witness this incredible new weapon in action.
 Opal	 We should be thinking of a way to take out Kuvira while we have the chance.
 Bolin	Or at least destroy the cannon. If she takes that to Republic City, it could obliterate everything.
@@ -93,15 +103,20 @@ Lin	We'll get you out one at a time. Come on.
 Bolin	I got you!
 Kuvira	Congratulations on all of your hard work.  This weapon is proof that the Earth Empire is the strongest nation in the world. And believe me, this is only the beginning!  Fire the weapon.
 Kuvira	What's wrong?
+Baatar Jr.	 Probably something minor.  I should be able to find the problem.  The distributor pin is gone.  I swear I locked it in place yesterday. There's no way it could have just fallen out. 
 Kuvira	And this could cause the entire weapon to fail?
-Kuvira	[Turns to face Zhu Li.] What do you know about this?
-Kuvira	[Metalbends the distributor pin from Zhu Li's pocket and lets it twirl in front of them.] You swore your loyalty to me and I gave you a chance at greatness. [Grabs the pin in anger.] This is how you repay me?!
-Kuvira	[Seizes Zhu Li and throws her to Baatar Jr.] Chain her up in the target town. She can see how the weapon works [Cut to Opal's vantage point.] up close and personal.
+Baatar Jr.	It could cause it to explode.
+Kuvira	 What do you know about this?
+Zhu Li	Nothing.
+Kuvira	 You swore your loyalty to me and I gave you a chance at greatness.  This is how you repay me?!
+Zhu Li	 You're a monster. I regret nothing.
+Kuvira	 Chain her up in the target town. She can see how the weapon works  up close and personal.
 Opal	 Oh, no.
 Suyin	 Sweetie, it'll be fine. Lin won't drop you and Bolin will catch you.
 Baatar	 No, no. Just go. Just leave me. I'll stay here. 
 Lin	 Sorry, but I have to do this.
 Kuvira	The prison. Get there now!
+Baatar Jr.	Should we postpone the test?
 Kuvira	I didn't come all this way to stop now. Fire when ready. I want to see that town destroyed.
 Bolin	 We got 'em. We're coming out.
 Opal	Mom! Dad!  Thank you. 
@@ -121,9 +136,13 @@ Suyin	 Watch out for Baatar Sr. and Huan.
 Baatar	So how have you been, mother?
 Toph	I told you never to call me that. 
 Korra	Spirits, this is the Avatar.  Please listen to me.  Since I opened the portals, spirits and humans have lived happily together in Republic City. It's all I could have hoped for. I know you felt the effects of Kuvira cutting down spirit vines. But now isn't the time for you to flee the city.  It's time for you to help me save it from Kuvira, who was perverting spirit power to use as a weapon against other humans. 
+Dragon eel spirit	We don't  get involved with human wars.
 Korra	Spirits worked with Unalaq.
+Dragon eel spirit	He was misusing Vaatu's power during Harmonic Convergence to force spirits to fight you. Is that what you want?
 Korra	No, but as the Avatar, I'm hoping that you will come to my aid to save the new world we all share.
-Korra	Wait! Please, listen. [The spirits continue to fade away.] If spirits and humans are gonna live together, we have to work with each other! [Sighs.]
+Dragon eel spirit	 What you want is exactly what Kuvira wants: to use spirits as a weapon in a human war.  The answer is no.
+Korra	Wait! Please, listen.  If spirits and humans are gonna live together, we have to work with each other! 
+Baatar Jr.	 Opal? No!  We have to stop the test!
 Opal	Whoa.
 Toph	 You give metalbenders a bad name!
 Suyin	Thanks for coming to save us, Mom.
@@ -134,5 +153,7 @@ Bolin	You know, I never had any family except for my brother  until a few years 
 Toph	Argh, enough!  Enjoy the ride back to the city  with the gum flapper here.
 Opal	Aren't you coming back to Republic City with us, Grandma?
 Toph	No, my fighting days are over. Don't tell Korra, but my back is killing me now. This is why you didn't see Katara messing with that civil war nonsense. At some point, you gotta leave it to the kids. 
-Opal	[Playfully.] I think Bolin has worked his way out of the polar bear doghouse. [Kisses his cheek.]
+Zhu Li	I want to thank you for coming back to save me. And don't be too hard on Bolin for working with Kuvira. His heart was in the right place.
+Opal	 I think Bolin has worked his way out of the polar bear doghouse. 
 Bolin	 Yes! 
+Zhu Li	We should get going. I'm afraid I have bad news to deliver to Republic City.  Kuvira is going to attack in two weeks.

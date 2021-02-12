@@ -1,3 +1,4 @@
+Shiro Shinobi	 Lin Beifong has a sister. After arriving in Zaofu, Korra met Opal, a new airbender whose mother is Lin's estranged half-sister. Suyin and her daughter welcomed Lin with open arms, but she wanted nothing to do with them. Meanwhile, Zaheer infiltrated Air Temple Island, looking for the Avatar. After battling with Kya, he escaped and is now a wanted man in Republic City.
 Mako	Hey, has anyone seen Chief Beifong?
 Korra	I think she's still sulking in her room.
 Suyin	I know she has a problem with me, but she had no right to yell at Opal last night.  All set for your power disc game, guys?
@@ -12,7 +13,8 @@ Opal	 You should try it, too.
 Bolin	 Uh, nah. I'm more of an earth guy. The dirt, rocks; y'know, maybe some light gravel. That's kinda where my heart is.
 Suyin	Okay, Earth Guy. Well, let me know if you change your mind.
 Varrick	It worked! Zhu Li, mark it down. Magnet suit test successful.  Power down.  On to phase two: Zhu Li cleans up this mess. 
-Lin	What do you two think you're doing?! Get back to work! [Groans uncomfortably and puts her hand on her face.]
+Guard #1	How many push-ups did you do last night? 'Cause I did like fifty.
+Lin	What do you two think you're doing?! Get back to work! 
 Aiwei	Is everything all right here?
 Lin	The Avatar is in danger, and these two knuckleheads are just standing around chit-chatting.
 Aiwei	Don't worry, Zaofu is the most secure city in the world.

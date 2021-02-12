@@ -1,3 +1,4 @@
+Shiro Shinobi	 Is there any place safe for the Avatar? First, President Raiko banished her from Republic City. Then the Earth Queen declared her an enemy of the Earth Kingdom after Korra rescued a group of airbenders in Ba Sing Se. And Korra has learned that Zaheer and his fellow criminals are after her. With Tenzin busy with bringing the new recruits to the Northern Air Temple, Korra's protection rests in Beifong's hands.
 Lin	While you're playing fetch, four of the most dangerous criminals are hunting you down. We should get moving.
 Korra	Relax, we just got here. Besides, no one knows where I am except us.  I think she wants you to throw it for her.
 Lin	I'll pass, thanks.
@@ -182,6 +183,7 @@ Kya	And you moved through those gates like a natural. Where did you say you were
 Zaheer	A small village up north. You've probably never heard of it.
 Kya	Wait.  Zaheer!
 Kya	I need some help!
+White Lotus sentry	Hold it right there!
 Zaheer	Sorry, I won't be joining you at the Northern Air Temple. I'm afraid I have other plans.
 Lin	 Who is it?
 Korra	Hey, it's me. I brought someone who wants to talk to you. 

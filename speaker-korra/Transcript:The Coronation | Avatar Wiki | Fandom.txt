@@ -1,3 +1,4 @@
+Shiro Shinobi	 So much has changed these past three years! Mako is a bodyguard for the future Earth King, Prince Wu, while Bolin works for Kuvira, the Earth Kingdom's interim leader, who has brought stability to a nation plagued by chaos. Meanwhile, after wandering the world trying to heal herself, a spirit led Korra to the swamp, where she met Toph Beifong. Will this earthbending master be the key to Korra regaining her Avatar mojo?
 Wu	 So then the crowds are gathered, all excited to see my coronation, when all of a sudden, these boulders come rolling through. And guess what pops out of 'em? Earthbender dames! These gals start banging the boulders like drums, and sing the song of my royal lineage.  It's the most dynamite six-hour show you'll ever see in your life. 
 Mako	Shouldn't you be getting ready to,  I don't know ... rule a whole nation?
 Wu	 Now, now, now, don't get yourself in a tizzy.  I'll have ministers for all that!  No, sir, Mako, when we get to Ba Sing Se, it'll just be two kooky pals, living the life! 
@@ -30,7 +31,8 @@ Eska	 Boss, girlfriend. Same thing.
 Cam	 I'm afraid there's been a mistake, Your Eminence. We have you and your brother booked in the same room, with only one bed.
 Eska	It's no mistake. Desna sleeps in the tub.
 Varrick	Never thought I'd be allowed back in the Republic City Four Elements.  Raiko must have turned purple when Kuvira made him pardon me of my alleged crimes.
-Varrick	[Excited again, he moves his arms up and down as the cut focuses on him.] Upstanding is right! [Quiets down to a whisper, moving his eyebrows up and down.] And don't forget to fill the extra bag with as many of those little soaps as you can grab. [Fixes collar.] Love the lavender scent.
+Zhu Li	You're an upstanding citizen again, sir.
+Varrick	 Upstanding is right!  And don't forget to fill the extra bag with as many of those little soaps as you can grab.  Love the lavender scent.
 Mako	Bolin!  Look at you! My little brother got all ... important.
 Bolin	I know, right? I see myself in the mirror sometimes and I think I'm in trouble before I realize: it's only me.
 Mako	 So, what's it like working for Kuvira?  From what I've heard, she's pretty harsh.
@@ -38,10 +40,14 @@ Bolin	 No! I—I mean, she can be tough, sure, but we're turning around the Eart
 Mako	 Well, I've been working for Wu.  And, uhhh ...  Yeah.
 Bolin	So, have you seen Korra yet?
 Mako	No. She was supposed to come in with Tonraq, but he said she left the South Pole months ago. No one knows where she is.
+Baatar Jr.	Mother.
 Suyin	Hello, Baatar Jr.
+Baatar Jr.	"It's just ""Baatar"" now. So, now that you've seen all the good we've done since we left Zaofu, you must be sorry that you didn't come and help us."
 Suyin	"I don't know if I'd call marching all over the Earth Kingdom, forcing people to bow to Kuvira, ""doing good""."
+Baatar Jr.	You're going to have to get over your grudge with her. I'm sure you've heard that we're engaged. She's going to be an official member of our family.
 Suyin	I'm just glad she'll be stepping down after tomorrow.
-Wu	I hope I'm not out of order saying this: You're pretty easy on the eyes for a military type. [Kuvira ignores him.] I'll put in a good word for you with the hotel staff, maybe get you a little upgrade. I've been living here for years, they love me.
+Baatar Jr.	You prefer to be ruled by  that royal idiot?
+Wu	I hope I'm not out of order saying this: You're pretty easy on the eyes for a military type.  I'll put in a good word for you with the hotel staff, maybe get you a little upgrade. I've been living here for years, they love me.
 Kuvira	I won't be needing your help. We've reserved the presidential suite.
 Wu	Well, I think someone is pulling your chain, gumdrop! See, I'm in the presidential suite.
 Kuvira	 Not anymore. I had you moved out.
@@ -69,7 +75,8 @@ Toph	Yeah, the swampbenders out here really can't take a punch.
 Korra	So ... what made you want to drop out and disconnect from the rest of the world?
 Toph	I'm more connected to the world than you've ever been! The roots and vines ... they run all over the world. I can see Su and Lin, Zaofu and Republic City. I see everything.  You're blind compared to me.
 Gun	Now rise, Wu of the Hou-Ting Dynasty, King of all the Earth Lands and glorious defender of Ba Sing Se. Long may you reign!
-Spectator #2	[Just as disinterested.] Woohoo ...
+Spectator #1	 Go Wu! Woohoo ...
+Spectator #2	 Woohoo ...
 Wu	 Thank you, for that incredibly brief, but very moving ceremony. I am touched by the love of my devoted countrymen, who have worked so hard to restore their beloved leader to the throne. One of them deserves special attention.  Kuvira, rise!  For your service to the realm, I would like to present you with the Kyoshi Medal of Freedom, our nation's highest honor, which was somehow not stolen, unlike the royal pinky rings.
 Kuvira	Thank you. And if you don't mind, I would like to say a few words.
 Wu	Why not?  We've got six hours to fill ...
@@ -135,6 +142,7 @@ Toph	Oh, my girls never really picked up metalbending all that well, if you ask 
 Korra	 That's been my problem this entire time! I gotta get it out! You can get it out for me, right?
 Toph	Who do you think you're talking to? 
 Wu	Once we're done with these, we can go into the Middle Ring and I'll let you pick out some new suits, then we'll hit the boutiques in the Upper Ring for me.  Where did you get those shirts?
+Girl #1	Aces, right? Kuvira is my hero.
 Girl #2	They're selling them over there.
 Wu	 You can't sell that junk in here! This is the Little Ba Sing Se Fashion Mall, and I'm the Little King here! Respect the brooch!
 Crowd	 Stop it, Little King!
@@ -142,7 +150,8 @@ Wu	 I am the Glorious Defender!
 Crowd	 I'm covered in juice! Get him!
 Mako	We need to get you out of here.
 Wu	 It's destiny. Look where we are, Mako! The Royal Palace.
-Wu	[Wrenches the scepter and the crown away from the boy, also taking the cape from his mother.] It's my coronation day! You'll have another birthday next year, but I'll never have this day back again! Never! [Breaks down into tears.]
+Little Boy	Hey! It's my birthday!
+Wu	 It's my coronation day! You'll have another birthday next year, but I'll never have this day back again! Never! 
 Mako	Okay, you're losing it.
 Wu	 This is the worst day of my life!
 Mako	Why? Do you really want to be the king? I mean, Kuvira might be a power-crazed dictator, but at least she spent the last few years working hard to make the Earth Kingdom somewhat better. If you were an Earth Kingdom citizen, do you think you're the kind of person you want as your king? What have you ever done for your people?  I'm sorry, that was out of line.

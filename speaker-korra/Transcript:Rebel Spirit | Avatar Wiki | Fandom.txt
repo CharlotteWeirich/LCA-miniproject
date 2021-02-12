@@ -1,8 +1,14 @@
-Greenhorn	[Cut to a close-up of the two sailors.] Mmhmm.
-Greenhorn	[Fearfully.] Uh, Sir!
+Shiro Shinobi	 Six months ago, Avatar Korra defeated Amon and the Equalists. Since then the council was disbanded and the United Republic elected its first president. Tenzin's brother, Commander Bumi, retired and moved to Air Temple Island. And Korra and her boyfriend Mako have been the talk of the town. Peace has come to Republic City, but unbeknownst to the Avatar, danger now threatens the Southern Water Tribe.
+Old salt	This your first watch?
+Greenhorn	 Mmhmm.
+Old salt	Well then, better keep your eyes peeled laddie.  Ya never know what creatures lurk in the murky depths.
+Greenhorn	 Uh, Sir!
+Old salt	What?
 Greenhorn	Man overboard! Man overboard!
-Bolin	[Serious tone.] Now we all know that our last match was garbage. Terrible! [Gestures with his right hand to Pabu.] Even Pabu could've done a better job. [Pabu walks up to Bolin and puts his paws on his master's side while squeaking. Bolin takes on a more confident and proud posture; in a more cheerful tone.] But that's in the past, [Confidently leans forward in a somewhat defensive pose.] because when you back a Fire Ferret in the corner, well mister, [He throws a strong downward punch.] he comes out fighting! [Bolin confidently raises his fist before his body, while Pabu hisses, arching his back. Bolin confidently points toward the arena.] So, let's get out there [Raises his fist above his head.] and bend like there's [Triumphantly punches in the air with his right fist; camera slowly moves back to show that he is talking to the two other Fire Ferret members.] no tomorrow. [In an excited and hopeful tone.] Are ya with me?
-Bolin	[Defeated, Bolin puts his head down, sighing in disappointment.] Where's Mako when I need him?
+Shiro Shinobi	 Iiiiit's pro-bending night in Republic City, and have we got a doozy for you!  Fan favorites, the Fire Ferrets, are about to take on hot newcomers, the Rhino Lions!
+Bolin	 Now we all know that our last match was garbage. Terrible!  Even Pabu could've done a better job.  But that's in the past,  because when you back a Fire Ferret in the corner, well mister,  he comes out fighting!  So, let's get out there  and bend like there's  no tomorrow.  Are ya with me?
+Shiro Shinobi	 Ooh, the Fire Ferrets go down in the water, and right into the record books  for the fastest knockout in Pro-bending history!
+Bolin	 Where's Mako when I need him?
 Mako	 Looks like you had some car trouble.  Good thing the police are here.
 Asami	 I think these planes are finally ready to ship.
 Engineer	 I hate to mention the elephant-rhino in the room,  but since your father was thrown in prison, no company will work with us.  We're nearly bankrupt.
@@ -28,6 +34,7 @@ Korra	Great, more attention.
 Bumi	"Hah! Relax ... I'd pay money to see that. Maybe I'll tag along just to see ""Vacation Tenzin""."
 Tenzin	You're not invited.
 Korra	 Before we go on your dad's study trip, we're gonna have some real fun in my home town at the Glacier Spirits Festival. They've got rides, games, and all kinds of fried food on sticks.
+Tenzin's children	Yay!
 Bumi	Yep. There's Vacation Tenzin. And you can't stop me from going to the festival, Mom already invited me.
 Mako	" So I walk up and say: ""Looks like you had some car trouble. Good thing the police are here."" "
 Korra	 Did you write that beforehand?
@@ -40,6 +47,7 @@ Korra	 Of course you'd take his side!
 Mako	I'm not taking his side, I'm just ...
 Korra	 I'm gonna take a walk. 
 Mako	 Why is it so much easier to bust triads than it is to get through one conversation with my girlfriend?
+Tenzin's children	Gran Gran!
 Katara	Oh ... you've all gotten so big.
 Jinora	We missed you, Aunt Kya.
 Kya	Ohh, I missed you, too. Your father doesn't bring you to visit nearly enough. He's probably scared I'll beat him up  like when we were kids.
@@ -74,8 +82,10 @@ Unalaq	 So you've said.
 Asami	I'm glad you came with me to this meeting. Varrick is one of the richest men in the world, and he controls the entire global shipping business. So, you're my assistant. Just stand there and don't say anything.
 Bolin	No problem, Pabu and I are natural assistants.  Man, this is nice! I got to get into this whole business thing.
 Varrick	Did ya see that?  Levitation!  I was a foot off the ground!  Is that incredible or what? 
+Male guest #1	How does he do that?
 Male guest #2	That's unbelievable.
-Bolin	[Slightly confused.] You looked like [Opens and spreads his arms.] you were just sitting on a pillow.
+Male guest #3	That's amazing.
+Bolin	 You looked like  you were just sitting on a pillow.
 Varrick	Are you saying I wasn't levitating?
 Bolin	 Uh ... no?
 Varrick	 Well, why didn't anyone tell me? Now I look like an idiot!  Swami, you're fired!  I like you, kid, you're a real straight shooter, just like me. Miss Sato, he's with you?  Brought your tiger shark with ya to do business, huh? Now that's moxie!  Get over here and pop a squat. Zhu Li, get some tea for my guests!
@@ -114,7 +124,8 @@ Eska	Yes.  Win me prizes.
 Korra	Unalaq offered to train me. He says he can teach me about the spirits and my connection to them.
 Mako	Sounds good. What does Tenzin think?
 Korra	Tenzin thinks I'm his prisoner or one of his kids. I'll never finish training with him in charge.
-Korra	[Cut to a close-up of a plush Appa toy as Korra holds it up.] I mean, you heard what Unalaq said. [Cut to a frontal shot of the duo as Korra lowers the plushie.] The South is spiritually unbalanced and it's the Avatar's job to fix it, but my dad won't even let me think about Unalaq teaching me. Well?
+Game guy	We have a winner!
+Korra	 I mean, you heard what Unalaq said.  The South is spiritually unbalanced and it's the Avatar's job to fix it, but my dad won't even let me think about Unalaq teaching me. Well?
 Mako	Well what?
 Korra	What do you think I should do?
 Mako	I guess you should do what you think is right. I support whatever decision you make.

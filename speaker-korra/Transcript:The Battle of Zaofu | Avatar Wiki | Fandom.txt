@@ -1,7 +1,9 @@
+Shiro Shinobi	 Kuvira threatens to take Zaofu by force! After tensions flared between Su Beifong and her former protégé, Korra brokered a truce, but it was too late. Su and her sons were already on their way to put an end to Kuvira. Meanwhile, Bolin and Varrick learned of Kuvira's true tyrannical intent and deserted her army, but they were captured and betrayed by Zhu Li. Now they're being held against their will!
 Wing	Are you sure this will work? Even without Kuvira, they could still crush us.
 Suyin	Most of this army has been forced into service by Kuvira. If we take her out, they'll have no reason to fight. Tonight  we end her reign of terror.
 Suyin	 She's alone in there. Now's our chance!
-Suyin	[Taking off her mask in surprise.] Zhu Li?
+Zhu Li	Don't hurt me!
+Suyin	 Zhu Li?
 Kuvira	I knew you'd try a sneak attack.  You were afraid to step up and lead the Earth Kingdom when you had the chance.  You were afraid to join me when I became the leader, and now, you're afraid of a fair fight.  You've always been a coward. Take them!
 Jinora	Korra, you have to go stop Su before she does something terrible.
 Opal	Stop her, we should be helping her.
@@ -25,13 +27,20 @@ Korra	I can't risk anyone else being captured. You can stay with Baatar and Huan
 Meelo	 Aw, man! When am I gonna see some action?
 Varrick	 Cookie ... jar ... empty. No ... hot ... towels! Waxy ... buildup!  Zhu Li!
 Varrick	Oh ... she really is gone.
-Varrick	Zhu Li always greeted me in the morning with a [A smile crosses his face as he stares vacantly at the wall.] a hot cup of tea.
+Baatar Jr.	Up and at 'em, Varrick! Time to go to work.  We have another lab set up for you.  Kuvira wants the spirit vine weapon operational as soon as possible.
+Varrick	Zhu Li always greeted me in the morning with a  a hot cup of tea.
+Baatar Jr.	 You'll get your tea when you start working.
 Varrick	Well, I'm really only productive for about fifteen minutes a day, usually in the afternoon around three-forty-five.
+Baatar Jr.	You'll work now. I want you to show me how the device works.
 Bolin	What's goin' on?
-Varrick	[Suddenly emphatic.] I can't be expected to work without an assistant! Without Zhu Li, I'm helpless!
-Varrick	[Glancing at the guard next to him.] Well, I guess he'll be fine. As long as he doesn't need his hands afterwards! [Chuckling as he finishes.]
-Varrick	[Sliding slowly across the floor toward the guard.] The last time we worked with the spirit vines, it created an uncontrollable blast [The guard's eyes widen as Varrick continues.] that burned through a wall and could still be blowing up comets in space, as far as I know! I wouldn't want to assist me if I were you!
-Baatar Jr.	[Sighing.] Fine. Bolin can assist.
+Baatar Jr.	Go back to sleep. We only need Varrick. You'll need your energy when you get to the re-education camp.
+Varrick	 I can't be expected to work without an assistant! Without Zhu Li, I'm helpless!
+Baatar Jr.	 One of the guards will be your assistant. I'll be supervising.
+Varrick	 Well, I guess he'll be fine. As long as he doesn't need his hands afterwards! 
+Guard #1	 What's he talking about, sir?
+Varrick	 The last time we worked with the spirit vines, it created an uncontrollable blast  that burned through a wall and could still be blowing up comets in space, as far as I know! I wouldn't want to assist me if I were you!
+Guard #1	Maybe we should just let the kid help him out.
+Baatar Jr.	 Fine. Bolin can assist.
 Bolin	 Wait, what? I need my hands!  Uh, hold on! Can we have breakfast first?  While we still have hands?
 Opal	Release them now!
 Kuvira	If Su agrees to bow to me and turn over Zaofu, she and the rest of your family will not be harmed.
@@ -61,26 +70,36 @@ Varrick	Bolin, do the thing.
 Bolin	What thing?
 Varrick	 The thing! I never had to tell Zhu Li what thing!
 Bolin	I'm not Zhu Li, okay? Pretend I don't know anything about anything that's happening here, also pretend I don't want to build a super weapon or get my hands blown off!
-Varrick	[Puts a hand on Baatar Jr.'s chest and slightly shoves him away.] You know, when I started working with the vines, [Uses the pliers to tinker with the machine.] the point was to find a clean, unlimited source of energy, not develop some spirity death ray.
+Baatar Jr.	Walk me through what you're doing. I want to know every detail of your work.
+Varrick	 You know, when I started working with the vines,  the point was to find a clean, unlimited source of energy, not develop some spirity death ray.
 Bolin	 Clean energy! Sounds great! Who doesn't like that stuff? Let's do that instead!
-Varrick	[Sarcastically.] How would you know? You couldn't discover a wolfbat if it was building a nest in your butt.
-Varrick	[Sarcastically.] Ooh. You got me there, Dr. Science. You'll never know how it feels to give birth to genius, only to have it kidnapped, and raised by fools!
-Varrick	[Raises hands in surrender.] Okay, okay, [Walks back to the vine.] The last time we ran the current through the vine [Winking at Bolin out of Baatar Jr.'s view as he walks past Bolin.] we couldn't control the power, so I'm trying something new to see if I can direct it.
+Baatar Jr.	 Quiet! You're here to help, not talk.  And you of all people, should realize that once a discovery is made, it is our responsibility as scientists  to pursue it as far as we can.  Wherever it leads.
+Varrick	 How would you know? You couldn't discover a wolfbat if it was building a nest in your butt.
+Baatar Jr.	 You're pathetic.  Wolfbats don't build nests.
+Varrick	 Ooh. You got me there, Dr. Science. You'll never know how it feels to give birth to genius, only to have it kidnapped, and raised by fools!
+Baatar Jr.	Are you done with your rambling, or do the guards need to encourage you to continue your work? 
+Varrick	 Okay, okay,  The last time we ran the current through the vine  we couldn't control the power, so I'm trying something new to see if I can direct it.
 Kuvira	 Come on, Avatar, get up! Show me what you've got!
 Opal	We have to help her!
 Korra	 No! Stay back! I can handle this.
-Varrick	[To Bolin, without looking.] Hand me the ... screw-turn-thingy, would ya?
+Baatar Jr.	So I see how the current interacts with the vine, and here is a kind of directional tube, but that is baffling here at the base. It looks like that would only redirect the energy back where it came from. And what's that piece of equipment you're fiddling with now on the power source?
+Varrick	 Hand me the ... screw-turn-thingy, would ya?
 Bolin	Ugh, I can't believe you're helping them, you know this isn't right. 
 Varrick	Funny story, Bolin. I first got the idea for harnessing spirit power when I watched that giant Unalaq-monster attack the city from my jail cell. That giant monster set me free!  Trust me, kid, I know what I'm doing.  That ought to do it.  Huh.  Okay, stand back.  There we go!
+Baatar Jr.	What's that ticking?
 Varrick	That's the timer.
+Baatar Jr.	 The timer for what?
 Varrick	For the bomb, of course!
 Bolin	 What?! What bomb?
 Varrick	 The bomb that's gonna explode in five minutes and destroy this entire train, all of the spirit vines, and everything else within a few hundred yards.
 Varrick	You know what, I'd get out of here if I were you. This is the first time I've built a timer and it might run a little fast. Bolin and I are ready to go down with the ship, or train, in this case, but you seem like you have a lot to live for.
 Bolin	Nononono! I'm not ready to go down with the ship, or the train!
-Varrick	"[Speaking calmly.] Stick around five minutes and you'll find out who's bluffing. [Shouting.] You'll be sorry you left me, Zhu Li! When they write the history books, your name will be synonymous with betrayal! People will say, ""Hey, what happened to that guy? Oh, didn't you hear? He 'Varricked' himself because some girl 'Zhu Li'd' him!"""
-Varrick	[As the guards advance on him, he pulls a detonator from his pocket.] You try to pull me away from this thing and I'll hit this remote, and blow it immediately!
-Varrick	Well, first, I built the timer, but then I thought, you could drag me off the train, so then I built a remote, but then I thought, do I really need the timer, because now I got a remote in my-- [Interrupts himself.] Whatever! I'm covering all my bases! The point is, you're leaving, we're staying!
+Baatar Jr.	You're bluffing.
+Varrick	" Stick around five minutes and you'll find out who's bluffing.  You'll be sorry you left me, Zhu Li! When they write the history books, your name will be synonymous with betrayal! People will say, ""Hey, what happened to that guy? Oh, didn't you hear? He 'Varricked' himself because some girl 'Zhu Li'd' him!"""
+Baatar Jr.	Enough! What makes you think we would let you blow yourself up? You're working for Kuvira! You don't get to quit.  Grab him.
+Varrick	 You try to pull me away from this thing and I'll hit this remote, and blow it immediately!
+Baatar Jr.	Why do you have a timer and a remote?
+Varrick	Well, first, I built the timer, but then I thought, you could drag me off the train, so then I built a remote, but then I thought, do I really need the timer, because now I got a remote in my--  Whatever! I'm covering all my bases! The point is, you're leaving, we're staying!
 Suyin	You have to go into the Avatar State! Do it!
 Jinora	I don't understand. We got the poison out; what's wrong with her?
 Kuvira	I knew you were weak.
@@ -91,13 +110,15 @@ Jinora	Help! You have to get Korra and the rest of us out of here now! Hurry!
 Meelo	 Finally! Let's get it on!
 Bolin	That's everyone, our half of the train is clear.
 Varrick	That's good, we're almost out of time.
-Varrick	[Triumphantly.] You knew that when you hired me! Bolin, do the thing! [Bolin hesitates, not knowing what Varrick means; angrily.] Unhook the cars, oh, come on, that was an easy one!
+Baatar Jr.	 You're insane.
+Varrick	 You knew that when you hired me! Bolin, do the thing!  Unhook the cars, oh, come on, that was an easy one!
 Bolin	Man, that was great! I gotta admit, you had me going there for a while, I really thought you were gonna blow us up! Now, how do we turn this thing off?
 Varrick	Ooh, we can't turn it off. We're gonna blow up--  --but, we had a pretty good run, right?
 Bolin	" What are you talking about, ""a good run""? I'm still running! I like running!"
 Varrick	 I'll see you on the other side,  Zhu Li.
 Bolin	 I want you to know,  I hate you.
-Varrick	Yes! [Bolin just looks at him angrily.] You did it, Bolin, you did the thing! [Kisses Bolin on the forehead.]
+Baatar Jr.	I can't believe he actually blew himself up. That man was crazier than a sewer pipe elephant-rat.  Let's get back to Zaofu.
+Varrick	Yes!  You did it, Bolin, you did the thing! 
 Bolin	I can't believe Zhu Li worked for you as long as she did.
 Meelo	 Dive, Pepper, dive!  Here comes a hurricane!  You can't handle all this Meelo!
 Jinora	We've got her, go! 
@@ -106,8 +127,13 @@ Suyin	Opal,  get out of here, we'll be fine!  Just go!
 Opal	 I'll be back for you! I love you!
 Kuvira	 Zaofu is ours! 
 Kuvira	 Bring the citizens of Zaofu to kneel before the Great Uniter! All who pledge their loyalty to me will keep their freedom and will be dealt with fairly as full citizens of the Earth Empire. The rest will be imprisoned as traitors, like Su Beifong and her sons. Now bow!
-Baatar	[Turns his head in shame.] I am so disappointed in you, Junior.
+Baatar Jr.	Bow to her! Do it! She is your rightful leader!
+Baatar	 I am so disappointed in you, Junior.
+Baatar Jr.	 Take them away! 
 Huan	Get your hands off me! You're crushing my individuality!
+Baatar Jr.	All hail the Great Uniter!
 Kuvira	Are you sure, there's no way they survived?
+Baatar Jr.	Positive. But I think I can replicate his work with the spirit vines and get us back on track. I'll just need an assistant.
 Kuvira	How would you like to help Baatar build the most powerful weapon the world has ever seen?
-Kuvira	[To Baatar Jr., not looking at him.] Begin dismantling the domes.
+Zhu Li	It would be my honor, Great Uniter. 
+Kuvira	 Begin dismantling the domes.

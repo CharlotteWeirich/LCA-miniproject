@@ -1,3 +1,4 @@
+Shiro Shinobi	 Unalaq has forced Korra into opening the Northern portal and trapped Jinora in the Spirit World. Back in Republic City, everybody loves Varrick's Nuktuk movers. Everybody, that is, except Mako, whose pursuit of Varrick has landed him in the slammer. And in the Southern Water Tribe, Unalaq's army is nearing victory in the Civil War, but Tonraq isn't about to give up without a fight.
 Meelo	 Dad's back.
 Pema	 Where's Jinora?  No!
 Tenzin	 Her spirit is trapped in the Spirit World, but she's going to be all right.
@@ -21,23 +22,30 @@ Mako	 No! I'm trying to tell you that Varrick isn't what he seems. Where's Asami
 Bolin	 I asked her to come, but she said it was too hard for her. You being in jail like this reminds her of her dad.  Okay, gotta run,  but I'll be back tomorrow. And I am gonna get you the best attorney fame and fortune can buy.
 Mako	 Bolin, wait. If my theory about Varrick is right, something might go down tonight at your premiere. Promise me you'll keep your eyes peeled.
 Bolin	 Yeah, okay, big brother. I promise.  Whew! That insanity defense is definitely gonna work.
-Tonraq	We can't wait any longer. [To the other rebels.] It's time to take back what is ours! It's time to take back our city!
+Rebel leader	 Should we wait another day? Korra still might come with reinforcements.
+Tonraq	We can't wait any longer.  It's time to take back what is ours! It's time to take back our city!
 Rebels	Yeah!
 Photographer	" Say ""Nuktuk""!"
-Bolin	[Walks inside with Ginger; frontal of both.] Wow, that was fun! And did you hear what Shiro said? We're Republic City's most famous couple.
+Shiro Shinobi	 There they are folks. The sweethearts of the big screen, and Republic City's most famous couple, Bolin and Ginger.
+Bolin	 Wow, that was fun! And did you hear what Shiro said? We're Republic City's most famous couple.
 Ginger	Bolin, you're a doll, but you're as dumb as the rocks you bend. We are not a couple.
 Bolin	 That's not what Shiro said!
-Gang	[Stands at attention with Lu.] You got it, boss.
-Shiro Shinobi	[Raiko and his wife step out of the limo; frontal of both.] This star-studded event just keeps getting star-studdier folks. President Raiko and the First Lady Buttercup Raiko just arrived, [Far shot of both as Varrick approaches them.] and they're being greeted by entrepreneur extraordinaire Varrick.
+Lin Beifong	 Stop stuffing your mustaches with Varri-cakes and get to your post!
+Gang	 You got it, boss.
+Lin Beifong	 You two are the pinnacle of refinement.
+Shiro Shinobi	 This star-studded event just keeps getting star-studdier folks. President Raiko and the First Lady Buttercup Raiko just arrived,  and they're being greeted by entrepreneur extraordinaire Varrick.
 Varrick	There they are, my two most honored guests.  What do you think?  No expense has been spared, I brought in the finest entertainers from Ba Sing Se, and the best food from around the world. Heck! I even had this red carpet imported from the Fire Nation! They make the best red stuff over there. Fact! All right, picture time. 
 Raiko	 Varrick, you didn't have to do all this for us.
 Varrick	 I wanted to. Mister President, I took one look at your wife and I knew that you were a man of exquisite taste.  And that's why I know you're gonna love this mover!
 Raiko	Varrick, I know what you're doing, and I doubt your propaganda is going to change my mind about going to war with the Northern Water Tribe.
 Varrick	Oh, I think you'll be surprised how persuasive I can be.
 Varrick	"Thank you all for  coming for the finale of ""Nuktuk: Hero of the South""! You know, when I first started this project there were a lot of naysayers out there. ""You can't make pictures move"" they said. ""You can't take some knucklehead earthbender and make him a star"" they said.  ""You can't teach a polar bear dog to speak"" they said. Well, they're wrong! Thanks to the magic of the movers, our furry friends have found their voices, and you'll be shocked to hear what they have to say.  They speak of the injustice that is happening in the Southern Water Tribe right now.  My hope, is that their words, and this epic mover, will inspire a real life hero to rise up, and help.  Thank you again, enjoy the show! "
+Voice narrator	When last we left our hero, he was captured by the Evil Unalaq's dastardly pet bird.  Amazingly, with the power of his whistling, Nuktuk escaped.  And decided to seek out council.
 Nuktuk	Thank you, wise sage. I will travel to Republic City and seek help.
+Mover president	Have a seat, I'm just working on a cure for the common cold. No longer will my citizens suffer from the sniffles.
 Nuktuk	Mister president, there's something more important than the sniffles right now. I need your help to stop the Evil Unalaq.
-Buttercup Raiko	[Whispering to her husband.] The seal lion seemed a bit far fetched, but the portrayal of this president is right on the money. [Raiko smiles uneasily.]
+Mover president	" Did you say ""help""? If there is one thing I love doing, it's helping people."
+Buttercup Raiko	 The seal lion seemed a bit far fetched, but the portrayal of this president is right on the money. 
 Asami	I think this is your best mover yet.
 Bolin	 I just wish Mako was here to see it.
 Lu	 Mmm. I like to eat the top of the Varri-cake first.
@@ -59,18 +67,25 @@ Bolin	I guess I just miss my friends. Everything is going so well for me, but it
 Asami	I know. Things have changed to much since we first met.  Why don't you come back in and finish watching the mover with me?
 Bolin	You go ahead. I need another another minute.  That's weird.
 Gang	They're after the president!
-Nuktuk	[Cut to a side-shot of Raiko and his wife, panning to the left; voice-over.] I don't think so.
+Evil Unalaq	You're too late Nuktuk.  Soon, my doomsday device will shoot this block of ice into the Earth's core, freezing the entire planet, and I will be ruler of Ice Earth! 
+Nuktuk	 I don't think so.
 Bolin	I don't think so.
 Bolin	Mister President, get back, I'm here to help.
 Bolin	Looks like there's no where to go.
+Lin Beifong	Secure the president and call for backup immediately!
 Ginger/Actress Ginger	Bolin, look out!/Nuktuk, look out!
-Bolin	[Bends a disc.] Tell me who sent you!
+Shiro Shinobi	 This is unbelievable! Bolin is bending two full stacks of earth disks at once, which would normally be illegal,  but then again, he's fighting three waterbenders,  so all rules are out the window!
+Bolin	 Tell me who sent you!
 Soldier	 It was Varrick, please don't hurt me, Nuktuk!
 Varrick	I think this is our cue to exit.
-Shiro Shinobi	[Enthusiastically.] It's a knockout!
+Lin Beifong	 Where do you think you're going?
+Shiro Shinobi	 It's a knockout!
 Tonraq	They're falling back!
+Lin Beifong	Varrick's plan was to kidnap you and blame it on the North. Then Republic City would have no choice, but to join the war on the side of the South.
 Raiko	I can't believe Varrick would do something like this, and no one saw it coming.
+Lin Beifong	Actually someone did. Remember Mako?
 Raiko	You got a great officer on your hands.
+Lin Beifong	 He's one of the best.
 Ginger	I can't believe my boyfriend is a real life hero!
 Bolin	 Boyfriend? Wait, stop. I thought you said we weren't a couple.
 Ginger	You really are as dumb as those rocks. Of course we're a couple. 
@@ -97,7 +112,9 @@ Bolin	You were right about Varrick. He tried to kidnap Raiko!
 Mako	I knew it!
 Bolin	But it didn't work, because of you, and because of me. Let's just say we both did good. Beifong says you're free to go.  Sorry for ever doubting you, Mako.
 Mako	 Don't worry about it bro.
+Lin Beifong	Nice job, Mako. You're going to make a great detective.
 Gang	But chief, there aren't any detective openings right now.
+Lin Beifong	Actually we have two openings.
 Korra	Mako, I've missed you so much.
 Bolin	Oh yeah, did I forget to tell you? Korra's back.
 Mako	Korra ... hey, I missed you, too. So you're not still mad at me?
@@ -108,7 +125,8 @@ Mako	 Uh ...  No. No, it wasn't that bad.
 Tenzin	Korra, we don't have much time. We need to figure out how to deal with Unalaq.
 Bolin	I think I know just the man to talk to.
 Varrick	Guys, hey,  what do you think? Varrick Industries built this prison, and I had this cell made special. I had a feeling I'd end up here one day.  Zhu Li, c'mon, we got guests!  Whip up a pot of that green tea I love!
-Korra	[Surprised.] Zhu Li's in prison with you?
+Zhu Li	Yes, sir.
+Korra	 Zhu Li's in prison with you?
 Varrick	 Of course! I don't go anywhere without my assistant. Do you?
 Mako	 We're not interested in your tea. And this isn't a friendly visit.
 Varrick	Don't tell me you guys are still mad about everything that happened. I did some good things, too.  Korra, who warned you about Unalaq?  I did.  Bolin, who got you into the movers?  I did.  Asami, who saved your company?  I did.  Mako, who got you thrown in jail!?  I did!  Oh yeah, guess that was a bad thing.
@@ -120,7 +138,8 @@ Korra	You have a battleship?
 Varrick	"Of course I do! I bought the first one they made! Named her the ""Zhu Li"". "
 Bolin	You named your battleship after your assistant?
 Varrick	Yup. They're both cold, heartless war machines.
-Varrick	[Apologetically.] Look, I'm truly sorry for the mess I caused. Let me make it up to you, [Darts his head toward Zhu Li.] take Zhu Li. [Everyone looks on in silence before Varrick talks again.] My battleship, it's yours, and everything on it.
+Zhu Li	Your tea, sir.
+Varrick	 Look, I'm truly sorry for the mess I caused. Let me make it up to you,  take Zhu Li.  My battleship, it's yours, and everything on it.
 Korra	 It's not the fleet we were looking for, but it's the next best thing.
 Bolin	 All right! Team Avatar is back in business. Haha!
 Mako	 It's okay. We're going to stop Unalaq, and get Jinora back.

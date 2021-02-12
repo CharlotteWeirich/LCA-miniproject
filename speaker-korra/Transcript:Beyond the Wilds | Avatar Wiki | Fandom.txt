@@ -1,14 +1,22 @@
+Shiro Shinobi	 Korra is safely back in Republic City, but Bolin and Varrick are still on the lam! Weeks ago, Korra removed the remaining poison from her body, but the memory of Zaheer's attack still torments her and, after being defeated by Kuvira, she questions if she will ever fully recover. Meanwhile, Kuvira has been secretly harvesting spirit vines from the swamp, but how close is she to completing her spirit energy weapon?
 Ryu	Everyone! Mom! Can we stay together, please? The tour is about to begin.
+Ryu's mother	That's my boy. Ryu, he used to live in the basement, but then he got airbending, and he's been doing important Air Nation stuff all over the world.  His father and I are here, visiting him and, we're just having the best time in the big city, we're so proud. Right, honey?
 Ryu's father	Well, at least he has a job now.
 Ryu	 Mom, Dad, I'm trying to work!
 Ryu	 Fun fact, everyone. All these vines were created by UnaVaatu when he battled giant spirit Korra for the fate of the world.
-Ryu	[Sighing.] No.
-Ryu	[Getting irritated.] No! Can I just get through my cards?
-Ryu	[More irritated.] I'm not!
-Ryu	[As the tourists' cameras start flashing, he flips frantically through his cards.] Uh ... I don't see anything about that in the cards.
+Tourist #1	 Excuse me, are we in the Spirit World right now?
+Ryu	 No.
+Tourist #1	 Is the Spirit World in the ground below us?
+Ryu	 No! Can I just get through my cards?
+Ryu's mother	 Aw, honey, don't get flustered.
+Ryu	 I'm not!
+Tourist #1	Uhh, why is that vine coming toward us?
+Ryu	 Uh ... I don't see anything about that in the cards.
+Tourist #1	 I'm gonna poke it with a stick.
 Ryu	No! Why would you do that?
 Ryu	Everyone back!
-Ryu's mother	[Unaware.] Isn't Ryu the best airbender ever?
+Ryu's mother	This tour is exciting!
+Ryu's mother	 Isn't Ryu the best airbender ever?
 Korra	Everything okay?
 Opal	No. Kuvira has my family and no one seems to care but me.
 Korra	 We all care. Don't worry, we'll get them back safely.
@@ -36,7 +44,8 @@ Tenzin	Please, Korra, it's not personal. We just thought, perhaps we called you 
 Korra	Again, him, not me?!
 Raiko	 Korra, we're in the middle of a meeting and we can't have people just barge in whenever they want!
 Bolin	Guys!  Oh,  perfect! You're all here.
-Raiko	[Even more angry.] What are you doing here?! Guards, remove these traitors!
+Opal and Mako	 Bolin? 
+Raiko	 What are you doing here?! Guards, remove these traitors!
 Bolin	 No! We escaped Kuvira's army!  We're back on your side now!  We have top secret information for you!
 Varrick	 Okay, I guess we should've opened with that line.
 Bolin	Listen to me. Kuvira's making this thing that goes  I don't know how it works, but it has this 
@@ -119,6 +128,7 @@ Varrick	What do you say, Asami?  Partners again?
 Asami	 Fine. I'll help.  But don't even think about double-crossing me again. 
 Mako	Are you sure you're ready for this?
 Korra	Yes. I think if I see Zaheer chained up, I'll finally realize that he's not a threat anymore.
+White Lotus guard	Approach the wall. 
 Korra	No. I need to do this alone.
 Zaheer	I figured you would show up sooner or later. So ... you must really be in trouble if you came all the way down here to see me.
 Korra	I came here to look you in the eye and tell you that you have no power over me. I will no longer be scared of you.

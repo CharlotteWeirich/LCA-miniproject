@@ -1,3 +1,4 @@
+Shiro Shinobi	 Airbenders are mysteriously disappearing in Ba Sing Se, including Kai. The Earth Queen denied any knowledge of the airbenders, but Korra refuse to give up her search. Meanwhile, Mako and Bolin met their long lost relatives, who told them that Dai Li agents have been rounding up airbenders for the queen's army. And at a prison in the north, Tonraq and Lord Zuko prepare for Zaheer's imminent attack.
 Tonraq	Did you see Zaheer?
 Zuko	The only thing I saw was a snowstorm heading our way.
 Tonraq	 That's not a snowstorm, it's him!
@@ -50,9 +51,13 @@ Bumi	You mean that out-of-body thing you did to help giant, spirity Korra?
 Tenzin	You can still do that?!
 Jinora	It's not as powerful as it was during Harmonic Convergence, but if I can get close enough, I think I can do it.
 Korra	Let's go get Kai out. Let's get all the airbenders out.
+Dai Li sergeant	You are the property of the Earth Kingdom.  You will become the Earth Queen's elite fighting force and protect her at all cost. It is your duty to serve the Earth Queen.
 Yung	Go easy on me! I'm not that good.
-Kai	[To Yung.] Sorry.
+Dai Li sergeant	 Never show mercy! Now attack your opponent, and this time, like you mean it!
+Kai	 Sorry.
+Dai Li sergeant	A soldier never apologizes to his enemy!
 Kai	I'm not a soldier!
+Dai Li sergeant	You will be when I'm through with you.
 Tenzin	If anything goes wrong, come back immediately.
 Jinora	I will.
 Korra	What happened? What did you see?
@@ -67,7 +72,9 @@ Korra	Maybe you can find Kai the same way. I know you two have a connection.
 Tenzin	" What do you mean ""a connection""?"
 Jinora	I don't know. Let me try.
 Yung	Thanks.
+Dai Li sergeant	You again?! If you have time to help your friend, then you're not getting enough rocks for yourself!
 Dai Li sergeant	I guess you're not as good as you thought.
+Dai Li sergeant	Throw him in the hole!
 Kai	Jinora?
 Jinora	It worked!
 Kai	How are you here right now?
@@ -106,6 +113,7 @@ Korra	 Look, I'm not a little kid anymore. You don't need to protect me. I came 
 Lin	Fine. Let's get them and get out of here. Where are they?
 Korra	In a military compound, and we're busting them out.
 Jinora	Hi.
+Guard #1	Hey! What are you doing here?
 Guard #2	Oh, it's just that little airbender girl who came with the Avatar. You shouldn't be walking around here all alone.
 Jinora	 I'm not alone. 
 Tenzin	Bumi and Korra, come with me to find the airbenders.  You three, find Kai. We'll meet on the surface shortly. Radio us if anything goes wrong.
@@ -130,7 +138,8 @@ Kai	 Thanks for coming to get me. I'm really sorry about stealing your wallets, 
 Bolin	 We can't stay mad at you.
 Mako	Yes, we can! I had a lot of money in that wallet!
 Jinora	Guys, come on! 
-Korra	[To Tenzin and Bumi.] Come on! It's clear. [They run out, not noticing Dai Li agents hiding on the structure of the temple, who quickly surround them.]
+Dai Li sergeant	Deserting Her Majesty's army is high treason. Punishable by death! 
+Korra	 Come on! It's clear. 
 Hou-Ting	So, you've discovered my elite army. I see their loyalty still needs some work.
 Korra	These airbenders shouldn't be used as weapons! They have a right to choose their own paths.
 Hou-Ting	These airbenders are Earth Kingdom citizens, and I am their queen. Taking them will constitute an act of war. If you disobey me, I will bear down on you with the entire force of my kingdom!
@@ -148,6 +157,7 @@ Kai	Whoa, that was awesome!
 Hou-Ting	Bring me those airships now!  Oh, get it off me!  Get this fur off my- 
 Tenzin	I know that none of you chose to become airbenders. But now you do have a choice. We can relocate you somewhere safe, or you can come with me to the Northern Air Temple, to live in peace and train as Air Nomads. You are no longer anyone's property. What path you decide is up to you.
 Yung	I want to go with you.
+Other airbender #1	Me too.
 Other airbender #2	Count me in.
 Korra	Good luck at the Northern Air Temple. I'll send more airbenders your way when I find them.
 Tenzin	Be careful out there. Stay safe.

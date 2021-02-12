@@ -1,3 +1,4 @@
+Shiro Shinobi	 Avatar Korra has lost her memory! In order to restore it, she has connected with Wan, who would become the very first Avatar. Banished from his home, Wan survived for two years in the Spirit Wilds and learned to master fire. But then, Wan split the spirits of light and dark, Raava and Vaatu, unwittingly plunging the world toward annihilation. Will he be able to stop him?
 Karu	 Should we pull her up?
 Shaman	 No. She is connecting with her deepest Avatar memories.  She must confront her own past if she is to move forward.  We can only hope that she survives her ordeal.
 Raava	 The human and spirit realms are headed toward annihilation.  And it's all your fault.  This is why humans have no place  interfering in the business of spirits.
@@ -28,7 +29,9 @@ Raava	As darkness grows, light fades.
 Wan	I'm sorry for endangering your village, but I promise to set things right.
 Nomad	 How?
 Wan	Great lion turtle, I ask that you grant me the power of air so that I can defeat Vaatu before it's too late. 
+Air lion turtle	You already carry the power of fire. No human has ever held two elements at the same time.
 Wan	I'm not like other humans. I can learn to do it.
+Air lion turtle	Hmm, perhaps. But to do so, Raava must hold the power for you until you master it.
 Raava	Ancient one, why would I do that for a human? Especially one who's caused so much trouble?
 Wan	Raava, please, I can't let the world fall into chaos because of my mistake. Neither of us can defeat Vaatu alone, but together we have a chance.
 Raava	You may be right. Very well. I will help you to master the power of air.
@@ -67,14 +70,21 @@ Jaya	 Let's wipe 'em out this time!  We'll burn down this whole forest if we hav
 Wan	What happened to you? When did you become so violent?
 Jaya	 You showed me we could change the world if we just stopped being so afraid. Now we're doing it. 
 Wan	This isn't what I had in mind.
-Wan	[Runs in between the groups.] Wait! We can resolve this peacefully.
+Aye-aye spirit	 Get out of the forest, humans.
+Wan	 Wait! We can resolve this peacefully.
+Aye-aye spirit	Stinky?  You came back.
 Wan	It's good to see you again.
+Aye-aye spirit	You and Raava are just in time to help us clear these tree-killing fire-lovers out of here just like the old days.
 Jaya	You are the one who's getting cleared out.
 Wan	There's no need for violence. I know there must be a way to work out a compromise.
+Aye-aye spirit	You have a good heart, Stinky. But these fire tossers aren't like you.
 Jaya	Spirits like him killed our friends! I can't let them get away with that.
+Dark aye-aye spirit	 We are protectors of the forest. We won't let you burn it down.
 Raava	It's Vaatu. He's growing stronger, using their anger to turn them to his side.
-Wan	Stop, please! [Continues airbending to keep the two groups apart, but they keep charging at each other.] Raava, we need to combine our energies. Maybe then we'll have enough power to stop this. [Raava and Wan merge, and Wan shoots himself in the air, riding an air spout while the other elements circle around him. At the same time, he is enveloped in white energy.] Enough! [Cut to a shot of Wan.] You need to stop fighting now, [Turns his head to the settlers.] before you destroy each other!
-Jaya	[Awed.] He's controlling all four elements.
+Dark aye-aye spirit	 Wipe them out!
+Wan	Stop, please!  Raava, we need to combine our energies. Maybe then we'll have enough power to stop this.  Enough!  You need to stop fighting now,  before you destroy each other!
+Aye-aye spirit	 Stinky, w-what happened?
+Jaya	 He's controlling all four elements.
 Raava	 Wan, I have to leave your body, or I'll destroy you.
 Wan	No. It's working. If you leave, the fighting will start again.
 Raava	Wan!
@@ -101,7 +111,9 @@ Raava	We are bonded forever.
 Wan	This is your prison now. And I will close the portals so no human will ever be able to physically enter the Spirit World and release you.
 Wan	 The spirits must stop fighting with humans and return to their home in the Spirit World. I will teach men to respect the spirits so that balance will be maintained.
 Wan	 I will be the bridge between our two worlds. 
-Wan	[Cuts to a gray still scene of armored warriors fighting with weapons, fire and water bending; voice-over.] Different groups of people must learn to live together. [The scene pans up to show a still of a determined-looking Wan entering the Avatar State.] This is my mission: to use Raava's light spirit [Scene moves back to show Wan using the four elements to separate the fighting parties which are distinguished by red and blue flags.] to guide the world toward peace.
+Fire lion turtle	 The world is entering a new age. Our time protecting mankind is over. We will no longer give humans the power of the elements.
+Wan	 Different groups of people must learn to live together.  This is my mission: to use Raava's light spirit  to guide the world toward peace.
+Old Wan	 I'm sorry, Raava. I failed to bring peace. Even with Vaatu locked away, darkness still surrounds humanity.  There wasn't enough time.
 Raava	Don't worry. We will be together for all of your lifetimes. And we will never give up.
 Korra	I remember.
 Shaman	Do you know who you are?

@@ -1,3 +1,4 @@
+Shiro Shinobi	 The Red Lotus is the world's newest threat. After confronting Zaheer, Korra learned that he is part of a secret society whose mission is to take out all the nations' leaders and destroy world order. But before Korra could warn anyone, she and Asami were apprehended by the Earth Queen's forces. And the Red Lotus have Mako and Bolin. Now both parties are headed toward Ba Sing Se.
 Korra	 You have to let me out! The Earth Queen is in danger from a group of terrorists calling themselves the Red Lotus.  I talked to one of them in the Spirit World yesterday. He's insane!
 Captain	 Screaming about terrorists in the Spirit World? You're the one who sounds insane. 
 Asami	 Do I have to be chained to the floor the whole way? It's going to be so uncomfortable.
@@ -85,7 +86,9 @@ Mako	Yes you can. I believe in you.
 Prisoner	I believe in you too, Bolin.
 Bolin	I appreciate that, Mako, and fellow ... prisoner man. But I've been trying and trying and trying and I've never been able to do it. Not even a little.
 Mako	You've always had the ability deep down. You just haven't had the motivation. But this is your time! Get us out of here to save Korra. You can do it!  Bolin! Bolin!
-Bolin	You're right. [Readying himself.] Okay, here I go. Metalbending. [Attempts to metalbend the bars, but to no avail. Sinks onto the floor, tearing.] I can't metalbend.
+Other prisoners	Bolin! Bolin! Bolin! Bolin!
+Bolin	You're right.  Okay, here I go. Metalbending.  I can't metalbend.
+Other prisoners	Aww! 
 Prisoner	Hey, you guys didn't happen to bring any toilet paper, do you?
 Lin	First, you scare the life out of me, now you want to lick me.
 Lin	 Here, chew on this  and leave me alone.  Tonraq, you read me?
@@ -112,7 +115,9 @@ Asami	No, but we might have enough material to construct a makeshift sand-sailer
 Korra	It's worth a try.
 Captain	Gather every piece of metal you can find. We'll give that sandy beast a run for his money yet.
 Zaheer	Looks like he's in hurry. Wait here.
-Hou-Ting	[Angrily.] This is outrageous! Send another airship to retrieve the Avatar immediately.
+Dai Li agent	Your Majesty, we received a distress signal from the airship carrying the prisoners. We believed the ship crashed in the Si Wong desert and the Avatar may have escaped.
+Hou-Ting	 This is outrageous! Send another airship to retrieve the Avatar immediately.
+Dai Li agent	It's already on its way, Your Majesty.
 Ming-Hua	What are we going to do now?
 Ghazan	There's no way we can track her down in the desert before the queen gets to her.
 P'Li	You really think we'd be lucky enough to capture her again? She'll be long gone by the time they arrive.
@@ -124,8 +129,10 @@ Zaheer	That wasn't the deal.
 Hou-Ting	I will not bandy words with bounty hunters!  Seize these hoodlums and throw them in prison until they decide to show proper respect for the crown!
 Hou-Ting	Gun! Get in back here and lay down your life for your queen, you coward!  You wouldn't dare attack a queen!
 Zaheer	 Maybe I forgot to mention something to you. I don't believe in queens.  You think freedom is something that you can give or take on a whim ...  To your people ... freedom is just as essential as ... air. And without it ... there is no life.  There is only ... darkness.
+Radio operator	Hey! You can't be in here!
 Zaheer	No need for alarm. I just need to make an announcement to the entire city. How do I do that?
-Ming-Hua	[Grabs the radio operator.] He's the man who just took down the Earth Queen. You want to be next?!
+Radio operator	Who do you think you are?
+Ming-Hua	 He's the man who just took down the Earth Queen. You want to be next?!
 Zaheer	Ming-Hua, please. We're here to help citizens like him, not hurt them.  Now, can you help me?
 Zaheer	Attention citizens of Ba Sing Se. I have an important announcement to make.  Moments ago, the Earth Queen was brought down by the hands of revolutionaries,  including myself. I'm not going to tell you my name, because my identity is not important.  I'm not here to take over the Earth Kingdom. I think you've had enough of leaders telling you what to do. It's time for you to find your own path. No longer will you be oppressed by tyrants. From now on, you are free!  I deliver Ba Sing Se be into the hands of the people!
 Mako	We have to get out of here, Bolin. Zaheer came here to take out the Earth Queen, and now Korra is next.

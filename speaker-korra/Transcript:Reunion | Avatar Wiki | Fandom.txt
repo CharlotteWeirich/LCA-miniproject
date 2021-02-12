@@ -1,3 +1,4 @@
+Shiro Shinobi	 Kuvira has defeated the Avatar and now controls the entire Earth Empire. Luckily, the airbender kids and Opal rescued Korra and escaped Zaofu. For the first time in three years, Korra will finally be back in Republic City! Meanwhile, Varrick and Bolin escaped from Baatar Jr. and are on the run. But will they make it back to the city in time to warn everyone about Kuvira's new spirit energy super weapon?
 Korra	Naga!
 Korra	 I missed you so much, girl!
 Meelo	 Mom! Dad! We're back! And we got Korra!
@@ -61,6 +62,7 @@ Mako	"I'm not gonna hold your hand every time you have to empty your ""royal bla
 Wu	 Fine. 
 Korra	Do you always go to the bathroom with him?
 Mako	I don't go with him, with him, I just stand there in the general vicinity while he ... I don't wanna talk about it.
+Bathroom attendant	Good afternoon, Sir. Perhaps a spritz of cologne, to freshen up?
 Wu	Make it a double, buddy!
 Wu	 Mako, help! Wu ... down ... 
 Bolin	I wish Pabu were here. He could just chew us out of this.
@@ -75,7 +77,8 @@ Mako	I wonder what's taking Wu so long. He's not one to miss out on lunch. I'll 
 Mako	Wu, are you in here? Come on, your octopus fritters are getting cold.
 Korra	I'll be right back. 
 Korra	Excuse me, did you happen to see if Prince Wu came out this way?
-Wu	[Not fully aware.] Hmm, I'm in laundry ...
+Bathroom attendant	Sorry miss, I haven't seen him.
+Wu	 Hmm, I'm in laundry ...
 Korra	They've got Wu! Get the car, I'm going after them!
 Asami	Get in!
 Korra	We're losing them!
@@ -86,6 +89,7 @@ Mako	What are you doing? Sit down!
 Korra	Where is he?
 Korra	Wu's not here. This guy was the only one in the truck.
 Mako	 Where's the prince?
+Bathroom attendant	Halfway to Kuvira by now.  All hail the Great Uniter.
 Asami	They must have moved Wu to a different vehicle when we lost sight of them.
 Mako	 Take this guy in for booking. Charge him with kidnapping and tell Chief Beifong that Prince Wu is missing. Put out an all-points bulletin. We'll keep looking.
 Asami	Where do we start? There are thousands of cars in the city and he could be in any one of them.
@@ -123,18 +127,25 @@ Mako	Which train is Wu on?
 Korra	I don't know!
 Mako	Split up and start looking.
 Bolin	 Follow my lead.
+Guard post soldier	 Good afternoon, sir. Can we help you?
 Bolin	You sure can. We captured these escaped prisoners. We need to get them to a secure facility.
+Guard post soldier	Where did they escape from?
 Bolin	Camp fourteen.
-Bolin	[Aggravated.] You think we don't know where Camp fourteen is? Kuvira wants them transferred.
+Guard post soldier	Then why are you bringing them through here? Camp fourteen is the other way.
+Bolin	 You think we don't know where Camp fourteen is? Kuvira wants them transferred.
+Guard post soldier	Then I'll need to see the transfer order.
 Varrick	Listen pal! I had to fight off two badgermoles, six wolfbats and eighteen hog monkeys to capture these guys, so sorry if I don't have the paperwork! I was too busy cramming it in a hog monkey's mouth, while it was trying to eat me! I am in sore need of a shower and I have blisters that are the size of cantaloupes and twice as juicy! So you can let us through, or you can give us your name and rank and I'll make sure to pass it on to Kuvira! You know what happens to soldiers who question her orders, don't you? Bad stuff!
+Guard post soldier	 Let them through!
 Guard #2	Wait! Stop them, they're traitors to the Empire!
 Baraz	There's no way I'm going back to prison!
 Varrick	 Boy, I sure hope this works.
 Varrick	 I still got that Varrick touch!  We're clear, come on!
 Bolin	 Varrick, wait, we can't leave them!
+Guard post soldier	Retreat!
 Baraz	Thanks. You didn't have to come back.
 Bolin	Yeah. I kind of did. Let's go!
-Asami	[Worried.] If we don't find Wu soon, we might never find him.
+Over the PA	The 4:15 bound for Omashu is now leaving on track number six. All aboard!
+Asami	 If we don't find Wu soon, we might never find him.
 Korra	 He's on that train!
 Mako	How do you know for sure he's here?
 Korra	I don't. But I had a feeling, okay?
@@ -180,4 +191,5 @@ Bolin	Guess this is where we part ways.
 Varrick	 It's been a blast!
 Ahnah	We're heading north too. Why don't you come with us? It's the least we could do after you saved our necks.
 Varrick	 On that hunk of junk? No thanks. I'm allergic to drowning.  I mean, uh, we'd love a lift!
+Baatar Jr.	This area is overrun with spirit vines.  And they appear to be even more powerful than the samples we took from Republic City.
 Kuvira	Perfect. Harvest the vines until there's nothing left.

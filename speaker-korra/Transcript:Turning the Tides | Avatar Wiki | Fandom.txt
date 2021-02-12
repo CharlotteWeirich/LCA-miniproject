@@ -1,3 +1,4 @@
+Shiro Shinobi	 Amon's revolution grows stronger by the day. First, he attacked the bending arena! Then it was discovered that Hiroshi Sato was the mastermind behind the Equalist gloves and mecha tanks! And most recently, Amon ambushed Councilman Tarrlok, took his bending, and nearly captured the Avatar as well! Everyone is on edge, wondering where will Amon strike next?
 Jinora	 Daddy, you're home. We waited up for you. Is Korra okay?
 Tenzin	Yes, she's fine, sweetie. 
 Ikki	I was scared. I thought she wasn't coming back.
@@ -52,12 +53,16 @@ Husband	 The door, dear.
 Lieutenant	We're here to fix a spider-rat problem. 
 Councilwoman	I didn't call an exterminator.
 Husband	 Dear?
+Council page	Aah!  Ah, I'm so relieved to see you!
 Tenzin	The other council members. Are they all right?
+Council page	 I'm afraid not! I just received a call from Chief Saikhan. They've all been captured!
 Tenzin	This can't be happening.
-Council page	[Grabbing head and wailing.] It is a tragic day indeed!
+Council page	 The leadership of Republic City is in your hands now.
+Council page	 It is a tragic day indeed!
 Lin	All right, kids, time to go inside.
 Korra	We heard explosions, what's going on?
 Lin	Republic City is under attack.
+Hiroshi Sato	I've dreamed of this day for so long.
 Amon	Yes, the time has come for the Equalists to claim Republic City as their own.
 Asami	Where did you say you parked the car?
 Korra	It's right around here somewhere.  There it is.
@@ -70,14 +75,18 @@ Mako	I think I will.
 Korra	Everything all right?
 Mako	 Yeah, everything is terrific ...
 Bolin	 Car! Oh, we're good.
+Male telegraph operator #1	 Chief! Air unit seven was just taken out by an Equalist airship. They've crashed into the harbor!
 Saikhan	Send a river rescue unit.
+Female telegraph operator	Chief, all the river rescue ships have been sabotaged!
 Saikhan	What?
 Tenzin	 Chief Saikhan.
 Saikhan	Tenzin, am I glad to see you. I was afraid you'd been captured too.
 Tenzin	I'm the only Council member left. What's the status?
 Saikhan	Amon has launched simultaneous attacks across the boroughs. The police are trying to regain control but we're spread too thin.
 Tenzin	 I need to send a wire.
+Male telegraph operator #2	To whom, Councilman?
 Tenzin	The general of the United Forces.
+Male telegraph operator #2	Councilman, your wire has been sent.
 Female telegraph operator	Chief, the phone lines just went dead!
 Saikhan	Catch. 
 Tenzin	Saikhan, the vents.  We need to evacuate immediately. Everyone stay close to me.
@@ -97,7 +106,8 @@ Pema	 The baby's coming!
 Jinora	 Oh no!
 Meelo	Not now, baby!
 Pema	The children, where are they?
-Jinora	[Flying in from behind on a glider.] Stay away from my dad's ex-girlfriend! [She uses her staff to blow the Lieutenant away over a nearby roof.]
+Air Acolyte woman	Don't worry. They're in the other room, totally safe.
+Jinora	 Stay away from my dad's ex-girlfriend! 
 Lin	Jinora! You shouldn't be out here!
 Ikki	 Get off our island! 
 Lin	Girls! You need to go back inside this instant!
@@ -135,7 +145,8 @@ Tenzin	 You're learning well.  Stay safe, Korra.
 Korra	You too.
 Lin	Tenzin, if we're leaving, we'd better do it now.
 Tenzin	 Oogi, yip yip!
-Korra	[Leaps onto Naga.] Everyone, climb on! [Mako, Bolin and Asami hop onto Naga.] Let's go, girl!
+White Lotus sentry #1	Go! We'll hold them off!
+Korra	 Everyone, climb on!  Let's go, girl!
 Bolin	Mustache guy!
 Korra	Nice one, Naga!
 Lin	 They're gaining on us!

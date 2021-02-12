@@ -1,3 +1,5 @@
+Shiro Shinobi	 Korra has reopened the Southern spirit portal and taken the first step to restoring balance between spirits and man. Meanwhile, tensions are high between Korra and her father after she discovered he was hiding a dark secret. Years ago, Tonraq was banished from the North. And now the Northern navy has landed on Southern shores. What other plans does Unalaq have for the Avatar?
+Northern soldier	Everyone, clear the streets! Get back in your homes.
 Korra	Uncle, why did you bring your troops down from the North?
 Unalaq	Now that you've opened the Southern portal, we need to protect it from the people who would do the spirits harm.
 Korra	 I can protect it.
@@ -39,7 +41,8 @@ Tonraq	Thank you for coming, everyone. I know these last few days have been very
 Varrick	 Troubling? Troubling is when I get that itchy rash that won't go away, and Zhu Li's not around to scratch it. This is shocking.  Nay, sickening! But these kale cookies? Opposite.  Remind me to get the recipe later. 
 Tonraq	What's your point, Varrick?
 Varrick	My point is,  Unalaq's already booted our chieftains out of their palace. How long before he starts telling us what kind of cookies  we can eat?
-Varrick	[To Zhu Li.] Rhetorical question, Zhu Li, you gotta keep up. [To gathering.] Not to mention, I've got a cargo ship full of halibut that's rotting thanks to this harbor lockdown? [Enraged.] Who wants to buy a ship full of stinking fish? [Slams plate to floor.] Seriously, it's not rhetorical. I need to sell these fish.
+Zhu Li	Probably a couple of days.
+Varrick	 Rhetorical question, Zhu Li, you gotta keep up.  Not to mention, I've got a cargo ship full of halibut that's rotting thanks to this harbor lockdown?  Who wants to buy a ship full of stinking fish?  Seriously, it's not rhetorical. I need to sell these fish.
 Korra	Chief Unalaq is here to help the South. He wants to show us how to restore balance with the spirits so they'll stop attacking.
 Varrick	The only spirit I'm interested in restoring is our spirit of independence. Am I right, people? 
 Korra	All Unalaq is trying to do is make our tribes unified again.
@@ -81,11 +84,16 @@ Unalaq	As the Avatar, you must remain neutral in this conflict. You will natural
 Korra	Maybe Tenzin was right.  Maybe I'm not ready to be the Avatar.
 Unalaq	Tenzin lacked faith in you.  But I have no doubt that you will become the most admired Avatar the world has ever known.
 Korra	Thank you, Uncle.
+Northern soldier	Who threw those?
 Northern soldier	You hoodlums think you're tough, huh?
-Korra	[Running between both sides.] Stop!
+Southern civilian	Pick on a waterbender your own size!
+Korra	 Stop!
+Southern civilian	Tell these thugs to go back to the North. They're not welcome here anymore!
 Northern soldier	These Southerners need to stay in line.
 Korra	Everyone, calm down. You're all part of the same tribe, start acting like it.
-Korra	[Defensively.] I'm not taking anyone's side. [Is hit by a snowball to the head.] Hey!
+Southern civilian	 You're taking their side? We thought you were one of us.
+Korra	 I'm not taking anyone's side.  Hey!
+Little girl	You're the worst Avatar ever!
 Tonraq	Everyone, walk away from this. They're not worth our trouble. Go back to your homes.
 Tonraq	Korra, I-  Korra!
 Tenzin	Ikki! Ikki! Ikki? Ikki, where are you?
@@ -165,6 +173,7 @@ Rebel	No, we can't.
 Rebel	Get him out of here!
 Korra	We're all part of the same tribe. I don't wanna hurt you.
 Korra	Dad, stop!  Why did you do this, Dad?  What? Who are you? Where's my father?
+Rebel leader	He wouldn't help us. He's a traitor, just like you.
 Unalaq	Thank you for saving my life.
 Korra	I'm just glad I got here in time.
 Unalaq	Find Varrick. I want him to freeze in prison with the rest of these traitors. 

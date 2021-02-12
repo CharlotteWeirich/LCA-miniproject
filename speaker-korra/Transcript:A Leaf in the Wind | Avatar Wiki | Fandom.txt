@@ -1,4 +1,5 @@
 Tenzin	Earth. Fire. Air. Water. Only the Avatar can master all four elements and bring balance to the world.
+Shiro Shinobi	 Republic City welcomes a new citizen into our arms. Avatar Korra! After years of seclusion in the South, this master of water, earth, and fire seeks to add airbending to her list of skills. And under the tutelage of Tenzin, Avatar Aang's son, she should go far. But will this cool, calm, collective master of air be able to tame this hotheaded teen?
 Korra	 And, in the final round, the Buzzard Wasps  won with a decisive knockout!  What do you say we go to the arena tonight,  catch a few pro-bending matches?
 Tenzin	 That sport is a mockery of the noble tradition of bending. 
 Korra	Come on, Tenzin! I've dreamed about seeing a pro-bending match since I was a kid  and now I'm just a ferry ride away from  the arena.
@@ -25,7 +26,8 @@ Ikki	 Dance! Dance like the wind!
 Meelo	 Be the leaf!
 Korra	Airbend!  What is wrong with me? Airbend!
 Korra	 Aargh!  Maybe I'm just not cut out to be an airbender, huh, Naga?
-Shiro Shinobi	This Mako's got moxy! He advances, fires two quick shots. [Close-up of the excited White Lotus sentries.] Yomo is hammered back to zone three! [Close-up of an equally excited Korra.] Clock is winding down, can Yomo hold on? [Close-up of the sentries as they squish their faces together with wide eyes to be closer to the radio.] He's teetering on the edge of the ring now. [Back to Korra with a wide grin and clenched fists. The view briefly shows the radio's lit dial. Camera zooms in on the lit radio frequency as the excitement and tension is building.] The Fire Ferrets line up to strik-
+Shiro Shinobi	 Ladies and gentlemen! I'm coming to you live from Republic City's Pro-bending Arena, where tonight the best in the world continue their quest  for a spot in the upcoming championship tournament.  Grab your snacks and grab your kids because this next match is gonna be a doozy!
+Shiro Shinobi	This Mako's got moxy! He advances, fires two quick shots.  Yomo is hammered back to zone three!  Clock is winding down, can Yomo hold on?  He's teetering on the edge of the ring now.  The Fire Ferrets line up to strik-
 Tenzin	 Korra, come down here please.
 Korra	 You shut it off at the best part!
 Tenzin	 I thought I made myself clear. I don't want you listening to this distracting nonsense.
@@ -69,16 +71,24 @@ Mako	 Come on, Bolin, we're up.
 Korra	 ... or I could meet him later.
 Bolin	 Yeah, sorry about that. My brother just gets real ... focused before a match.  Okay, I gotta go, wish me luck.  Not ... that I'll need it.
 Korra	 Good luck.  Knock 'em out!
-Fangirl	[Screaming.] Aaaaaah! I love you, Bolin! Aaaaaah!
-Shiro Shinobi	[Voice-over.] And they're off! The two teams waste no time trying to blast each other out of zone one!
-Shiro Shinobi	[Voice-over.] Oooh, the Tigerdillos score with a walloping one-two combo!
-Korra	[Raises fist.] Come on, Ferrets!
+Ring announcer	Introooooducing  the Fire Ferrets!
+Fangirl	 Aaaaaah! I love you, Bolin! Aaaaaah!
+Shiro Shinobi	 The rookie Ferrets came from out of nowhere  and have made it further than anyone expected this season.  But tonight, they face their toughest test yet, folks.
+Shiro Shinobi	 And they're off! The two teams waste no time trying to blast each other out of zone one!
+Shiro Shinobi	" Hasook is the first to feel the heat of the Tigerdillos! He tries to return the favor, but they're too fast for him, while Mako shows off his trademark ""cool under fire"" style!"
+Shiro Shinobi	 Oooh, the Tigerdillos score with a walloping one-two combo!
+Shiro Shinobi	Can their teammate hold on to their zone one territory? Guess not!  Mako's over the line!  The Tigerdillos get the green light and advance into Ferret territory!
+Korra	 Come on, Ferrets!
+Shiro Shinobi	Looks like Hasook's in trouble! He's in zone three teetering over the drink!  And Hasook takes a dip! He'll be back for round two!
 Shiro Shinobi	Assuming the fabulous bending brothers can hold their ground until the next round.
 Announcer	 Round one goes to the  Golden Temple Tigerdillos!
 Mako	 Come on, Hasook! Get your act together!
-Shiro Shinobi	[Voice-over.] The Fire Ferrets cinch the round in the closing seconds! It's one apiece, [Switch to a divided close-up: the Tigerdillos at the left and the Fire Ferrets at the right.] still anyone's match as we go into the third and final round!
-Korra	[Clutching her head; in despair.] Oh, no!
-Shiro Shinobi	[Voice-over.] It's a knockout! What a wing-dinger of a hat trick, folks! [The score board lights up, showing that the Fire Ferrets won with a knockout.] Mako pulls off the upset of the season, winning the match for the Fire Ferrets!
+Shiro Shinobi	 The Fire Ferrets are knocked into zone two and the Tigerdillos advance!
+Shiro Shinobi	 The Fire Ferrets cinch the round in the closing seconds! It's one apiece,  still anyone's match as we go into the third and final round!
+Shiro Shinobi	 Hasook stumbles, and now he tumbles right into his teammate!  He and Bolin better untangle quick if they don't want to ...  oh, too late!
+Korra	 Oh, no!
+Shiro Shinobi	 It's all up to Mako now!  He's bobbing and weaving! He's weaving and bobbing!  But he's not hitting back!  If Mako's knocked out, the Ferrets' fabulous season is over!  He is dancing on the edge of the ring, surviving the three on one barrage! It seems his plan is to let the Tigerdillos punch themselves out!  And his plan is working! Han is in the pool!  They've got nothing left in the tank and Mako is on the offensive!  It's two on one!  Scratch that, it's one on one, and it's an earth and fire slllugfest! There's so much smoke and dust from the firefight, I can't even see where the Fire Ferret is!
+Shiro Shinobi	 It's a knockout! What a wing-dinger of a hat trick, folks!  Mako pulls off the upset of the season, winning the match for the Fire Ferrets!
 Bolin	Woohoo! Yes!  One more win and we're in the championship tournament!  So, what'd ya think, Korra? Bolin's got some moves, huh?
 Korra	 What did I think? What did I think? That was am​azing!
 Mako	 You did more harm than good out there. You almost cost us the match!
@@ -142,7 +152,8 @@ Bolin	 Yes!
 Mako	 Hey, I didn't agree to this!
 Korra	You can thank me later. 
 Mako	 This girl is crazy.
-Mako	[Close side shot of the Fire Ferrets as the teams take on a fighting stance.] Don't do anything too fancy or aggressive. [Looks at Korra.] In fact, don't do anything. Just try not to get knocked off the ring.
+Shiro Shinobi	 Looks like the Fire Ferrets have ferreted out a last minute replacement waterbender.  Let's see if she's another diamond in the rough like the brothers from the school of hard knocks!
+Mako	 Don't do anything too fancy or aggressive.  In fact, don't do anything. Just try not to get knocked off the ring.
 Korra	You got it, captain.
 Referee	 Players! Are you ready?
 Korra	 Woohoo! Man overboard!
@@ -150,15 +161,21 @@ Referee	 Fire Ferret waterbender, penalty! Move back one zone!
 Korra	 What? Why?
 Mako	 You're only allowed to knock players off the back of the ring! Not over the sides!
 Korra	 Oh. Whoops.
-Referee	[Blows whistle and points.] Foul! Over the line! Move back to zone three!
+Shiro Shinobi	 And we're back in action after that hiccup, but I'm not so sure this replacement player knows what she's doing.
+Referee	 Foul! Over the line! Move back to zone three!
 Korra	 Urgh!  I'll show you over the line!
-Shiro Shinobi	[Voice-over.] Wait a minute! Did that waterbender just earthbend?
+Shiro Shinobi	 The Platypus Bears take round one!  The Platypus Bears know a green player when they see one, and they are focusing the brunt of their bending on this poor girl!
+Shiro Shinobi	 Wait a minute! Did that waterbender just earthbend?
 Referee	 Foul! I ... think.
-Tenzin	[Frontal shot of the guards all looking bewildered.] Pardon me, everyone, have you seen Korra this evening? She's not in her room.
-Tenzin	[Angrily.] I'll get her myself!
+Shiro Shinobi	 Did I see that right?  Hold on, folks, we're just waiting for the referee's official call, but ...  I-I think this replacement player could be ... no, there's no way!
+Tenzin	 Pardon me, everyone, have you seen Korra this evening? She's not in her room.
+Shiro Shinobi	 You've gotta be kidding me!  She's the Avatar, folks!  Playing in a pro-bending match!  Can you believe that?
+Tenzin	 I'll get her myself!
 Referee	 The Avatar will be permitted to continue so long as she solely bends water!
-Shiro Shinobi	[Voice-over.] This girl may be the Avatar, but she's no pro-bender and the Platypus Bears are intent on exploiting that weakness!
-Shiro Shinobi	[Voice-over.] Aaaaand she's in the drink.
+Platypus Bears	 Awww!
+Shiro Shinobi	 This girl may be the Avatar, but she's no pro-bender and the Platypus Bears are intent on exploiting that weakness!
+Shiro Shinobi	 They're giving her their best, and her best ain't good enough to stop it!
+Shiro Shinobi	 Aaaaand she's in the drink.
 Korra	 Oh, hey, Tenzin. I thought you didn't like coming to these matches.
 Tenzin	Once again, you have flagrantly disobeyed my orders. You were to stay on the island! Let's go.
 Korra	 No! I'm kind of in the middle of something.
@@ -168,11 +185,16 @@ Tenzin	What? That is a ludicrous suggestion!  The Avatar needs to learn airbendi
 Korra	 No! This is what I need to learn! Modern styles of fighting!
 Tenzin	 Being the Avatar isn't all about fighting, Korra!  When will you learn that?
 Korra	 I have a match to go finish.
-Shiro Shinobi	[Voice-over.] The Platypus Bears come out of the gate and quickly go after the Ferret brothers! They're corralled in the corner, wedged in the edge of zone one, unable to come to the Avatar's rescue! And boy, does she need it!
-Shiro Shinobi	[Voice-over.] It's only a matter of time before ...
-Tenzin	[Dumbfounded.] How about that?
-Shiro Shinobi	[Close-up.] Knockout!
+Ring announcer	 The Platypus Bears win round two!  Round three!
+Shiro Shinobi	 The Platypus Bears come out of the gate and quickly go after the Ferret brothers! They're corralled in the corner, wedged in the edge of zone one, unable to come to the Avatar's rescue! And boy, does she need it!
+Shiro Shinobi	 Looks like the Avatar's pro-bending debut is going to be cut short! She's been pushed back to zone three, and the water is calling her name!
+Shiro Shinobi	 It's only a matter of time before ...
+Shiro Shinobi	 Hold the phone! Stop the presses! She's still in the game, folks! And she's moving like an entirely different player! All of a sudden, the Platypus Bears' strikes are only striking air!
+Tenzin	 How about that?
+Shiro Shinobi	 The Platypus Bears have no juice left, but Mako and Bolin are still fresh and juicy!
+Shiro Shinobi	 Knockout!
 Tenzin	Woohoo!
+Shiro Shinobi	 The Fire Ferrets come from waaay behind and steal the win!  What an upset, folks! The rookies, Avatar in tow,  have nabbed a place in the championship tournament! I can not believe it!
 Korra and Bolin	Hahaha, yeah! Yes!
 Mako	 Korra ... what can I say? You really came alive in that last round. The way you dodged their attacks ... you are a natural.
 Korra	Thanks, but I can't take all the credit.  Someone else taught me those moves.

@@ -1,3 +1,4 @@
+Shiro Shinobi	 The Air Nation has its first recruit. Team Avatar's search for new airbenders in the Earth Kingdom led them to Kai, an orphan with a shady past. Meanwhile, Lord Zuko is hot on the trail of three escaped criminals who pose a great threat to the Avatar. Unaware of the danger to her, Korra continues her mission to find more airbenders. Next stop, the walled city of Ba Sing Se.
 Jinora	Light on your feet, Uncle Bumi. Remember, you want to be quick and evasive.
 Bumi	 Don't worry about me, little lady. I've been in a scrap or two you know. Ha ha.  Oh, you're just a youngster, so I'm gonna go easy on ya.  Wouldn't want to hurt a kid ...
 Bumi	 Oh.
@@ -58,8 +59,10 @@ Hou-Ting	I have a vault full of tax money sitting in a town south of here. Barba
 Korra	 Yes, Your Majesty.
 Bolin	Kai, did you go fishing? You under the bridge?
 Kai	Here, sir, let me help you.
+Upper-class man	Oh, thank you, young man. What a strange sudden breeze. 
 Kai	Yeah, that was really weird.
-Mako	Kai! [Kai grins widely and slides out of view.] Get back here! [Mako starts chasing after Kai.]
+Upper-class man	Thanks for your help. 
+Mako	Kai!  Get back here! 
 Bolin	Kai, it's us. Mako and Bolin, your new family. 
 Bolin	Excuse me, coming through  Pardon me.  Carry on. 
 Mako	What are you doing running around robbing people?
@@ -69,9 +72,12 @@ Mako	Hey!
 Mako	 Your little brother, huh?
 Bolin	Yeah ... just a lovable little scamp, isn't he?
 Mako	 Reminds me of my little brother.
+Train conductor	Designated express line to the lower ring. Next up, Poh Kong Station.
 Mako	All right. Let's see if we can catch a train back to the Upper Ring.
-Bolin	We can pay, hold on. [Both Bolin and Mako check their pockets to find that Kai has robbed them as well.] Where's my money? [Bolin and Mako widen their eyes in realization and stare at each other in disbelief.] No, Kai wouldn't-- [Bolin's eyes widen. Mako stares at him.] Aww, man. [Bolin pulls an exaggerated expression of dismay.]
-Bolin	[Voice-over.] The bad news [Camera slowly pans down to reveal the back of the brothers' heads.] is we're stuck here. The good news is [Bolin puts his hand on Mako's shoulder and grins.] we can go the bathroom wherever we want.
+Ticket master	Passports and tickets.
+Bolin	We can pay, hold on.  Where's my money?  No, Kai wouldn't--  Aww, man. 
+Ticket master	Step aside, beat it you two,  before things get ugly.
+Bolin	 The bad news  is we're stuck here. The good news is  we can go the bathroom wherever we want.
 Asami	Are you sure we shouldn't have brought more people to collect the tax money?
 Korra	There are royal guards waiting at the vault.  I doubt anything will happen. I think Her Majesty likes ordering me around.
 Bolin	Ohh man, aww I slipped a disc sleeping here. It's been awhile since we spent the night in a trash pile. It's about how I remembered.
@@ -102,13 +108,16 @@ Bolin	Yeah, they're not really comedies, but uh ...
 Tu	Yeah, I could probably be a pro-bender or an actor or something if I lived in a mansion in Republic City like you guys. You don't know what it's like on the streets. You got to be tough. 
 Bolin	Oh, Mako and I grew up on the streets. We were homeless, then we were kinda in a gang, then we lived in a gym ... 
 Chow	Hey everybody! Look who's here, San's kids: Mako and Bolin. 
+Male family member	No way.
 Female family member	Come in.
+Male family member #2	Welcome.
 Yin	Is it true? After all these years?
 Chow	Boys, this is your grandmother, Yin.
 Yin	Aw, it is so wonderful to meet my long lost grandchildren  Where is San and your mother?
 Bolin	Wait, you mean you don't know?
 Mako	I'm sorry, they were killed when we were little. 
 Korra	I don't like the looks of this. Let's hurry up and get out of here.
+Royal Earth Kingdom guard	You here to pick up the tax shipment?
 Korra	Go ahead and load it on the airship.
 Asami	So much for our escorts.
 Korra	 Maybe we should have brought everybody else.
@@ -155,3 +164,4 @@ Mako	 We have to get back to the Upper Ring and tell Korra.
 Bolin	 I hope Kai is okay.
 Kai	 Here, sir, let me help you.
 Kai	Hey! What's going on?  I didn't do anything! I'm with the Avatar.
+Dai Li agent	Welcome to Her Majesty's army, First Airbending Regiment. From now on, you live to fight for the Earth Queen.

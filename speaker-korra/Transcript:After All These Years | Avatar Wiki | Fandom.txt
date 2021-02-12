@@ -1,3 +1,4 @@
+Shiro Shinobi	" Welcome to Republic City, the place of hopes, dreams and Spirit Wilds!  This metropolis truly has something for everyone. Visit Air Temple Island, the hub for all airbenders as they travel the world, helping others. Or take a stroll through beautiful Avatar Korra Park, named in honor of ""You-Know-Who""! We've missed her these past three years and we can't wait to welcome her home. Get well soon, Korra! And of course, you'll want to see our most unique attractions: the Spirit Wilds. Here, spirits and people live harmoniously together.  Like this old codger, and his new pals. Yes siree, this town is truly on the up and up! Come be a part of the action in Republic City!"
 Raiko	 And of course, my biggest thanks goes to Asami Sato and Future Industries. She brought our old central terminal into the modern era. Ladies and gentlemen, the world is entering a new age of peace and prosperity. Soon, Prince Wu will take his rightful place on the Earth Kingdom throne.  And thanks to our updated rail system, Republic City and the Earth Kingdom will be united like never before!
 Wu	Hey there! Asami, right? Great train house. Maybe you can give me a personal tour sometime, what do you say?
 Asami	 I do like the idea of putting you on a train and sending you far, far away.
@@ -25,6 +26,7 @@ Wu	Mostly?
 Lin	Don't worry kid. The chances of you being assassinated are almost zero.
 Wu	Almost?
 Shopkeeper	Get out of here! We don't have anything left.
+Bandit #1	Now you don't have anything left.
 Kai	It's safe to come out, everyone! The airbenders are here.
 Governor	You finally made it! So where are the rest of you?
 Opal	Actually, it's just the two of us, but we're going to do everything we can to help. I'm Opal, and this is Kai.
@@ -34,14 +36,19 @@ Kai	Hey, us two kids just took care of those three guys for you.
 Governor	There are hundreds more where they came from. My citizens are going hungry. Our entire state is on the brink of collapse.
 Opal	Unfortunately, the Air Nation is spread thin right now. We're all you have.
 Bolin	We just got some good news.  Two more Earth Kingdom states have agreed to join us.
-Varrick	[Slaps knee enthusiastically.] That's great! Zhu Li, dish out some of that special celebration tea!
+Baatar Jr.	Excellent! Thank you, Bolin.  We're ninety percent there, Kuvira.
+Varrick	 That's great! Zhu Li, dish out some of that special celebration tea!
 Kuvira	None for me. I won't celebrate until the Earth Kingdom is one hundred percent reunited.
 Kuvira	Why have we stopped?
 Driver	Apologies. There are rocks on the tracks. It's most likely bandits. We're sending troops to handle the situation.
 Kuvira	Call them off. I will take care of the bandits myself.
+Female bandit #1	You're ... Kuvira.
 Kuvira	And you're the bandits who have been causing chaos where I'm trying to establish order, aren't you?
-Kuvira	[Angry.] Don't talk over me! [Drops the slab over the bandit's mouth.]
+Female bandit #1	 We're sorry, we didn't know this was your train and ...
+Kuvira	 Don't talk over me! 
+Male bandit #1	Please, take mercy on us!
 Kuvira	Stop groveling as if this is the worst day of your life. This ... is a good day. I'm going to give you all the opportunity to rehabilitate yourselves, and become productive members of your nation. Right now, you're lost, but pledge your loyalty to me, and I'll give you a new purpose in your lives. Of course, if you don't want to join, you could always stay right here. Hopefully, someone saves you before the next train speeds through, but I wouldn't count on it.
+Male bandit #1	No, we'll join. Don't leave us here.
 Female bandit #1	We pledge our loyalty to you, Great Uniter.
 Mako	I don't know why we're leaving so early if you're just getting a haircut. The dinner at Air Temple Island isn't until later tonight.
 Wu	Because I'm not just getting a haircut, it's a spa day! We're talking minimum four hours.
@@ -73,8 +80,11 @@ Bolin	 Hey, Kuvira says it makes me look intelligent and professional.
 Opal	 Don't believe everything she says.
 Bolin	Opal, I can't believe you're here too!  I missed you so much.
 Opal	I missed you too.
+Baatar Jr.	Look who it is. It's good to see you again, little sister.
 Kuvira	What a wonderful surprise. A happy reunion for my favorite couple.
-Opal	[Slightly angry toward her brother.] Like you care. She still hasn't forgiven you.
+Baatar Jr.	 How's Mom doing?
+Opal	 Like you care. She still hasn't forgiven you.
+Baatar Jr.	You know, for someone who claims to be so enlightened, Mom can really hold a grudge.
 Opal	I guess when her son betrays her ...
 Kuvira	 Please, Opal, we're not here to bicker with you about something that happened three years ago. We're here to help this town, just like you.
 Opal	 I've heard how you help towns. By conquering them.

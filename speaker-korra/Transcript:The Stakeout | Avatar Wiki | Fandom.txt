@@ -1,3 +1,4 @@
+Shiro Shinobi	 Zaheer infiltrated Zaofu and attempted to kidnap the Avatar. After a harrowing battle, she was saved and discovered a shocking truth: Aiwei, Su's trusted adviser, has been working with Zaheer. This truth seer turned traitor managed to escape but Su tasks Team Avatar of tracking him down. Now the hunted becomes the hunter as Korra searches for answers.
 Korra	Aiwei has definitely been through here.  Nice tracking, girl.
 Mako	Let's ask around. Maybe someone's seen him.
 Bolin	 Ohh look, they have a mover poster of me.  Must be big Nuktuk fans,  yeah,  I should go out and say hello ...
@@ -22,9 +23,12 @@ Mako	 Enough!  Let's just find Aiwei.
 Bolin	But I haven't even told your backstory.
 Mako	 I'm a cop. I don't have a backstory.
 Bolin	 Uh! You're good at this. 
-Mako	Let's see if this guy knows anything. [Heads to the tavern.] Excuse me, sir? We're looking for a man about sixty, balding, wearing glasses in a long green robe.
+Tavern owner	Shoo! Human customers only.
+Mako	Let's see if this guy knows anything.  Excuse me, sir? We're looking for a man about sixty, balding, wearing glasses in a long green robe.
 Bolin	And he's got this weird piercing that goes from his nose  to his  ear. Freaks me out.
-Mako	[Excitedly. Smiles hopefully.] That's him! Any idea where he is now?
+Tavern owner	Yeah, sure. Sounds like a guy who came in last night. I told him I had the best drinks in the Earth Kingdom and he called me a liar.
+Mako	 That's him! Any idea where he is now?
+Tavern owner	 Nah, afraid not. But he was right.  My drinks are terrible. 
 Asami	Are you okay?
 Korra	 I'm just frustrated. What does Zaheer want with me? What's his plan?
 Asami	I don't know. But I think I found a clue. 

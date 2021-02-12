@@ -1,3 +1,4 @@
+Shiro Shinobi	 A chance encounter turns Korra from pro-bending spectator to pro-bending star. With her new teammates, Mako and Bolin, the Fire Ferrets earn a place in the championship tournament. But meanwhile, an anti-bending revolution brews in Republic City. Who are the Equalists? And what nefarious plan does the mysterious man behind the mask have in store for our hero?
 Korra	 What's the big idea with making me train this early in the morning?  The morning is evil.
 Bolin	 We're the rookies,  so we get the worst time slot in the gym.
 Mako	 And you're the rookiest of us all. We gotta get you up to speed if we wanna survive in the tournament.  Deal with it.
@@ -21,10 +22,14 @@ Mako	 Come on, Bolin.  We need serious ideas.
 Bolin	 I was serious.
 Mako	 Don't worry about it. I'll figure something out. I always do.
 Bolin	 Come one, come all.  See Pabu the fantastic fire ferret as he crosses the Ladder of Peril,  upside down!  Psst, psst.  Big finish, buddy. Stick the landing.  Ta da!  Thank you, ladies and gentlemen! You are too kind! Seriously, too kind! You can come back here and put money right in this-  Okay, that's fine, that's fine.  One yuan down, 29,999 to go.
-Bolin	[Frontal shot; dejected.] Oh, hey there, Shady Shin.
-Bolin	[Frontal shot; scratches his head.] Uh, thanks.
-Bolin	[Frontal shot; unsure.] Uh, I don't know, Shin. Mako told me to stay away from the Triple Threats.
-Shady Shin	[Frontal shot; smiling confidently.] You game?
+Shady Shin	Hey, Bolin. Is that you?
+Bolin	 Oh, hey there, Shady Shin.
+Shady Shin	 Heard you're a big time pro-bending player now. Not bad.
+Bolin	 Uh, thanks.
+Shady Shin	 So listen. I got an offer for ya. Lightning Bolt Zolt is lookin' to hire some extra muscle.
+Bolin	 Uh, I don't know, Shin. Mako told me to stay away from the Triple Threats.
+Shady Shin	 Pfuh, your brother ain't the boss of you.  It's just a little security work. Nothin' crooked.
+Shady Shin	 You game?
 Mako	Bo, I'm back!  Picked up your favorite dumplings!  Hey, I found some work down at the power plant.  Made some decent money.  Bolin?  You here, bro?  Huh, I bet the little lovebird is making a house call.
 Jinora	 Good. Light on your feet!
 Jinora	 Ooh, he's cute.  Korra, is that the  handsome firebender boy that drives you crazy?
@@ -118,13 +123,16 @@ Amon	" My quest for equality began many years ago.  When I was a boy, my family 
 Korra	 That's impossible.  There's no way.
 Mako	 This guy's insane!
 Amon	 Now, for a demonstration. Please welcome, Lightning Bolt Zolt.  Leader of the Triple Threat Triad, and one of the most notorious criminals in Republic City. 
+Lightning Bolt Zolt	 Ah, boo yourself!
 Korra	There's Bolin.
 Mako	 Wait, we can't fight them all. We need to be smart about this.
 Korra	" Then come up with a game plan,  ""Team Captain""."
 Amon	 Zolt has amassed a fortune by extorting and abusing nonbenders.  But his reign of terror is about to come to an end.  Now, in the interest of fairness,  I will give Zolt the chance to fight to keep his bending.
-Lightning Bolt Zolt	[Frontal shot; saddened and shocked while looking at Amon.] Wha ... what did you do to me?
+Lightning Bolt Zolt	 You're gonna regret doing that, pal.
+Lightning Bolt Zolt	 Wha ... what did you do to me?
 Amon	 Your firebending is gone. Forever.  The era of bending is over. A new era of Equality has begun!
-Korra	[Frontal shot. Turns to Mako; urgently.] Any ideas yet?
+Shady Shin	 No! Ugh!
+Korra	 Any ideas yet?
 Mako	 I think so, see those machines?  They're powered by water and steam. If you create some cover, I can grab Bolin  without anyone seeing. Then, we duck out of here.
 Korra	Works for me.  Mako, good luck. 
 Mako	You, too.

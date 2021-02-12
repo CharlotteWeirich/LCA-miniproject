@@ -1,5 +1,7 @@
+Shiro Shinobi	 Ba Sing Se has fallen. After Zaheer and the Red Lotus toppled the Earth Queen, the city descended into chaos. Meanwhile, Korra and Asami tried to escape their captors, but crashed in the desert. After getting to safety, they met up with Lord Zuko, Tonraq, and Beifong. Back in Ba Sing Se, Zaheer freed Mako and Bolin, giving them a vital message to deliver to Korra, but will the brothers find her in time?
 Mako	I can't believe it! The Upper Ring is in chaos!
 Looter	 Don't try to stop us; we're taking back what's ours.
+Royal Earthbender Guard	Stop you?  I'm gonna join you.  I know where the good stuff is.
 Bolin	Should we do something?
 Mako	This isn't our battle.  We have to deliver Zaheer's message to Korra immediately.
 Bolin	Right. Okay, find Korra, deliver message.  Yeah, this should be easy. We just got to get out of the city and get to the desert, then somehow find her in the vast expansive wasteland that goes on for thousands, and thousands, of miles.  This isn't gonna be easy.
@@ -37,7 +39,8 @@ Tu	Guys, it's the wreckage!  I found it!  There!
 Mako	That's a Ba Sing Se airship, all right. But where's the rest of it?
 Bolin	I don't know. But there's some tracks.
 Bolin	See, I told you. Landing is hard.
-Bolin	Okay, guys. We think Korra found her way back here. [Pabu crawls onto his shoulder.] Now let's split off into teams and scour the town. Yes, we'll need your help too, Pabu, now just give me a second while I- wait, Pabu? Pabu! [Hugs his pet while laughing in joy.]
+Female relative	 Spirits!
+Bolin	Okay, guys. We think Korra found her way back here.  Now let's split off into teams and scour the town. Yes, we'll need your help too, Pabu, now just give me a second while I- wait, Pabu? Pabu! 
 Yin	 Why is Bolin hugging that big rat?  Eww,  now he's kissing it!
 Bolin	 I'm never gonna let you go again!
 Tu	Guys, look out! Giant dog beast thingy!
@@ -75,7 +78,8 @@ Korra	Did you have any luck getting through to Tenzin?
 Suyin	 No one's answering. What if Zaheer's already up there? I should never have let Opal go.
 Lin	It's going to be okay, Su.
 Suyin	I hope so.
-Korra	[Getting impatient.] I can't just sit around here while a madman is on his way to the Northern Air Temple. We have to do something.
+Radio operator	We have a strong signal, but no one's answering.
+Korra	 I can't just sit around here while a madman is on his way to the Northern Air Temple. We have to do something.
 Suyin	I'll ready my airship. With a full force of the Metal Clan security backing us, we can take them. 
 Mako	We'll never make it up there before Zaheer.
 Korra	There might be another way to stop him. It's a long shot, but Zaheer is always meditating into the Spirit World. And I know exactly where he goes: Xai Bau's Grove. If I can find him there, maybe I could somehow trap him.
@@ -132,6 +136,7 @@ Tenzin	It's Zaheer.  Round everyone up! We need to get to the bison and evacuate
 Kai	Guys, we got an emergency. We're evacuating the temple.  Come on.
 Kai	Look out!
 Bumi	 It's Zaheer! We have to leave.
+Ming Hua	No one's going anywhere, or she gets it.
 Zaheer	Good. The entire family is here.
 Zaheer	It's a pleasure to finally meet a true airbending master.
 Tenzin	What is it you want from us?

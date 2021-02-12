@@ -1,3 +1,4 @@
+Shiro Shinobi	 Republic City is a war zone! While Prince Wu led the remaining citizens to safety, Team Avatar battled Kuvira's giant mech, but no amount of bending could bring it down! In a last-ditch effort, Asami and her father outfitted the hummingbird suits with platinum cutters. Hiroshi helped Team Avatar infiltrate the mecha giant, but he paid the ultimate price! Is victory within reach for our heroes?
 Kuvira	Initiate lockdown! Find the Avatar and whoever else is with her.
 Korra	We need to move fast. Su, Lin, climb up to the arm and try to disable that weapon. Mako, Bolin, get to the engine and see if you can power this thing down.  I'm going after Kuvira.
 Suyin	Are you sure? When you fought Kuvira before ...
@@ -40,6 +41,7 @@ Korra	 Shut it down!
 Kuvira	 I can't!
 Bolin	Look!
 Tenzin	 A new spirit portal.
+Mecha suit captain	 Spread out and find Kuvira!
 Mako	Korra!
 Mako	Tenzin, there's no sign of her.
 Tenzin	Keep looking! Korra!  Korra!
@@ -60,7 +62,8 @@ Korra	 You wanted to create a place where you and your people would never be vu
 Tenzin	The spirits have returned.
 Asami	 And so has Korra! 
 Bolin	 You're okay!
-Kuvira	[Cuts back to Korra and Kuvira as she removes her arm from Korra's shoulder and addresses her troops.] Stand down. This battle is over. I owe the Avatar my life. [Cuts to scene behind Tenzin and Bolin.] Her power is beyond anything I could ever hope to achieve. [Cuts to a close-up of Kuvira looking down, and Su looks at her.] I'll accept whatever punishment the world sees fit.
+Mecha suit captain	 Release Kuvira, or we will attack! 
+Kuvira	 Stand down. This battle is over. I owe the Avatar my life.  Her power is beyond anything I could ever hope to achieve.  I'll accept whatever punishment the world sees fit.
 Kuvira	 And Su, I'm sorry for all the anguish I've caused you and your family.
 Suyin	You're going to answer for everything you've done.
 Bolin	 And though the battle took a severe toll on our beloved city, out of the destruction, love did bloom!  So that is why, dearest friends and family, we gather today to celebrate the wondrous, and at time inexplicable bond between Sir Varrick and the Lady Zhu Li!
@@ -68,7 +71,9 @@ Varrick	 Hey, pal, camera on me! This is my big day!
 Bolin	True love is a fickle creature.  Difficult to find, nearly impossible to tame.  But Varrick and Zhu Li have proven that even the longest of long shots  can have a chance at happiness together. Now, for the vows!  Thank you, Master Pabu. Do you, Sir Iknik Blackstone Varrick of the Southern Water Tribe, Master of the High Seas, take the Lady Zhu Li Moon to be your lawfully wedded wife? Will you promise to treat her not as your assistant, but as your honored and cherished partner?
 Varrick	You're darn tootin' I do!
 Bolin	And do you, Zhu Li, take Varrick, to be your lawfully wedded husband? Do you promise to care for him, in sickness and in health,  and also scrub his callouses on a bi-weekly basis, which ... isn't really that much to ask ...  Okay, I'm not reading all this.
-Bolin	You may now [Varrick and Zhu Li lean in close together, Bolin takes a few steps back. Softly.] do the thing.
+Zhu Li	 I do take Varrick. Callouses and all.
+Bolin	You may now  do the thing.
+Zhu Li	Are you all right?
 Varrick	You just make me so dang happy!
 Mako	My cousin told me how level-headed you were during the whole evacuation. I got to admit, I'm impressed. I think you're going to make a great leader.  But that doesn't mean I'm gonna set you up with Korra, so don't ask.
 Wu	 That's okay, Mako. Sometimes, a good evacuation is its own reward. 

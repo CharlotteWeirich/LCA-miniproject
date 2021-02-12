@@ -1,15 +1,21 @@
 Tenzin	Earth.  Fire.  Air.  Water.  When I was a boy, my father, Avatar Aang, told me the story of how he and his friends heroically ended the Hundred Year War.  Avatar Aang and Fire Lord Zuko  transformed the Fire Nation colonies into the United Republic of Nations,  a society where benders and nonbenders from all over the world could live and thrive together in peace and harmony.  They named the capital of this great land, Republic City.  Avatar Aang accomplished many remarkable things in his life.  But sadly, his time in this world came to an end. And like the cycle of the seasons, the cycle of the Avatar began anew. 
 Tonraq	The White Lotus has honored my family by coming.  Thank you.
 Senna	 Welcome.
-Senna	[Happily.] Then you should be happy to know, your search has come to an end. [Her husband nods in agreement.]
+White Lotus leader	We have investigated many claims, both here and in the Northern Tribe. All have turned out to be false.
+Senna	 Then you should be happy to know, your search has come to an end. 
+White Lotus leader	 What makes you so sure your daughter is the one?
 Senna	Korra! Please come in here!
 Korra	 I'm the Avatar! You gotta deal with it!
 Katara	 She's strong.
-Korra	[Raising her hands in triumph.] Woohoo! [Cut to a shot of the unfazed spectators. An overview shot shows Korra running up to them.] Hey, why all the doom and gloom, people? [Frontal shot as she removes her helmet. One of her opponents recovers slowly in the background.] We should be celebrating! [Confidently raises three fingers.] Three elements down, [Holds one finger up.] one to go!
-White Lotus leader	Ever since you were a little girl, you've excelled at the physical side of bending, but completely ignored the spiritual side. [Side shot of a bored Korra.] The Avatar must master both.
+White Lotus leader	 She lacks restraint.
+Korra	 Woohoo!  Hey, why all the doom and gloom, people?  We should be celebrating!  Three elements down,  one to go!
+Firebending master	 You're getting ahead of yourself as usual, Korra. We haven't decided if you passed your firebending test yet.
+White Lotus leader	Ever since you were a little girl, you've excelled at the physical side of bending, but completely ignored the spiritual side.  The Avatar must master both.
 Korra	 I haven't ignored it, it just doesn't come as easy to me.  But that's why I should start training with Tenzin immediately.  He's Mister Spiritual.
-Katara	[Frontal view of the elders; Katara smiles.] Yes. If anyone can teach her what she needs to learn, it's Tenzin.
-Korra	[Jumps up, turning around her axis, in happiness and excitement.] Yes! Finally! [Realizing the elders are watching her, some of them with a dismayed expression, her look changes to a serious one.] I mean, [Clears throat and respectfully clasps her hands together and bows.] thank you all for believing in me.
+White Lotus leader	Do you believe she's ready, Master Katara?
+Katara	 Yes. If anyone can teach her what she needs to learn, it's Tenzin.
+White Lotus leader	Very well, Korra. It's time for you to begin your airbending training.
+Korra	 Yes! Finally!  I mean,  thank you all for believing in me.
 Korra	 Naga, you should have seen it!  I kicked some firebender butt, and I passed!  Tenzin will be here in a few days.
 Korra	 Just taking Naga out for a stroll.  Don't worry, we're not going far.
 Korra	Naga, go!  That a girl. Go! Go! Go!
@@ -46,7 +52,8 @@ Tenzin	 I have a responsibility to Republic City. I am one of its leaders, and t
 Korra	 But you also have a responsibility to teach me.  Believe me, I'd be happy to find another airbending master, but you're the only one.  We're stuck with each other.
 Tenzin	I wish there were another way.
 Korra	 Wait, there is! If you can't stay here, then I'll go back to Republic City with you! It's perfect!
-Korra	[Cut back to Korra; defiantly.] I get that, but I don't think keeping me locked up in this compound like a prisoner is what he had in mind.
+White Lotus leader	Absolutely not!  The city is far too dangerous. Avatar Aang tasked us with keeping you safe while you mastered the four elements.
+Korra	 I get that, but I don't think keeping me locked up in this compound like a prisoner is what he had in mind.
 Tenzin	 I know this is difficult to accept, but it's not the right time for you to come to the city.
 Korra	 Whatever. 
 Ikki	Goodbye, Gran Gran!
@@ -90,7 +97,8 @@ Crowd	 Yeah! Get out of here!
 Korra	 What? I'm not oppressing anyone!  You're ... you're oppressing yourselves!
 Protester	 That didn't even make sense.
 Korra	Excuse me, I think I'm lost.  How do I get to Air Temple Island from here?
-Old woman	[Scared.] You should get moving, young lady. [Whispering as she gets up.] It isn't safe.
+Old woman	 Just head down this street.
+Old woman	 You should get moving, young lady.  It isn't safe.
 Viper	 Mr. Chung, please tell me that you have my money,  or else I can't guarantee I can protect your fine establishment. 
 Chung	 I'm sorry, business has been slow. Please,  take one of my phonographs.
 Viper	 My friend here is not a music lover.  Give me the money, or else -
@@ -99,12 +107,15 @@ Viper	 Since you're obviously fresh off the boat, let me explain a couple things
 Korra	 You're the only ones who are gonna need a hospital  and, for your sake, I hope there's one nearby.
 Viper	 Who do you think you are?
 Korra	 Why don't you come and find out?
-Young man	[Surprised.] Did she just earthbend?
-Young man	[In awe.] Could she be?
+Old woman	 What just happened?
+Young man	 Did she just earthbend?
+Old woman	 Can she firebend, too?
+Young man	 Could she be?
 Korra	 Got an idea about who I am now, chumps?
 Mushi	 Come on!
 Korra	 You're not getting away!
-Korra	[In awe.] Cool! Metalbenders!
+Metalbending cops	 Police! Freeze where you are!
+Korra	 Cool! Metalbenders!
 Korra	 I caught the bad guys for you, officers.
 Saikhan	 Arrest them!
 Saikhan	 You're under arrest, too.
@@ -124,7 +135,8 @@ Korra	Wait, Beifong? Lin Beifong?  You're Toph's daughter!
 Lin	 What of it?
 Korra	 Well then, why are you treating me like a criminal? Avatar Aang and your mother were friends. They saved the world together.
 Lin	 That's ancient history.  And it's got diddly-squat to do with the mess you're in right now.  You can't just waltz in here and dole out vigilante justice like you own the place!
-Lin	[Back shot of Korra; Lin sighs; annoyed as she stands up.] Let him in.
+Metalbending cop	Chief,  Councilman Tenzin is here.
+Lin	 Let him in.
 Korra	 Tenzin, sorry ...  I got a little sidetracked on my way to see you.
 Tenzin	 Lin, you are looking radiant as usual.
 Lin	 Cut the garbage, Tenzin. Why is the Avatar in Republic City? I thought you were supposed to be moving down to the South Pole to train her.
@@ -139,14 +151,18 @@ Korra	 Katara agreed with me that I should come.  She said my destiny is in Repu
 Tenzin	 Don't bring my mother into this!
 Korra	 Look, I can't wait any longer to finish my training.  Being cooped up and hidden away from the world isn't helping me become a better Avatar.  I saw a lot of the city today, and it's totally out of whack. I understand now why you need to stay. Republic City does need you. But it needs me, too.
 Tenzin	You ... ah ... 
-Meelo and Ikki	[Happily.] Korra!
+Ruffled police officer	 Is this your polar bear dog, miss?
+Meelo and Ikki	 Korra!
 Ikki	 Are you coming to live with us on the island?
 Korra	 No, I'm sorry, Ikki. I have to go home now.
 Tenzin	 Wait.  I have done my best to guide Republic City toward the dream my father had for it, but you're right. It has fallen out of balance since he passed. I thought I should put off your training in order to uphold his legacy,  but you are his legacy.  You may stay and train airbending here with me.  Republic City needs its Avatar once again.
 Korra	 Yes! Thank you! You're the best!
-Korra	Hello? [The microphones screech.] I'm Korra, [She takes a deep breath. Scene switches to a back shot of her with Naga at her right, as the camera pans to the right to reveal the cheering crowd.] your new Avatar.
-Female journalist	[Cut to a close-up of a female journalist wearing glasses.] Were you trying to send a message to the Triads yesterday?
-Male journalist #3	[Cut to a close-up of another journalist.] Will you be working with Chief Beifong and the police?
+Meelo, Ikki, and Jinora	 Yaaaaay!
+Korra	Hello?  I'm Korra,  your new Avatar.
+Male journalist #1	 Does this mean you've moved to Republic City?
+Female journalist	 Were you trying to send a message to the Triads yesterday?
+Male journalist #2	 Will you be fighting crime or the Anti-bending Revolution, or both?
+Male journalist #3	 Will you be working with Chief Beifong and the police?
 Korra	 Uh ... yes, I am definitely here to stay, but honestly I - I don't exactly have a plan yet.  See, I'm still in training, but, look, all I know is  Avatar Aang meant for this city to be the center of peace and balance in the world, and I believe we can make his dream a reality.  I look forward to serving you!
 Korra	 I'm so happy to be here. Thank you, Republic City!
 Tenzin	All right, that's all the questions the Av–

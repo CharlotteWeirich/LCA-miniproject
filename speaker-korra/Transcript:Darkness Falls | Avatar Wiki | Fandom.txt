@@ -1,3 +1,4 @@
+Shiro Shinobi	 After ten thousand years, Harmonic Convergence is here again, and the dark spirit Vaatu is free. Tenzin, Bumi, and Kya have entered the portal to rescue Jinora's spirit. Asami split from the group and took the injured Tonraq to safety. So it's up to Korra, Mako, and Bolin to stop Unalaq before he fuses with Vaatu and becomes a Dark Avatar.
 Vaatu	 Raava,  nothing could stop this moment. Harmonic Convergence is upon us again.
 Korra	 I'm not going to let you fuse with Unalaq. You're going right back in that prison.
 Korra	 Don't let Unalaq back in the Spirit World.
@@ -9,17 +10,20 @@ Kya	 Do you even know what spirit footprints look like? Do spirits even leave fo
 Bumi	We're in the Spirit World. There's spiritual energy in every direction.
 Tenzin	Enough!  We can't do this by ourselves. We need a spirit guide.
 Tenzin	 There.  Spirit, hello.  I'm sorry to disturb you, but I am in need of your assistance.
-Bumi	[Brushing off dust.] Well, that didn't work. Now where are we?
+Dark Spider Spirit	 You dare wake me, human? Humans in the Spirit World belong in one place only.
+Bumi	 Well, that didn't work. Now where are we?
 Tenzin	We're completely lost.
 Korra	No!
 Bolin	I don't know if we can win this fight.
 Mako	We don't need to win, we just need to stop Unalaq from getting back in the Spirit World.
 Tenzin	 We're walking in circles,  I've seen that same spirit mushroom five times.
 Bumi	That's not the same mushroom.
-Tenzin	See? Even it knows we're lost. [Facepalms.]
+Spirit mushroom	Yes I am.
+Tenzin	See? Even it knows we're lost. 
 Bumi	 Oh sure, listen to a fungus over your own brother.
 Kya	 What's that?
 Bumi	Mushroom? Is that you?
+Spirit mushroom	No, wasn't me.
 Bumi	Iroh?!
 Tenzin	How ...? Where ...? It's been so long.
 Iroh	Almost forty years. It's nice to see you again.
@@ -36,8 +40,10 @@ Eska	Hello, my feeble turtle duck.
 Unalaq	 Don't let them escape this time.
 Bumi	Are you this is the best way to find Jinora?
 Tenzin	Trust me.  Hey you! Spirit! Wake up!
+Dark Spider Spirit	You again?!
 Kya	I thought we were gonna be taken to a prison?
 Tenzin	This is a prison.
+Dark Spider Spirit	Welcome to the Fog of Lost Souls. You will never escape.
 Eska	Stop!
 Korra	No!
 Unalaq	We are now one! Now a new era for spirits and humans will begin! And I will lead them all as the new Avatar!
@@ -84,8 +90,10 @@ Mako	Wow! That was the best acting I've ever seen. You completely fooled her.
 Bolin	 Yeah right, huh. That was acting. 
 Desna	They will certainly perish.
 Tenzin	You must stay focused. Remember who you are Tenzin. You are the son of Avatar Aang. You are the hope for future generations of airbenders. The fate of the world rests on your shoulders. But what if I fail?  Then your father's hopes of the future dies with you. I can't fail. You will.  Ah, stop it! I am the son of Avatar Aang. I am the hope for future generations of airbenders. I am the son of Avatar Aang. 
-Tenzin	Dad, [Sadly.] I've failed you. I am no spiritual leader, and I've let the world down. I'll never be the man you were.
-Tenzin	I am not a reflection of my father. I am Tenzin. [With his reflection.] I am Tenzin!
+Aang's image	 Hello, my son.
+Tenzin	Dad,  I've failed you. I am no spiritual leader, and I've let the world down. I'll never be the man you were.
+Aang's image	You are right.  You are trying to hold on to a false perception of yourself. You are not me and you should not be me. You are Tenzin.
+Tenzin	I am not a reflection of my father. I am Tenzin.  I am Tenzin!
 Tenzin	Jinora!
 Bumi	 Huh? What happened?
 Kya	I think our brother saved us.
@@ -94,6 +102,7 @@ Tenzin	You'll be okay sweetie. I'm here.
 Jinora	 What happened? The last thing I remembered was dark spirits taking me away.
 Tenzin	You were trapped in the Fog of Lost Souls. And I wasn't going to let you stay there.
 Jinora	I'm so happy to see you, Dad.
+Mako and Bolin	Korra!
 Bolin	He's got the Light Spirit!
 Jinora	The world is in trouble.
 Tenzin	What are you talking about? How do you know?

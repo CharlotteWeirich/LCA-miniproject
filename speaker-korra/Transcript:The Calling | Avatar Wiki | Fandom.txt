@@ -1,3 +1,4 @@
+Shiro Shinobi	 After Korra failed to return to Republic City, everyone has been worried about her fate. So Tenzin tasked Jinora, Ikki and Meelo with finding the Avatar. Unbeknownst to the kids, Korra found refuge in the swamp with Toph, who discovered there was still metal poison in her body, but when Toph tried removing it, Korra resisted. Will the airbender kids find the Avatar and help her return to action?
 Pema	Tenzin, are you sure you can't go with them?
 Tenzin	Raiko asked me to stay here and help figure out a diplomatic solution to this Kuvira problem.
 Ikki	Mom, we'll be fine. Grandpa Aang and his friends were around our age when they traveled the world.
@@ -25,9 +26,12 @@ Meelo	 Enough chit-chat, you can hold the picture of Korra I drew.
 Ikki	 Wow, I didn't know you could draw!
 Meelo	 You don't know a lot of things about me, sister.  Let's roll!
 Meelo	Have you seen this woman? 
-Meelo	[Annoyed.] I'm not adorable! I'm dangerous.
-Ikki	[Teasing her brother.] Aww.
+Old lady	Well, aren't you an adorable little thing.
+Meelo	 I'm not adorable! I'm dangerous.
+Old lady	 Dangerously cute with those cheeks. 
+Ikki	 Aww.
 Meelo	 This. Never. Happened. Let's split.
+Man #1	The Avatar? We still have one of those? Haven't seen her, kid. Sorry. 
 Ikki	Man ...
 Meelo	Can I trust you?
 Tuyen	I guess so.
@@ -50,7 +54,8 @@ Jinora	 It's just a photo of Korra.
 Meelo	At least it's something.
 Fishmonger	Pretty neat, huh? She came by here, about uh, six months ago.
 Meelo	 Looks like someone just strummed up a good-old-fashioned lead.  Then where did she go?
-Meelo	[At his youngest sister.] Ikki, this is all your fault.
+Fish monger	Oh, I don't know. But she wasn't looking too good.
+Meelo	 Ikki, this is all your fault.
 Ikki	What? I didn't do anything.
 Meelo	Exactly!  You need to start pulling your weight!  That goes for you too, so-called leader! 
 Ikki	Remember when he used to be so nice and sweet?
@@ -78,13 +83,20 @@ Meelo	Enough whining. Poki and I will go find some grub.
 Ikki	 My name is Meelo. I like to throw away food and fart at inappropriate moments.  I'm Jinora. I'm above it all because I'm meditating all the time.  Oh, I'm sorry, I didn't see you there.
 Ikki	Wait! You dropped your breakfast!
 Ikki	Hey!  Does this mean we're friends?
+Outpost soldier #1	You're trespassing! Hold it right there.
 Outpost soldier #1	All right, little airbender. Tell us what you're doing in the Earth Empire. Are you spying?
 Ikki	No! I swear I'm not a spy. I've been traveling with my brother and sister. It's our first big mission and my dad, Tenzin, is counting on us. But if we don't find the Avatar, he's gonna be really disappointed.
-Outpost soldier #2	No, but try this macaroon! [Ikki puts her arm back into the ropes.]
-Outpost soldier #2	You mean we get out of this dump? [Soldier #1 nods.]
+Outpost soldier #1	 Can I talk to you for a second?  This girl is Tenzin's kid and she's looking for the Avatar.  Do you know what that means?
+Outpost soldier #2	No, but try this macaroon! 
+Outpost soldier #1	 Get that out of my face! Look, if we capture these three airbender kids and bring them to Kuvira,  I bet we get a big-time promotion.
+Outpost soldier #2	You mean we get out of this dump? 
+Outpost soldier #1	 Sorry, little lady, it looks like we got off on the wrong foot. So, you're out here with your brother and sister, where's your campsite?
 Ikki	Why do you want to know?
-Ikki	[Suspicious.] Where did you get those?
+Outpost soldier #2	We just want to get the family back together again. Maybe we can sit everybody down and have a nice plate of macaroons. 
+Ikki	 Where did you get those?
+Outpost soldier #2	"I found a whole sack of food down by the river! And with each delicious snack, comes a lovely hand-written note.  This one says: ""You're my handsome little man."" That is so touching!"
 Ikki	My mom wrote those notes! That's our sack of food!
+Outpost soldier #1	 Enough with the cute notes! Where are your brother and sister?
 Ikki	Who cares ... I don't want to see them. I'd rather hang out here with you guys. Hit me with one of those macaroons.
 Jinora	Are you okay?
 Meelo	 Yep, totally fine!  I hope you're hungry, because we found some ...  We found some berries! 
@@ -96,11 +108,17 @@ Jinora	I think so.
 Meelo	Great. Now I've got to go find the Avatar and her. This mission is getting worse by the day.
 Jinora	 This isn't only your mission, Meelo. I thought we were doing this as a family.
 Ikki	It seems pretty lonely out here. Where's everybody else?
+Outpost soldier #1	I ... don't want to talk about it.
 Outpost soldier #2	He's just upset because Kuvira's taking all the troops to Zaofu and we had to stay here.
+Outpost soldier #1	 Well it's the last city left and then the whole empire will be united! And you know there's gonna be a huge party afterwards.
 Ikki	It's tough to be left out, huh? I know exactly what you're going through.
+Outpost soldier #1	 You do?
 Ikki	Yeah. My brother and sister are always leaving me out of fun stuff. I mean, we're supposed to be looking for the Avatar together, but they won't even let me help.
-Ikki	[Pulls her arms from the ropes; the soldiers do not seem to care.] We've been traveling down the west coast, and the only lead we have is some guy who said he saw her six months ago.
-Ikki	[Points to a large, green area on the map.] What about this place?
+Outpost soldier #2	Well, that's not fair. Maybe we can help you out!  So, where have you looked for her?
+Ikki	 We've been traveling down the west coast, and the only lead we have is some guy who said he saw her six months ago.
+Outpost soldier #1	Well, we have troops ... pretty much everywhere. If anyone saw her, they would have reported it.
+Ikki	 What about this place?
+Outpost soldier #1	Well, that's the swamp. No one goes there.
 Outpost soldier #2	Don't get discouraged, Ikki. You're a valuable member of the team, and you have a big heart! I know you're going to find her. Now let's get you out of those ropes.
 Meelo	You're welcome, Ikki.
 Ikki	 Why did you do that?
@@ -108,7 +126,8 @@ Jinora	 We're saving you. Let's go.
 Ikki	I had everything under control. I just found our food, and I have an idea where Korra is.
 Jinora	You do? Then lets get going!
 Ikki	Hold on.  Sorry my brother and sister knocked you out. Nice chatting with you!
-Toph	[Startles Korra.] There you are. You got my dinner yet?
+Outpost soldier #2	 Ugh ... Macaroon ...
+Toph	 There you are. You got my dinner yet?
 Korra	No ... this swamp ... it did crazy things to my mind. I had visions, of all the times my enemies hurt me.
 Toph	 Yeah, I figured something like that might happen.
 Korra	 What? You wanted me to see those visions? You are one twisted old lady, you know that?
@@ -139,8 +158,10 @@ Korra	It's beautiful.
 Toph	The roots of the banyan-grove tree spread out for miles in every direction, connecting this whole swamp. Your problem is, you've been disconnected for too long. Disconnected from the people who love you and disconnected from yourself.
 Meelo	 I'm tired of listening to you!
 Jinora	 Korra! I know where Korra is!
+Meelo and Ikki	 Yeah!
 Korra	I can't believe it! I saw Jinora, Ikki and Meelo, they're here!
 Toph	 Good. Hopefully they're here to take you home.
+Jinora, Ikki, and Meelo	Korra!
 Ikki	We missed you so much, Korra.
 Korra	I missed you so much, too. How did you find me all the way out here?
 Ikki	Jinora sensed your energy.

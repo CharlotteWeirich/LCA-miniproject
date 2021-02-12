@@ -1,8 +1,11 @@
-Korra	[Opening the door and walking away as the man hurriedly enters, groaning.] Knock yourself out. [He slams the door behind her.]
+Shiro Shinobi	 The Avatar has gone missing! Three years ago, Zaheer poisoned Korra, severely injuring her. While her friends moved on with their lives, Korra remained in the South Pole. Everyone thought she was still recuperating, but six months ago, Korra left home and hasn't been seen since. Even Chief Tonraq was shocked to learn that his daughter's whereabouts are unknown. What has become of the Avatar and when will she return?
+Man #1	Hurry up in there!  Come on, I got an emergency situation!
+Korra	 Knock yourself out. 
 Korra	Huh?
 Korra	You again.
 Korra	 Leave me alone!
-Woman	[Frontal shot of Korra; she turn toward the woman addressing her, beads of sweat running down the side of her head.] Young lady, are you all right? [Side shot of the crowd as Korra gets on her feet.] Can I take you to a doctor?
+Man #2	What's wrong with her?
+Woman	 Young lady, are you all right?  Can I take you to a doctor?
 Korra	 No, I-I don't need any help.
 Bolin	 Now don't take this the wrong way, but, I can't wait for you to leave!
 Mako	 How else is she supposed to take that but the wrong way?
@@ -85,23 +88,36 @@ Vendor	 Thieves! Get back here!
 Fishmonger	 Oh, don't worry, the Avatar's right here!  Well, what are you waiting for?  Go get 'em!
 Korra	Hand over the bags or else.
 Vendor	 You sure she's the Avatar?
-Skeptical spirit	[Skeptically.] You sure? I don't sense any Raava energy around her. Besides, she's not dressed like the Avatar. And, doesn't the Avatar have ponytails?
+Light spirit	Everyone, come here! It's the Avatar!
+Skeptical spirit	 You sure? I don't sense any Raava energy around her. Besides, she's not dressed like the Avatar. And, doesn't the Avatar have ponytails?
 Korra	 Do you mind? I'm trying to concentrate here. And yes, I am the Avatar. I'm just wearing different clothes and I cut my hair.
+Light spirit	 See? I told you guys it was her!  How come you've been away so long?
 Korra	I was hurt pretty bad a while ago and lost touch with my Avatar Spirit.
-Korra	I came to the Tree of Time hoping to reconnect with Raava and turn on the Avatar State again. But it's not working. [She continues as the light spirit climbs onto her lap.] The last time I was here, I saw all sorts of visions. [Quietly.] Now I don't see anything.
-Korra	[Lifts the spirit off her lap and stands up.] I'm sorry, but for years, people have been saying they can help me get better. [Starts walking away.] Nothing's worked. [Stops at the exit of the Tree of Time's hollow and looks back over her shoulder.] I need to figure this out on my own.
+Skeptical spirit	No wonder I couldn't feel Raava's energy.
+Korra	I came to the Tree of Time hoping to reconnect with Raava and turn on the Avatar State again. But it's not working.  The last time I was here, I saw all sorts of visions.  Now I don't see anything.
+Light spirit	 Maybe we can help you get better.
+Korra	 I'm sorry, but for years, people have been saying they can help me get better.  Nothing's worked.  I need to figure this out on my own.
 Korra	 Dear Mom and Dad,  I arrived in Republic City a couple weeks ago and couldn't be happier. It's nice to be back at the temple and it's great to see my friends again.  Don't worry, I'm taking it easy, but hopefully I'll be back in action soon. I miss you both very much. Please, give Naga a big hug for me. Love, Korra.  Raava?  Raava!
 Korra	 I am ending this.
 Korra	Excuse me. Who do I talk to about getting in the ring?
 Korra	Is that all you got?
-Korra	[Mildly confused.] Why did you bring me to the swamp? [She slides down a small hill, still following the puppy, and as they pass a tree at the entrance to the swamp, the puppy, in a flash of light, transforms into the light spirit. Korra realizes.] Wait, I met you at the Tree of Time. [Stronger voice.] You should have told me who you were.
-Korra	[Relenting.] I get your point. But why did you bring me here? What am I gonna find in the swamp?
-Korra	[Panicking.] No, wait! [She rushes forward, charging through the vines.] Come back!
+Ring announcer	We have a winner!
+Korra	 Why did you bring me to the swamp?  Wait, I met you at the Tree of Time.  You should have told me who you were.
+Light spirit	 If I did, would you have followed me?
+Korra	 I get your point. But why did you bring me here? What am I gonna find in the swamp?
+Light spirit	Not a what, a who. 
+Korra	 No, wait!  Come back!
 Korra	 You're just in my mind. You're not real.
 Korra	Help!
+Unknown woman	 Feeling better?
 Korra	Where am I? Wha-what happened?
+Unknown woman	I was hoping you could tell me. I found you passed out in the mud.
 Korra	How'd you know I was out there?
+Unknown woman	 I'm pretty tapped into the goings-on around here. What brings you to the swamp, anyway?
 Korra	A spirit led me here and told me I was supposed to find someone. Is that you?
-Korra	"[Catching the word ""Avatar"".] Wait, you recognize me?"
-Korra	[Astonished; whispering.] I can't believe it ... Toph?
+Unknown woman	Beats me. But if your Avatar senses called you here, you should probably listen to them.
+Korra	 Wait, you recognize me?
+Unknown woman	 In a manner of speaking. We were good friends in your previous life.
+Korra	 I can't believe it ... Toph?
 Toph	 Nice to see you again, Twinkle Toes.
+Main Katara Korra Tonraq Senna	Minor Asami Sato Bolin Fishmonger Jinora Kya Mako Naga Pabu Raava Spirits Light spirit Tenzin Toph Beifong

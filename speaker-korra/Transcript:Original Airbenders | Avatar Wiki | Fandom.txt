@@ -1,3 +1,4 @@
+Shiro Shinobi	 The Air Nation is reborn. Thanks to the energy shift from Harmonic Convergence, certain people have acquired airbending abilities including Bumi, Kai, and Opal. Although the new recruits show a lot of promise, they still have a lot to learn. While Korra remains safe in Zaofu, Tenzin brings the new airbenders to the Northern Air Temple to begin their training.
 Tenzin	 His pupils pleaded with their master  to eat something, but he refused,  just like he had each day during summer.  Instead he meditated and got his nourishment from the universe. So when Tang Xu completed the ninety-seventh day of his historic fast on which island?
 Otaku	 Oooh! Oooh!
 Tenzin	Anyone besides Otaku, who already studied this in his acolyte training?
@@ -21,7 +22,8 @@ Kya	Everyone's fine. I fought with him, but he got away. And he stole some old n
 Tenzin	Guru Laghima?
 Kya	Right ... you know I can never keep all those gurus straight. There were like a million of them. Remember that long, boring story about that guy who never ate?
 Tenzin	 Yes ... I remember.
-Tenzin	[To Korra.] Are you all right? Where are you?
+Air Acolyte member	Avatar Korra is calling on the temple's radio.
+Tenzin	 Are you all right? Where are you?
 Korra	With Beifong's sister in Zaofu. We're totally safe, unless we get caught in another fight between Su and Lin.
 Tenzin	Lin willingly took you to her sister?
 Korra	Not exactly. We got a call about an airbender and it turned out to be Su's daughter Opal. She'll be headed your way soon.
@@ -94,6 +96,7 @@ Bumi	 I'm finished! I've never wanted to be an airbender and I'm too old to be b
 Tenzin	 Fine, quit! We don't need your attitude in the new Air Nation.
 Daw	Master Tenzin, when do we get to go home and visit our families?
 Tenzin	Go home? You just got here.
+Female airbender	When's dinner? I'm starving.
 Yung	Can I change out of my robe now? It's itchy.
 Kai	This is just as bad as the Earth Queen's prison.
 Tenzin	 I'm tired of all this complaining! Jinora, take over!
@@ -112,6 +115,7 @@ Kai	 I know something that'll cheer you up.
 Jinora	Where did all the spirits go?
 Kai	Where are the babies?
 Ganbat	What are these kids doing in my camp?
+Rustler #1	We caught them sneaking around. Thought they might tell someone we're here.
 Ganbat	They're the new airbenders. Must be living up in the temple. Hurry up and gather the rest of the gang and let's get out of here before someone comes looking for these kids. I'll take them to Ba Sing Se, with the rest of the fresh meat.
 Tenzin	Tattoos. How could she think? Focus. Breathe. Bumi ruins everything. Inhale. Focus.
 Pema	Taking a little break from teaching?
@@ -150,6 +154,7 @@ Bumi	 Well, I'm not quitting now. I know we've had a tough time, me more than an
 Meelo	Leave no airbender behind!
 Kai	In. Down. And twist.
 Jinora	Free the bison first.
+Bison rustler #2	 Hey! What are you doing out?
 Jinora	Kai!
 Tenzin	What's going on down there?
 Jinora	Kai! Help!

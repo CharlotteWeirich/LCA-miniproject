@@ -1,31 +1,40 @@
+Shiro Shinobi	 After three years, Kuvira has finally united the former Earth Kingdom states under her new Earth Empire banner! But one holdout remains: Zaofu. During that same time, Asami rebuilt the company her father created and helped redesign the city's infrastructure. And, most recently, the airbender kids found the Avatar! Korra rid herself of the residual poison in her body and is ready to return to action!
 Guard	We have an emergency!
 Baatar	 I'll contact President Raiko. He'll send the United Forces.
 Suyin	 Call whomever you want, but they'll never make it in time.  Kuvira's already here and she brought her entire army.
-Kuvira	Don't get ahead of yourself. Securing your hometown won't be like every other city. [She walks over to the map, leaving Baatar Jr. at the window.]
+Baatar Jr.	By this time tomorrow, my mother will have signed the treaty, and the Earth Empire will finally be united.
+Kuvira	Don't get ahead of yourself. Securing your hometown won't be like every other city. 
+Baatar Jr.	 Zaofu stopped being my home long ago. I'm ready to take it by force.
 Kuvira	No. The eyes of the world are on us now. We must do this right. That's why we need Bolin.
-Kuvira	[Turning back to the map.] Su trusts him. She'll listen to him.
+Baatar Jr.	Do you really think we can rely on him?
+Kuvira	 Su trusts him. She'll listen to him.
 Jinora	Are you sure we should be going to Zaofu? Dad wanted us to bring you back to Republic City.
 Korra	 If Kuvira's heading to Zaofu, so am I. She needs to know that the Avatar is back.  The world needs to know.
 Meelo	Woo-hoo! Avatar fight! This is going to be awesome!
 Korra	 Meelo, there's not gonna be a fight. Kuvira saved my dad. She was a captain in Su's guard; I think she can be reasoned with.
 Meelo	What? No fight? Why did we go through all that trouble to save you if you're not going to beat someone up?
 Varrick	Zhu Li! Is this thing on? 
-Varrick	Okay. I'm Varrick, of Varrick Industries, International-- [He smiles as he says his name.] --and this is Spirit Vine Experiment 3-02. Hand me the thing!
+Zhu Li	 We're rolling, sir.
+Varrick	Okay. I'm Varrick, of Varrick Industries, International--  --and this is Spirit Vine Experiment 3-02. Hand me the thing!
 Varrick	" In this stasis capsule is a preserved spirit vine sample weighing approximately two ""Zhu Lis""."
 Varrick	"I have postulated that these spirit vines are a form of pure energy that's unstable in what we call--  --""typical earth conditions"".  This machine should transfer the energy from the vine into a battery using electrical currents, reverse magnetic polarity, and a little-known phenomenon I like to call--  --the Varri-Effect!"
 Varrick	" It's working! It's registering five ""Varricks"" of power.  Now seven Varricks!"
 Varrick	Whoa! What is this? What's going on?
 Varrick	Zhu Li! Shut it down! There are too many Varricks!
+Zhu Li	Sir!
 Varrick	You're too heavy! You know, you could stand to lose a few Zhu Lis!
-Zhu Li	[Softly.] Varrick ... you saved me.
+Zhu Li	 I think you're just weak, sir! Pull harder!
+Zhu Li	 Varrick ... you saved me.
 Varrick	 Of course I saved you.
 Varrick	I can't clean this place up by myself!  Grab a broom!
 Kuvira	What happened? Were we attacked?
 Varrick	 No! We were spirit-vined! But don't worry! I'm putting the kibosh on this project.
 Kuvira	No, you're not. Do you realize what we could do with this kind of power?
 Varrick	 Yes! I do! And that's why we gotta put an end to it! What if it fell into the wrong hands?
-Varrick	"[Hushed.] I know, it's not like me, right? Usually I look at a project like this and think, ""Wow! I could make a ton of money off this!"" But recently, I've been having these strange feelings ... inside. [Confused.] It's like I'm ... concerned with others. And there's this nagging voice in my head constantly telling me what's right from wrong!"
-Kuvira	[Unwavering.] Well, I'm the other voice in your head, and I'm telling you you will continue with this project.
+Baatar Jr.	 Since when does that matter to you?
+Varrick	" I know, it's not like me, right? Usually I look at a project like this and think, ""Wow! I could make a ton of money off this!"" But recently, I've been having these strange feelings ... inside.  It's like I'm ... concerned with others. And there's this nagging voice in my head constantly telling me what's right from wrong!"
+Zhu Li	 I believe that voice is your conscience, sir.
+Kuvira	 Well, I'm the other voice in your head, and I'm telling you you will continue with this project.
 Varrick	Sorry, no. I just really gotta stand my ground on this one-- Whoa!
 Kuvira	And now there's a voice in my head telling me to drop you on the tracks.  Should I listen?
 Varrick	 No! No! Head voices are liars, what do head voices know? I'll work on the project! Please don't drop me!
@@ -50,6 +59,7 @@ Suyin	 I'm not giving up Zaofu. I don't care if you brought your entire army.
 Kuvira	Su, I didn't bring my army to threaten you. I wanted to show you all that your son and I have accomplished.
 Suyin	 You must realize what you're doing goes against everything your father and I tried to teach you.
 Baatar	Son, you belong here.
+Baatar Jr.	 Why? So that I could go on living in your shadow?
 Suyin	Don't say that! Can't you see she's brainwashed you!
 Kuvira	 Ha! I didn't brainwash him! I set him free! And now he's accomplished more with me than he ever could with you.
 Bolin	 Okay, guys, obviously, there's a lot of personal, painful history here, so what do you say we just all forget about that stuff, huh? I mean, that's the past!  Right Wing? Right Wei? You guys know what I'm talkin' 'bout, right? High five!  All right. No, that's cool.  You know what I think we need to do? Focus on the future! And the future is bright, let me tell you!  I've seen it! Yeah!  Saw it last month! We went to this town that had nothing. Most of the people there had never seen a Satomobile before. Now, they have two Satomobiles, running water, and a magnet train that goes right through their town! I mean, how awesome is that?
@@ -70,7 +80,8 @@ Kuvira	 Those people are my loyal subjects, and they contribute to the Empire ho
 Bolin	"Maybe ... I'm not really an ""inner circle"" kind of guy. Or--or maybe, we don't take over Zaofu! Maybe we can just--let them be on their own, and then, ""Yay! The Empire's united! Congratulations to us!"""
 Kuvira	I didn't know your personal feelings for Opal were stronger than your loyalty to me. Zaofu will join us. The only thing I'm second-guessing is my decision to bring you along. Maybe you need to spend some time in a reeducation camp.
 Bolin	I ... thought that's where we sent people to learn new trade skills.
-Kuvira	[Menacingly.] Your loyalty seems to be wavering.
+Baatar Jr.	 Hard truths, Bolin.
+Kuvira	 Your loyalty seems to be wavering.
 Bolin	 No--no, I'm totally on your side, completely, one-hundred-percent loyal.
 Korra	How did things get so bad between you and Kuvira? I thought she was your protégé.
 Suyin	She was more than that. She was like a daughter to me. I took her in when she was eight years old and nourished her talents. Kuvira was smart, a natural leader, and quickly rose through the ranks. I saw myself in her.
@@ -97,15 +108,18 @@ Suyin	You can. Go into the Avatar State and demolish her entire army. Remove Kuv
 Korra	 Fighting is something the old me would do. That always made things worse. Let me talk with Kuvira. Maybe I can reason with her.
 Suyin	 Kuvira doesn't listen to reason.
 Varrick	 I can't believe Kuvira locked me in here like a prisoner! I'm not feeling well! I think I'm running out of air! Zhu Li, hold your breath!
-Varrick	[Exasperated.] Great! Now we're both gonna die!
+Zhu Li	 I'm not holding my breath.
+Varrick	 Great! Now we're both gonna die!
 Bolin	 Varrick? Varrick?!
 Varrick	Ahh! And the head voices are back!
 Varrick	Bolin! Thank goodness you're here! Where did that hatch come from? Forget the hatch! There's something important I gotta tell ya!
 Bolin	Well, there's something important I gotta tell you, too!
+Varrick and Bolin	 Kuvira's crazy!
 Bolin	How'd you find out?
 Varrick	When I refused to build her a superweapon, she threatened my life!
 Bolin	She threatened me, too! And she's threatening Zaofu and it turns out, she's been threatening villages this whole time!  We gotta get outta here.
 Varrick	I couldn't agree more, kid.
+Baatar Jr.	We have an unexpected guest. The Avatar is here to see you.
 Kuvira	Korra, it's such an honor to see you again. The last I heard, you were still healing in the South Pole.
 Korra	Well, I'm feeling much better now.
 Kuvira	That's wonderful news.
@@ -118,7 +132,9 @@ Kuvira	I understand you're just trying to do Su a favor, but you can't come to m
 Korra	I know what that's like. I've had plenty of people mad at me about decisions I've made.
 Kuvira	 Exactly. Korra, if you really want to help, go back to Su and try to talk some sense into her. Let's call a temporary truce. I won't make any moves until you talk to her and get back to me.
 Korra	 Maybe that will be for the best.
+Baatar Jr.	Have you seen Bolin?
 Guard #1	He came by to see Varrick, but we turned him away.
+Baatar Jr.	 Open the door.
 Baatar Jr.	We have some fugitives to catch.
 Bolin	Okay, I say we go up and around the mountains--  --and sneak into Zaofu from the rear.
 Varrick	We're not going to Zaofu, that place is doomed! We gotta head to Republic City!
@@ -126,8 +142,10 @@ Bolin	What? No, nonono, we gotta help here.
 Varrick	We'll be helping by warning the world about Kuvira's potential superweapon!
 Bolin	 Well, that's helping, but it's a completely different type of helping.  Hmm. Let me think about this.
 Varrick	 That's not the flamethrower! What idiot designed these things?
-Varrick	[Pointing in Zhu Li's direction.] Less lecturing, more saving my life!
+Zhu Li	You did, sir!
+Varrick	 Less lecturing, more saving my life!
 Varrick	Hey! I think I figured it out!
+Zhu Li	 Sir, you're making this very difficult.
 Baatar Jr.	Stop! Turn yourself over, or else ...
 Varrick	 Thanks a lot, Zhu Li.
 Hiroshi	You came back.
@@ -140,11 +158,15 @@ Asami	I thought we could play some Pai Sho. Like we used to.
 Hiroshi	 Nothing ... would make me happier.
 Bolin	 Don't ... torture us.
 Kuvira	 Send these three away on the next train. Bolin and Zhu Li will be going to the reeducation camp for our most severe dissenters.  And you will continue work on the spirit-energy project, under close, armed supervision. I want it weaponized immediately. 
-Kuvira	[After a moment's hesitation, turning to look at the figure below her.] Why would I?
-Varrick	[Insulted.] Hey, come on! I'm right here!
-Kuvira	[Stares at Zhu Li before addressing Varrick and Bolin.] You two could learn something from her. Rise, Zhu Li. I'll give you another chance.
+Zhu Li	 Please! Have mercy on me! Don't send me away! Take me back!
+Kuvira	 Why would I?
+Zhu Li	 Because my only mistake was being loyal to the wrong person. I was blindly devoted to Varrick, and I looked past all the times he ridiculed me, or ordered me around, or made me clean his disgusting feet--  --because I thought he possessed the most brilliant mind in the world. But when I met you, I realized I was wrong. Compared to you, Varrick's a fool.
+Varrick	 Hey, come on! I'm right here!
+Zhu Li	I believe in everything you've done, and I believe in your vision. I want to devote my life to you. I pledge my allegiance to you, Great Uniter.
+Kuvira	 You two could learn something from her. Rise, Zhu Li. I'll give you another chance.
 Varrick	 Think about what you're doing! We're partners! We have history!
-Varrick	[As the troopers grab him and pull him outside.] No! Not the thing! Zhu Li!
+Zhu Li	 I did everything you ever asked of me, and you never appreciated it!  Guards, do the thing!
+Varrick	 No! Not the thing! Zhu Li!
 Korra	Where's Su? I have to talk to her.
 Baatar	 She's not here. She took Wing and Wei. They're going to sneak into Kuvira's camp and put an end to this.
 Korra	 No!

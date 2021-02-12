@@ -1,3 +1,4 @@
+Shiro Shinobi	 The Earth Empire has invaded the United Republic! After Kuvira demonstrated the power of her spirit energy weapon, President Raiko surrendered the city, but the Avatar refused to give up without a fight. Korra held Baatar Jr. hostage, hoping to force Kuvira to back down, but the plan failed and she fired on Team Avatar's hideout. Can anything or anyone stop Kuvira and her mecha giant?
 Bolin	 Go ahead, take your time, just bending a giant wall! Man, have we got a lot of people hurt!  Is that everybody?! Gah!
 Tenzin	 Kuvira is heading our way, with a platoon of mecha suits!
 Asami	What should we do?
@@ -12,10 +13,12 @@ Asami	Not all of them. There are the prototypes back at my office. If we can get
 Korra	Su, you take Baatar Jr. and the rest of the wounded back to Asami's office. Get those suits working as soon as you can. The rest of us will just have to face Kuvira on our own.
 Pema	Everyone, please settle down. The trains should be returning to pick us up soon.
 Evacuee	 Tell that mecha jerk to settle down. She's the one blowing up the whole city!
-Tu	[Jumping up onto the bench behind Pema, pinning her between himself and the conductor; his voice is frantic.] Everyone! I was just up on the observation deck and saw a bunch of mecha suit soldiers heading this way!
+Train conductor	 I hate to be the bearer of more bad news, but I just heard on the radio that Kuvira's army has destroyed the train tracks. We're not getting out of the city by rail.
+Tu	 Everyone! I was just up on the observation deck and saw a bunch of mecha suit soldiers heading this way!
 Evacuee	Oh great! The giant one wasn't enough?! It's over! We're all gonna get blown to bits!
 Wu	Listen everyone, I can get us out of here if you just sit tight.  Can you step off the bench, please? It's a little crowded up here.
-Wu	Just stay calm. I'll be right back. [To Tu who follows.] Come on.
+Train conductor	 Sure. I'm only the conductor. No one needs me on the bench.
+Wu	Just stay calm. I'll be right back.  Come on.
 Evacuee	 Whoa, whoa, whoa, whoa. Where are you going?
 Wu	 I'm going to get some help.  You think you can handle this unruly mob for a little while?
 Pema	 I raised Meelo. I can handle anything.
@@ -38,17 +41,26 @@ Asami	I can't stabilize it! I thought you fixed the hydraulics.
 Varrick	I did! Twist harder!
 Daw	I hope you have something in here that can take out a platoon of mecha suits. Kuvira's troops are headed this way!
 Varrick	 I know how to take down some mecha suits and it just might take down that giant, too.  Asami, disconnect anything electrical in here until we get back.  Zhu Li, let's go.
+Baatar Jr.	Where am I? Mom?
 Suyin	Just rest, son. I'm here.
+Baatar Jr.	 Mom, I'm so sorry. I betrayed you, the whole family. I gave my life to Kuvira and she just fired that weapon at me. How could she do that?
 Suyin	I don't know, sweetie. She's a complicated person.
+Baatar Jr.	 Wing and Wei will never forgive me. And Opal.
 Suyin	Yeah, they might take some time to come around. But we'll work through it as a family.
-Varrick	I know I can stop the mecha suits with an electromagnetic pulse, so it stands to reason that I can stop a giant mecha suit with a giant electromagnetic pulse. [Climbs up the tower and cuts some wires on a stand.] Zhu Li, I've been thinking.
+Zhu Li	Do you think this plan will actually work, sir?
+Varrick	I know I can stop the mecha suits with an electromagnetic pulse, so it stands to reason that I can stop a giant mecha suit with a giant electromagnetic pulse.  Zhu Li, I've been thinking.
+Zhu Li	You're always thinking, sir.
 Varrick	Yes. But lately, I've been thinking about you. I know we might not make it out of this mess and I feel like there are some things I should tell you.
-Varrick	I remember when I was a boy, I had an ostrich horse. Named her Mrs. Beaks. [Zhu Li's excitement dies out and she glares at Varrick.] I grew up on a farm. Did I ever tell you that, Zhu Li? This was before the circus people took me away. Anyway, I loved old Mrs. Beaks, but I took her for granted.
-Varrick	Yes! Dead in their tracks. [Sees the giant mecha suit still moving.] Oh, rats. She's still coming. Zhu Li, do the thing!
+Zhu Li	 There are?
+Varrick	I remember when I was a boy, I had an ostrich horse. Named her Mrs. Beaks.  I grew up on a farm. Did I ever tell you that, Zhu Li? This was before the circus people took me away. Anyway, I loved old Mrs. Beaks, but I took her for granted.
+Zhu Li	You'll have to finish your story later. Kuvira's troops are in range.  Okay, I hope this works.
+Varrick	Yes! Dead in their tracks.  Oh, rats. She's still coming. Zhu Li, do the thing!
+Zhu Li	I'm afraid there are no more things to do.
 Kuvira	What was that?
 Soldier	An electromagnetic pulse. It shut down the mecha suits, but our power source is fine.
 Kuvira	Locate the source of the pulse. That must be where Varrick is. Third and fourth mech platoons, move in and continue the sweep. Capture anyone left in the city.
 Bolin	Varrick, how come your electro-thingy shut down the small mecha suits but not the big one?
+Baatar Jr.	Because it's powered with spirit vine energy. I'm sorry. I wish I could help you, but it's unstoppable.
 Hiroshi	It's not.
 Asami	 Dad? 
 Lin	I got him out of jail to help. I figured we need all the geniuses we can get our hands on right now. If the prison's still standing after all this is over, we can throw him back in.
@@ -72,6 +84,7 @@ Wu	They're the best earthbenders around! We can use them to tunnel out of the ci
 Evacuee	Are you sure this is the best plan?  Let's follow the moles!
 Wu	 Badgermoles, digging holes, under Republic City. Got to run away from Kuvira today, although I do still think she's pretty.
 Kuvira	Mech platoons, report.
+Third platoon	 Third platoon, no sign of anyone so far.
 Fourth platoon	Fourth platoon, en route to train station.
 Soldier	I think we found the source of the electromagnetic pulse:  Future Industries Tower.
 Kuvira	That's the place.
@@ -79,23 +92,32 @@ Daw	Kuvira is headed our way!
 Korra	 How long will it take to get the plasma saws ready?
 Asami	Just a few more minutes.
 Korra	Get out there as soon as you can.
-Korra	Thanks. [To group.] We may not be able to beat that thing, but we can slow it down. Let's go!
+Baatar Jr.	If you do manage to get inside, find the engine room. There are two emergency levers. If you switch them off at the same time, you'll cut the power.
+Korra	Thanks.  We may not be able to beat that thing, but we can slow it down. Let's go!
 Tenzin	Jinora!
 Wu	 Oh, Yin, you're the sweetest evacuee I've ever known.  And I just want to thank you for being so kind, when I was living in your home.
-Wu	You don't need these people. They're just innocent civilians caught in the crossfire, but I'm Prince Wu, rightful leader of the Earth Kingdom. [Outstretches his hands.] Take me to Kuvira. I've got business with her.
+Earth Empire sergeant	Halt!  Turn around slowly and please, stop that singing. You're all Earth Empire prisoners. Come with us and no one will get hurt.
+Wu	You don't need these people. They're just innocent civilians caught in the crossfire, but I'm Prince Wu, rightful leader of the Earth Kingdom.  Take me to Kuvira. I've got business with her.
 Tu	No! Don't do it, Wu.
 Wu	I have to. But before I go,  I'd like to sing you a song.  If you don't respect the broach, you don't respect me. Oh, no, no, no, no, no. You're no better than a roach,  but I'm royalty. I got my badgermoles with me.
-Wu	[Singing.] You don't know what you're talking about. [The badgermoles land on the mecha suits, crushing them.] Oh, badgermoles I love you, I love you. I want to, I want to pet your snouts. [Laughs, as the evacuees cheer him on.]
+Earth Empire sergeant	Actually, your song is so bad, your badgermoles deserted you.
+Wu	 You don't know what you're talking about.  Oh, badgermoles I love you, I love you. I want to, I want to pet your snouts. 
 Asami	If we stop that mecha giant, it will all be because of you.
 Hiroshi	You're the one who designed these incredible suits.  It's great to be working together again.
 Asami	I love you, Dad.
 Hiroshi	I love you, too.
 Varrick	Zhu Li?
-Varrick	[Getting nervous.] I have something I need to attach before we take off.
-Varrick	[Takes out a small purple box.] I need to attach this ring [Kneels down and opens the box, revealing a green ring.] to your finger. Zhu Li Moon, will you do the thing for the rest of our lives?
-Varrick	[Triumphantly stands up.] Yes! [Puts the ring to Zhu Li's finger, before carrying and kissing her.] Now let's go attach these barely functional rust buckets to a giant killer smashing machine!
+Zhu Li	Yes?
+Varrick	 I have something I need to attach before we take off.
+Zhu Li	 Attached to what?
+Varrick	 I need to attach this ring  to your finger. Zhu Li Moon, will you do the thing for the rest of our lives?
+Zhu Li	Yes.
+Varrick	 Yes!  Now let's go attach these barely functional rust buckets to a giant killer smashing machine!
+Zhu Li	It's exactly how I always pictured our engagement.
 Varrick	Aim for that spot in the middle of the back - the one I can never reach.
-Varrick	Wah, let's get out of here! [Zhu Li steers the suit, narrowly avoiding being crushed.] Wow! I wish I had that kind of flexibility.
+Zhu Li	Got it.
+Varrick	Wah, let's get out of here!  Wow! I wish I had that kind of flexibility.
+Zhu Li	Hang on!
 Kuvira	I need more power! They're cutting in! More power!
 Asami	We need to get out of here.
 Hiroshi	Almost there.

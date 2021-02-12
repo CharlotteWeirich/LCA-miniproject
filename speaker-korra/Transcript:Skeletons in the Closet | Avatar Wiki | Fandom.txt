@@ -1,4 +1,6 @@
-Korra	"[Angrily.] Can you believe Hiroshi?! ""The Avatar's on the run"". I'm not running from anyone! Let's go back up there and knock some heads; they'll never know what hit 'em. [Turns to go back to do that.]"
+Shiro Shinobi	 The Equalists are on the attack! The Lieutenant and his chi blockers invaded Air Temple Island and forced Tenzin and his family to flee! In the daring escape, Lin Beifong sacrificed herself and saved the airbenders, but she was captured and Amon took her bending away. Now, Team Avatar is in hiding as they await help from General Iroh and the United Forces.
+Hiroshi Sato	It is a glorious day, my Equalist brothers and sisters! Amon has torn down the tyrannical bending government!  He has declared bending illegal,  and he has the Avatar on the run.  Our great leader has a vision for the future. One day soon, bending will no longer exist and we will live in a world where everyone is finally equal! The United Forces are on their way right now to try and stop that dream. But we will prevail!
+Korra	" Can you believe Hiroshi?! ""The Avatar's on the run"". I'm not running from anyone! Let's go back up there and knock some heads; they'll never know what hit 'em. "
 Mako	Relax. General Iroh's coming with an entire fleet of battleships. Then Amon will be the one who's running.
 Korra	" I hate this ""being patient"" stuff. "
 Asami	 You two were gone a while.
@@ -29,7 +31,8 @@ Mako	 I don't see any mecha tanks, either.
 Iroh	Something's not right.  It's a trick!  Water and earthbenders, detonate those mines!  What is that sound?
 Mako	What now?
 Bolin	 Where does Hiroshi find the time to keep inventing new evil machines?!
-Korra	[Swimming.] It's all right, I've got you.
+Male sailor	 Incoming!
+Korra	 It's all right, I've got you.
 Iroh	 Avatar Korra? You saved my life. Thank you.
 Iroh	I was prepared to deal with Sato's mecha tanks, but not these new high-speed aircraft.
 Korra	I know.  Every time we think we have an advantage, Amon outsmarts us.

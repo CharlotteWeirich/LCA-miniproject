@@ -13,15 +13,18 @@ Korra	 All right, Pabu.
 Asami	 Great, we'll see you tomorrow.
 Lin	Looks like our intel was good.
 Saikhan	There's enough evidence here to bury Cabbage Corp for an eternity.
-Saikhan	[Blankly.] Yeah, yeah. That's what they all say ...
+Lau Gan-Lan	 This is an outrage! I'm innocent!
+Saikhan	 Yeah, yeah. That's what they all say ...
 Reporter	Is it true that Cabbage Corp is conspiring with the Equalists?
 Lin	The evidence points in that direction, but the investigation is ongoing. For the time being, we have frozen Mr. Gan-Lan's assets and are closing Cabbage Corp.
-Tahno	[Tired and sadly.] Hey, Korra. [The shot changes to Korra looking at Tahno sitting on a bench.]
+Lau Gan-Lan	 No! Not my Cabbage Corp! 
+Tahno	 Hey, Korra. 
 Korra	 Tahno?
 Korra	Listen, I know we're not exactly best friends, but I'm sorry Amon took your bending.
 Tahno	I've been to the best healers in the city. Whatever Amon did to me, it's permanent.  You gotta get him for me.
 Lin	Mr. Sato, if you remember anything else about what you saw during Amon's attack, be sure to let us know.
-Tenzin	[To Tahno.] We're ready for you now. [He and Lin walk away.]
+Hiroshi Sato	I'm happy to help any way I can. I want these Equalists to pay for what they've done. 
+Tenzin	 We're ready for you now. 
 Tahno	" See you around ...  ""Ah""vatar. "
 Bolin	Earthbending bomb!
 Butler	 Avatar Korra ... has arrived.
@@ -55,6 +58,7 @@ Bolin	Emergency, emergency coming through, beep beep!
 Korra	 Uh, is there another bathroom I can use?
 Asami	We have a lady's powder room upstairs,  first door on your right. You can freshen up in there.
 Korra	Thanks.
+Hiroshi Sato	No, no! No, I assure you, everything is going exactly as planned.  Uh-um, yes ... luckily, the Cabbage Corp investigation has bought us enough time.  Trust me, by the end of the week ...  we'll be ready to strike! 
 Asami	You're leaving? But I-I thought ...
 Korra	 Uh, sorry! I forgot, I'm supposed to airsit, I mean babybend, I-I mean babysit the airbender kids. See you later!
 Tenzin	So, you think Mr. Sato manufactured those gloves for the Equalists then framed Cabbage Corp?
@@ -73,10 +77,13 @@ Asami	 What? I don't believe this.
 Mako	You spied on Hiroshi?  What's your problem? 
 Lin	Mr. Sato, we just have a few follow-up questions for you.
 Asami	 My father is innocent. Just because we're not benders doesn't mean we support those awful Equalists. 
-Mako	[To Korra.] Yeah, you don't know what you're talking about, Korra.
+Hiroshi Sato	Equalists?  Is that what this is about? I can assure you I have nothing to do with those radicals.
+Mako	 Yeah, you don't know what you're talking about, Korra.
 Korra	 I overheard you on the phone. You said the Cabbage Corp investigation bought you time, and you're getting ready to strike. Explain that!
-Tenzin	[Turning to Hiroshi Sato.] In order to put all suspicions to rest, might we have a look into your factories and warehouses?
-News reporter	[Narrating a newsreel.] Is it possible, presidents of Cabbage Corp and Future Industries both have Equalist ties, or did Hiroshi Sato frame his longtime rival, Lau Gan-Lan? [Korra stands beside Naga as she sniffs the boxes.] Or did Chief Beifong just plain arrest the wrong man? [Lin breaks open a box to see the contents.] So far the investigation has yielded no evidence to incriminate Sato. [Wider shot where metalbender cops check inside the boxes.]
+Hiroshi Sato	 This is all just a misunderstanding, resulting from the young Avatar's overactive imagination. My number one competitor was knocked out of the game. It's providing me an opportunity to strike the market with a new line of Satomobiles.  It's just business. Nothing nefarious. 
+Tenzin	 In order to put all suspicions to rest, might we have a look into your factories and warehouses?
+Hiroshi Sato	 If you feel it's necessary, you're welcome to search all of Future Industries.
+News reporter	 Is it possible, presidents of Cabbage Corp and Future Industries both have Equalist ties, or did Hiroshi Sato frame his longtime rival, Lau Gan-Lan?  Or did Chief Beifong just plain arrest the wrong man?  So far the investigation has yielded no evidence to incriminate Sato. 
 Korra	I can't believe we didn't find anything.
 Lin	It would appear Hiroshi is innocent.
 Asami	 Okay, you did your search. Now you can all leave.
@@ -89,10 +96,15 @@ Mako	 If you don't drop this, consider our friendship over.
 Korra	I'm sorry. Hiroshi is not the man you think he is.
 Mako	 Hmph.
 Korra	" I think you guys should hear this.  ""If you want to find the truth, meet me under the north end of the Silk Road Bridge at midnight."" "
-Lin	[Curiously.] What do you have on Hiroshi Sato?
-Korra	[Confidently.] I knew it!
-Tenzin	[Lifting his hand in confusion.] We searched all of Future Industries and found nothing.
-Korra	[Determined.] Where?
+Warehouse worker	 Psst.  Over here.  Listen, I joined the Equalists because I believed in what Amon said. I thought he could make life better for us nonbenders. But I didn't sign up for this ...  this war.
+Lin	 What do you have on Hiroshi Sato?
+Warehouse worker	He manufactured those gloves  for the Equalists.
+Korra	 I knew it!
+Warehouse worker	 And there are rumors he's working on something even bigger. Some new kind of weapon.
+Tenzin	 We searched all of Future Industries and found nothing.
+Warehouse worker	That's because he has a secret factory.
+Korra	 Where?
+Warehouse worker	 It's right underneath the Sato Mansion.
 Tenzin	Raiding the Sato Mansion is a risky move with Tarrlok breathing down your neck. If we're wrong ...
 Lin	I know. I can kiss my job goodbye. But protecting Republic City is all I care about. We can't let Amon get his hands on this new weapon.
 Asami	 What are you doing here?
@@ -125,15 +137,22 @@ Mako	Asami, you should stay here. We'll check it out.
 Asami	 I have to find out the truth about my father.
 Mako	I understand. That's why I'm going down, to find out for you. Please.
 Asami	 All right.  Be careful.
-Korra	[Angrily and accusing.] Hiroshi, I knew you were a lying, no good Equalist! Come out here and-
-Lin	That source was a set-up! You lured us down here! [The mecha tanks come closer to surround the benders.]
+Hiroshi Sato	 I'm afraid you won't be able to metalbend that wall, Chief Beifong.  It's solid platinum.  My mecha tanks are platinum as well.  Not even your renowned mother could bend a metal so pure.
+Korra	 Hiroshi, I knew you were a lying, no good Equalist! Come out here and-
+Hiroshi Sato	 And do what, young Avatar? Face the wrath of your bending? No. I think I'll fight from inside here where my odds are a little more ... equal.
+Lin	That source was a set-up! You lured us down here! 
+Hiroshi Sato	Guilty as charged.
 Tenzin	Korra!
+Hiroshi Sato	Well, I'd say that was a near flawless test run.  Load everyone into the transports and deliver them to Amon!
 Bolin	Oh no.
 Mako	Korra was right. We gotta do something, quick!
-Bolin	[Mako drops Lin's arm. Bolin does the same and uses Tenzin's arms to express his surprise.] Hello, Mr. Sato. Wow! What a really swell, scary factory you have here under your giant mansion.
+Hiroshi Sato	Not so fast, boys. 
+Bolin	 Hello, Mr. Sato. Wow! What a really swell, scary factory you have here under your giant mansion.
 Mako	 Sponsoring our team, supporting the Avatar. It was all just a big cover.
-Asami	Dad, stop! [Hiroshi turns around in surprise. Asami closes her eyes and turns her head away before looking back at her father in sadness.] Why?
-Mako	[In disbelief.] No ...
+Hiroshi Sato	Yes, and the most difficult part was watching my daughter traipse around with a firebending street rat like you! 
+Asami	Dad, stop!  Why?
+Hiroshi Sato	 Sweetie, I wanted to keep you out of this as long as I could.  But now you know the truth, please, forgive me.  These people,  these benders. They took away your mother, the love of my life. They've ruined the world, but with Amon we can fix it and build a perfect world together. We can help people like us, everywhere!  Join me, Asami.
+Mako	 No ...
 Asami	 I love you, Dad.
 Mako	 Let's get out of here!
 Lin	 My metalbenders are on their way to Amon, and it's all my fault. Tarrlok's right, I've failed as chief. First thing in the morning, I'm handing in my resignation.

@@ -1,3 +1,4 @@
+Shiro Shinobi	 The Southern Water Tribe is under siege! When Avatar Korra was attacked by a dark spirit, Chief Unalaq was the only one able to stop it. So, Korra turned her back on Tenzin and chose Unalaq as her new spiritual mentor. Tenzin and his family left for a vacation at the Southern Air Temple, while Korra remained in the Water Tribe. Will she be able to restore balance between humans and spirits?
 Unalaq	You're early.
 Korra	What can I say? I'm pumped up to learn that Unalaq spirit fighting.
 Unalaq	 I'm not here to teach you to fight spirits, I'm here to help you begin your spiritual training. We're going to one of the most remote places in the world, the long neglected spiritual center of your tribe, the South Pole.
@@ -74,7 +75,8 @@ Korra	Told me what!?
 Tonraq	 I left the North Pole because ... I was banished.
 Korra	You were banished from the North? Why?
 Tonraq	Because I almost destroyed the entire tribe.  Twenty years ago, I was a general in the Northern Water Tribe, sworn to protect my people.
-Tonraq	[Voice-over.] I drove them out of the city and deep into the frozen tundra.
+Young Unalaq	 Brother! We're being attacked!
+Tonraq	 I drove them out of the city and deep into the frozen tundra.
 Tonraq	 We tracked them deep into an ancient forest. Many believed this forest was the home to spirits, and the barbarians retreated there because they thought we wouldn't attack them on such hallow grounds. They thought wrong.
 Tonraq	 We captured the barbarians, but in the process, we destroyed the forest.  I didn't realize the consequences of what I had done.  By destroying the forest, I unknowingly let loose angry spirits.
 Tonraq	 They threatened to destroy everything, the entire city.

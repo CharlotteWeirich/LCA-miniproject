@@ -1,3 +1,4 @@
+Shiro Shinobi	 Bolin's a hero. The mover's star stopped Varrick's kidnapping attempt on President Raiko, proving his brother's innocence. Mako and Korra were reunited, but Korra has no memory of their break-up. Meanwhile, Jinora's spirit is still trapped in the Spirit World, and Tonraq and his southern forces have been defeated. Now it's up to Team Avatar to stop Unalaq before Harmonic Convergence.
 Mako	What's up with the coat? And where did you get that pie?
 Bolin	It's a Varrick ship, you never know what you're gonna find. There's a whole level filled with fun-house mirrors. Of course, there's also the catgator deck.  I miss that guy, he really knew how to make a long trip interesting. So, have you told Korra yet about how  you guys broke up, and you kinda started dating Asami while she was off getting attacked by dark spirits?
 Mako	 Will you keep it down? I'm waiting for the right moment.
@@ -82,6 +83,7 @@ Korra	Eska, Desna, listen to me.  You've got to help us stop Unalaq. I know he's
 Eska	 We will never turn on our father.
 Korra	Please.  If you let me out now, I can still stop him from destroying everything.  Once he fuses with Vaatu, no one will be safe. Desna, he won't be your father anymore.
 Desna	 You don't know what you're talking about!  Our father is the wisest man in the world. If he says what he is doing is right, I believe him.
+Northern soldier 1	Huh?
 Northern soldier 2	You know, if I wanted some ball of evil lurking over my shoulder all the time, I'd have stayed home with my mother-in-law.
 Bumi	All right, spirit army.  Your general is here. Follow me!  It's working!  It's not working!
 Bumi	Get me out of here!

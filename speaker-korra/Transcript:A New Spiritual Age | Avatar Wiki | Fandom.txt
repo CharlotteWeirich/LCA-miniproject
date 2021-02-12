@@ -1,3 +1,4 @@
+Shiro Shinobi	 Korra and Jinora have entered the Spirit World. With Tenzin's daughter as her spiritual guide, the Avatar has one mission – to close the spirit portal before Harmonic Convergence. Meanwhile, Unalaq has been working with the dark spirit Vaatu, who was imprisoned by Avatar Wan ten thousand years ago. Will Korra be able to close the portal and stop Unalaq from enacting his deadly plan?
 Tenzin	I can't believe my little girl had to guide Korra into the Spirit World instead of me. If anything happens to her I won't be able to forgive myself.
 Kya	 She's very smart, and she obviously has a strong connection to the spirits. She'll be fine.
 Bumi	Yeah, Dad went all the time!
@@ -16,14 +17,22 @@ Jinora	Isn't it beautiful?
 Korra	 Just ... stick close to me, okay? This seems nice, but you never know when we'll run into some dark spirits. Huh! 
 Jinora	Look! It's like it's made of jewels!  The spirits are so much more beautiful in their own world than they are at home.
 Korra	Jinora, be careful! Hold on!  Uh! 
+Meerkat spirit #1	Hey! Watch where you're going, you giant clod!
 Korra	Sorry!
-Korra	[Smugly.] I'm the Avatar.
+Meerkat spirit #1	This is a residential area, in case you hadn't noticed. Who do you think you are, stomping through here like that?
+Korra	 I'm the Avatar.
+Meerkat spirit #2	 The Avatar?  Not impressed.
 Korra	I'm trying to find the spirit portals? I opened one-
+Meerkat spirit #3	I heard Unalaq did that!
 Korra	No, I did, but-
+Meerkat spirit #4	Well if you opened it, how come you don't know where it is? Huh?
 Korra	B-because I was at the South Pole!
+Meerkat spirit #5	I don't trust her.
 Meerkat spirit #6	Get out of our world!
+Meerkat spirit #7	We don't need you!
 Meerkat spirit #8	You don't belong here!
 Korra	Get away from me! 
+Meerkat spirit #1	Did you guys see that?! She tried to bend at us, in our own holes! Get her!
 Korra	Jinora!
 Jinora	Korra! Stay calm! Your energy is upsetting them. You're only making it worse!
 Jinora	Ahhh!
@@ -49,14 +58,22 @@ Iroh	The Spirit World is very mysterious, but so is love. Help yourself to some 
 Korra	This part of the Spirit World isn't so scary.  My teapot!
 Iroh	That's right. It was yours long, long ago.  When you were Avatar Wan, you used it to carry the light spirit, Raava, around- until the two of you became one. It is my favorite thing I found here.  You know, when you make tea in it, you can still taste a little light in every cup.
 Jinora	Wow. I could just stay in here forever, reading.
+Wan Shi Tong	The last human who said that is still here.
 Jinora	Professor Zei!
+Wan Shi Tong	I see that you have some knowledge of the past, so you should know that humans are no longer allowed in my library. Get out. 
 Jinora	I thought anyone could come in if they brought you some new knowledge?
-Jinora	Well, since you've been down in the Spirit World, the humans have invented radio. [Folds her arms smugly.]
+Wan Shi Tong	Those are the old rules. Besides, what has a little girl got to teach Wan Shi Tong, he who knows ten thousand things?
+Jinora	Well, since you've been down in the Spirit World, the humans have invented radio. 
+Wan Shi Tong	Yes, I am well aware of the radio.
 Jinora	But do you know how it works?
+Wan Shi Tong	Of course I do! There is a box, and inside the box, there is a tiny man who sings and plays musical instruments.
 Jinora	Actually, when we speak, our voices produce sound waves. Radio takes those sound waves and converts them into electromagnetic energy that is transmitted through the spectrum-
+Wan Shi Tong	All right, enough. I did not know this.  Apparently, I have been fed some misinformation about the existence of tiny men in boxes.  Still, I am not interested in that human garbage. Now, go away.
 Jinora	My grandfather was the Avatar, and I came to the Spirit World with the new Avatar to find the spirit portals. I would think that you'd wanna help me.
+Wan Shi Tong	You came with the Avatar, hm? Well, why didn't you say so! Fine, you may look around. But don't break anything- I'll know. 
 Jinora	Come on, Furry-Foot, we gotta hurry!
 Iroh	They say that the game of Pai Sho was invented by the spirits ... although some of them don't seem to grasp it very well. 
+Lotus spirit	Just hold on. I'm thinking. 
 Iroh	As you can see, it is a game that requires great patience. But time does not mean much to us here.
 Korra	How long have you lived here?
 Iroh	Oh, I've been here for many years. I had always enjoyed the company of the spirits,  so when my work was done in the material world,  I chose to leave my body behind and come to the Spirit World! It can be a wonderful place, and I've made so many friends.  Korra, what's wrong?
@@ -81,6 +98,7 @@ Iroh	The dragon bird nest is located there, at the top of Hai-Riyo Peak.
 Jinora	Ugh, it's not in here either! I have to find the portals. Korra is probably waiting for me there right now! I need to find a map that shows where the spirit portals are, could you help me? Thanks, this is it! The Tree of Time! That's where Avatar Wan imprisoned Vaatu! The elders believe that as long as the portals are closed during the Harmonic Convergence, Vaatu will remain imprisoned and the battle between good and evil will not be fought again. But, if both portals are open, spirit energy is amplified greatly. During the Harmonic Convergence, this energy will be great enough to allow Vaatu to break free from his bonds, and the material world will again risk being consumed by darkness. We have to warn Korra!
 Unalaq	Leaving so soon? When Wan Shi Tong told me he had a visitor, I had to see it with my own eyes. I can't believe Tenzin sent his daughter here instead of coming himself - what kind of a father is he?
 Jinora	Better than you. Wan Shi Tong, how can you be helping him?
+Wan Shi Tong	Unalaq has proven to be a true friend to the spirits - unlike the Avatar.
 Jinora	Why would you wanna help Vaatu escape? He'll destroy everything!
 Unalaq	Don't believe everything you read. Why don't you come with me, so you can do some firsthand research? 
 Jinora	Furry-Foot ...?

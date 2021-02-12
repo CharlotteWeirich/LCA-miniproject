@@ -1,3 +1,4 @@
+Shiro Shinobi	 After a hundred and seventy years, there are new airbenders in the world and Bumi is one of them! So too is the mysterious Zaheer, who escaped from his prison thanks to his new ability. Now banished from Republic City, Korra made it her mission to find the new airbenders. Will she and Tenzin be able to bring back the Air Nation?
 Asami	Did someone order a fully equipped Future Industries airship?
 Korra	It's perfect! Thanks Asami.
 Asami	I figured if we're going to Ba Sing Se to search for airbenders, we should do it in style.
@@ -34,7 +35,9 @@ Meelo	Bye! We'll miss you!
 Mako	As of now, these are the towns where we've gotten reports about airbenders. It looks like we can hit up most of them before we get to Ba Sing Se.
 Korra	We're going to bring the Air Nation back from the brink of extinction after nearly two hundred years.
 Tenzin	And it's all because of you, Korra.
+White Lotus sentry	Finally. Our shift change is here.
 White Lotus sentry	Hey! Where are the other guards?
+White Lotus sentry	 Zaheer?!
 Zaheer	It's nice to see you again, Ghazan.
 Ghazan	Thanks for busting me out. Where did you pick up the new skills?
 Zaheer	I have Harmonic Convergence to thank for that. I was given a gift. I believe it's a sign that our path is a righteous one.
@@ -50,7 +53,9 @@ Kuon	I'm gonna do what now? The only thing I'm planning to rebuild is my barn.
 Tenzin	But you must come with us to the Northern Air Temple.
 Kuon	Well, I can't do that. I have a family and a farm.
 Tenzin	Of course you can come. This is of the utmost importance. Your wife will understand.
+Kuon's wife	Wait, what? No, I do not understand.
 Kuon's daughter	Daddy, where are you going? Why does the bald man want to take you away?
+Kuon's wife	No one's going to take Daddy away, sweetheart.
 Korra	Actually, this bald man does want to take him, but it's for an important cause. Your dad is an airbender, and he should learn about his culture.
 Kuon	I think there's been some sort of misunderstanding. I'm not going with you. I might be able to airbend, but I'm no Air Nomad, I'm no monk.
 Townsman	Okay, maybe we should just have some dessert huh? Who's up for dessert?
@@ -65,9 +70,12 @@ Tenzin	 When your son becomes a master, he'll have tattoos all over his body, ju
 Tenzin	Ugh, I really thought I had that last guy. Who doesn't want a bison as their best friend?
 Bumi	It's okay Tenzin, I still want to be an airbender.
 Korra	Okay, we've tried it your way, and people just don't seem to be responding. It's time for a little tough love.
-Korra	[Chuckles with the mother.] How old is he?
+Ryu's mother	Oh, are you the Avatar? When my son got airbending, my husband and I were so happy. We thought this could open a lot of doors for him, maybe he could finally move out of the basement. 
+Korra	 How old is he?
+Ryu's mother	He's twenty-two, and you know, still just to figuring his life out.
 Korra	Well, I have a great opportunity for him. We're looking for airbenders to join us at the Northern Air Temple.
-Korra	[Outstretches a hand.] Hi, I'm Korra.
+Ryu's mother	Ah, that sounds wonderful! I'll get him.  Ryu! Get up here!
+Korra	 Hi, I'm Korra.
 Ryu	So you're like the Avatar or something. Big deal.
 Korra	Uh, I just wanted to talk to you about an opportunity.
 Ryu	Yeah, I heard you talking to my mom, and I'm not interested. 
@@ -90,10 +98,12 @@ Korra	 Yes, you do!
 Ryu	No, I don't.
 Korra	Well, you're about to care, you little slacker, because you're coming with me! 
 Ryu	Stop pulling on my collar! You're stretching it out! Mom, are you just gonna let her take me?!
+Ryu's mother	I think it's a great opportunity. Just try it for a week and see how it goes.
 Ryu	No! Let me go!
 Korra	That's it!
 Mako	Korra, enough! Let's get out of here!
 Bolin	So nice to meet you! Good luck with your son!
+White Lotus sentry #1	We're under attack!
 White Lotus sentry #2	Look out!
 Ming-Hua	I never thought I'd be so happy to see your ugly mugs again.
 Ghazan	Great to see you too, Ming-Hua.
@@ -109,7 +119,8 @@ Tenzin	I'm willing to try anything at this point.
 Bolin	Yes! That is the kind of enthusiasm I like to hear!
 Bolin	 Come one, come all to witness The Amazing Airbenders! The airbending show that will leave you breathless ... with wind! First up, the tattooed master himself, you know him as the son of Avatar Aang, he shaves every hair on his head, every single day!  It's the one, the only guy with an arrow pointing to his nose, Tenzin!
 Bolin	Now, now, ladies and gentleman, ladies and gentleman, please be quiet. I have some serious news. We've heard that an escaped firebending convict has been spotted near here.  Now, I don't want to panic anyone, but if you see a firebender with a red scarf-
-Mako	[Very stiffly.] I am the escaped convict, and you will all reap my fire.
+Crowd member	I see him! He's right there!
+Mako	 I am the escaped convict, and you will all reap my fire.
 Bolin	 Oh no! Who will help us?
 Korra	I will. With my airbending skills!
 Mako	 Ah! Hey! Let me go! This is not what we rehearsed! Korra!
@@ -132,23 +143,28 @@ Tenzin	I'm so sorry about your parents. I know we could never replace them ...  
 Korra	We'll keep you safe, come on.
 Bolin	 When you board this airship, you're going to leave your old life behind and start a new path. That's big brother advice. Just think of me as your big brother. 
 Mako	Guys! I think we got trouble.
-Kai	The outlaws! They're here ... Uh, let's get out of here. [Grabs on to Korra's arm.]
+Earth Kingdom sheriff	Release the boy, or we'll take him by force.
+Kai	The outlaws! They're here ... Uh, let's get out of here. 
 Korra	 We are not running away from anyone.
 Korra	 If you want Kai, you'll have to go through me!
 Korra	Your days of harassing an innocent boy is over. You outlaws are going to prison.
+Earth Kingdom sheriff	Outlaws? Innocent boy? I'm a sheriff  and these are my deputies, and this kid is a thief.  Whatever he told you was a lie, we've been chasing him for months.
 Korra	Where's Kai?
 Mako	Right here, I found him slipping away.
 Kai	I was just going to the bathroom.
 Mako	With your stash of gold?
 Kai	I told you, I found this on the road.
 Mako	Enough with the lies kid. I want the truth.
+Earth Kingdom sheriff	The truth is, he's the outlaw. He spent an entire life in an orphanage, got adopted by a real nice family six months ago, and how did he repay them? By taking their entire life savings. We've been after him ever since.
 Korra	Is that true?
 Kai	The person who stole that stuff was the old me. Once I got airbending, I changed. I don't know how to explain it, but I feel like airbending choose me for a reason , like I'm a new person. I'm sorry! Please, you have to listen to me.
 Bolin	Are, are you taking him back to the orphanage?
+Earth Kingdom sheriff	No, he's headed to jail.
 Korra	Wait! You've got the family's life savings, now let us take Kai.
 Tenzin	Do you really want our first member of the Air Nation to be a liar and a thief?
 Korra	He just needs some guidance, Tenzin. Who better to give it to him than us?
-Tenzin	[Strokes his beard and thinks for a while.] Yes, you can release the boy into our custody.
+Earth Kingdom sheriff	Do you want this boy or not?
+Tenzin	 Yes, you can release the boy into our custody.
 Kai	Thank you!
 Korra	Don't make me regret it.
 Bolin	Welcome to the family, little bro.
@@ -157,7 +173,11 @@ Kai	Woah! Hey, lighten up.  I'm turning over a new leaf, making a change.  Don't
 Jinora	Hi, I'm Jinora.  If you need any help with airbending, I could show you what I know.
 Kai	Thanks, that's real nice of you. 
 Tenzin	 Jinora, we're leaving now. 
+White Lotus sentry	They came out of nowhere.  I'm so sorry, Lord Zuko.
 Zuko	How could you let this happen?
-Zuko	[Alarmed by the revelation.] No! This can't be. [Looking at the White Lotus Sentry.] Do you have any idea the power these criminals possess? Individually, they can take down any bender. [Looks down in fear.] Put them all together, they could take down the entire world. And now you're telling me that their leader is an airbender?
-Zuko	We don't need to track them, I know exactly where they're going. [As he and the White Lotus Sentry walk out of the prison, the shot fades to white.] Notify the new chiefs of the Northern Water Tribe that an attack on their prison is imminent, [The white fades out to reveal Druk, Zuko's dragon.] and send word to Lin Beifong in Republic City. The Avatar must be protected.
-Zuko	[Mounting Druk.] To stop them.
+White Lotus sentry	They caught us by surprise, and Zaheer is an airbender now.
+Zuko	 No! This can't be.  Do you have any idea the power these criminals possess? Individually, they can take down any bender.  Put them all together, they could take down the entire world. And now you're telling me that their leader is an airbender?
+White Lotus sentry	We can track them.
+Zuko	We don't need to track them, I know exactly where they're going.  Notify the new chiefs of the Northern Water Tribe that an attack on their prison is imminent,  and send word to Lin Beifong in Republic City. The Avatar must be protected.
+White Lotus sentry	Where are you going?
+Zuko	 To stop them.

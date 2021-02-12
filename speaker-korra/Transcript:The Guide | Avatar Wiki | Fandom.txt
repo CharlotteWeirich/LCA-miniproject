@@ -1,3 +1,4 @@
+Shiro Shinobi	 Korra has regained her memory. By connecting with the original Avatar, Korra learned that to stop Unalaq she must close the spirit portal before Harmonic Convergence, which is only weeks away! Meanwhile, Varrick has made Bolin into a mover star and saved Asami's company. Mako is the only one who suspects that Varrick is up to no good, but can he prove it?
 Jinora	Gotcha!  Furry-Foot, come back.
 Tenzin	 Jinora, there you are. Come on, everyone's waiting.  Were you playing with someone?
 Jinora	Oh, just some ... imaginary friends.
@@ -6,6 +7,7 @@ Bumi	It's true. I once beat an earthbender in a rock-throwing contest! I have th
 Tenzin	All right, who's ready for an exciting tour of the Eastern Air Temple? We've got a lot to see today, including ancient statues, ancient gardens,  and the meditation hall used by ancient airbenders.
 Ikki	 Yay. Old things.
 Tenzin	 Korra?
+Jinora, Ikki and Meelo	 Korra! Yay, Korra! Korra's back! 
 Pema	What are you doing here?
 Ikki	 Oh, I've missed you!
 Kya	And how did you know where to find us?
@@ -149,7 +151,8 @@ Jinora	When we were at the Southern Air Temple, I was drawn to this old carving.
 Korra	When did this happen?
 Jinora	It was on the solstice.
 Korra	That's the day I opened the Southern portal.
-Bumi	[As Oogi lands.] We're here!
+Korra and Jinora	Whoa.
+Bumi	 We're here!
 Tenzin	Are you sure these spirits are leading us into the right place?
 Bumi	Of course! I trust Bum-Ju with my life.
 Korra	Look. There are carvings on them.

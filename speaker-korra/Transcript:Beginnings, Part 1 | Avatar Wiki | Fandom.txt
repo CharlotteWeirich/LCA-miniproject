@@ -1,16 +1,26 @@
-Korra	[Weakly.] Raava. Raava. Raava.
+Shiro Shinobi	 The Avatar has gone missing. After President Raiko refused Korra's request to aid the South in the war of the Water Tribes, she headed to the Fire Nation, seeking a new ally against Unalaq. But unbeknownst to her friends, a dark spirit attacked Korra and dragged her into the ocean. She has washed up on a desolate island with no memory of who she is.
+Female Sage	We found the Avatar washed up onshore, but she doesn't remember anything.
+Korra	 Raava. Raava. Raava.
 Shaman	 A dark energy has infected her. We must purge it before it destroys her Avatar Spirit.  Let the waters cleanse the darkness that plagues your spirit.
 Korra	Who are you?
+Korra's image	I am you.
 Korra	Who am I?
+Aang's image	 You are the Avatar.
 Korra	I don't know what that is.
-Kyoshi's image	[Roku's image ripples and changes into Kyoshi's.] If you don't, darkness will engulf the world. You will die, and our era will end.
+Roku's image	 In order to remember, you must regain your connection with your Avatar Spirit.
+Kyoshi's image	 If you don't, darkness will engulf the world. You will die, and our era will end.
 Korra	How do I regain my connection?
-Korra	[Turns around and sees Wan in front of a circle of light. Cut back to a frontal shot of Korra.] Are you Raava?
-Little Chou	[Raises his spear.] Nobody steals from the Chou brothers!
+Kuruk's image	 Go back.  Return to the beginning. Find Raava. 
+Korra	 Are you Raava?
+Wan's image	 No, but I can help you find her. My name is Wan, and I will show you how I became the first Avatar.
+Little Chou	 Nobody steals from the Chou brothers!
 Wan	Really? Because I just did.
-Wan	[Wan turns around to salute the brothers mockingly before letting himself fall backward, off the railing.] Actually, I feel quite alive.
-Wan	[The Chous catch up with Wan, who is seen in the reflection of Big Chou's blade.] He-he-hey, fellas! [Looks at his roll sadly for a moment.] You're just in time for lunch! [Throws a piece of food in Big Chou's face leaving a red mark on his nose and jumps over him, but is tripped by Middle Chou, subsequently falling on the ground.]
-Jaya	[Sighs while Wan walks in, digging into his shirt to take out some food.] Did you steal from the Chous again?
+Big Chou	You're dead, Wan. 
+Wan	 Actually, I feel quite alive.
+Little Chou	Hey, stop!
+Wan	 He-he-hey, fellas!  You're just in time for lunch! 
+Little Chou	 I told you no one steals from us.
+Jaya	 Did you steal from the Chous again?
 Wan	 Yeah, and I got to nothing show for it except a few dirty rolls and a whole lot of bruises.  Hey, Yao, I got some food for you. 
 Yao	Mmm. Delicious!  Thank you, Wan.
 Wan	You guys are hungry too, huh? 
@@ -26,10 +36,13 @@ Huntsman	We're going to be out in the wilds for a week. You wouldn't last two se
 Wan	 I can handle myself.  We all get fire, right?
 Huntsman	Yeah, but do you know how to use it?
 Wan	Well, not exactly, but I-
-Huntsman	[Smiles.] All right. Welcome to the hunt.
+Hunter #2	 Ah, let him come. Not like we got any other volunteers lining up. 
+Huntsman	 All right. Welcome to the hunt.
 Wan	 The lion turtle.
 Huntsman	Great guardian of our city, we are venturing into the Spirit Wilds to bring back food for our people. Please, grant us the power of fire.
+Lion turtle	 The power is yours to keep until your return.
 Huntsman	You're first, kid.
+Lion turtle	May the element of fire protect you against the spirits.
 Huntsman	Just make sure you aim at the spirits, not us, okay?
 Wan	Sure thing.
 Huntsman	Everyone, stay close. Spirits love to pick off stragglers.
@@ -44,63 +57,100 @@ Wan	 Really?  Because I just did.
 Jaya	 You know it's forbidden to bring the power of the element into the city. Please, go back to the lion turtle and return the fire.
 Wan	Jaya, it's time to stop being so afraid of the Chous and show them we have the power to change things.
 Wan	Hey, Chous! Open the gate, and let us in.
+Chou the Elder	What are those filthy peasants  doing here?
 Big Chou	Don't worry father. We'll take care of them.
 Wan	 Hand over all the food you're hoarding,  and we won't give you any trouble.
-Wan	[Frontal shot as Wan crosses his arms; smugly.] Powerless, huh?
+Big Chou	 You're not getting past us.  We have the weapons.  You're powerless.
+Wan	 Powerless, huh?
 Wan	 Follow me!
 Wan	 Grab as much food as you can. 
 Jaya	 Maybe you're right.  Maybe we do have the power to change things.
-Jaya	[Voice-over.] Looks like the Chous found backup.
+Palace guard	Stop right there!
+Jaya	 Looks like the Chous found backup.
 Wan	 Get everyone out of here. I'll hold them off.
+Little Chou	No, please! Have mercy!
 Little Chou	Wan?
+Little Chou	 Even when you have the power,  you're afraid to use it.
 Chou the Elder	Tell me who else was involved in the rebellion, and I might take mercy on you.
 Wan	 I'm not telling you anything.
-Little Chou	Yeah! [The guards start to push Wan toward the lion turtle.] And give back the fire you stole.
+Chou the Elder	 Then, you've left me no choice.  Wan, you are hereby banished.
+Little Chou	Yeah!  And give back the fire you stole.
 Wan	No! Wait. Great lion turtle, I am sorry for stealing the fire from you, and I accept my punishment. But please, I need to be able to protect myself in the wilds.
-Yao	[Sadly.] Bet he doesn't last [Jaya turns and looks at Yao.] till morning.
+Lion turtle	 Never again may you return to this city.  But  I will allow you to keep the power of the element.
+Yao	 Bet he doesn't last  till morning.
+Frog spirit	Hey,  watch where you're stepping, human!
 Wan	Who said that?
-Wan	[Cut back to Wan who sighs in relief.] You're just a little frog.
-Wan	[Surrounded by buzzing hornets; running in zig-zags all over the place.] Get off me! Get off me!
+Frog spirit	Down here!  How'd you like it if I started walking all over you?
+Wan	 You're just a little frog.
+Frog spirit	 Who's little now? 
+Wan	 Get off me! Get off me!
+Aye-aye spirit	 You are not welcome in my oasis, human.
 Wan	Please, help me. I'm starving and I haven't slept all night.
-Wan	[Firebends at the spirit.] Let me pass. [The spirit widens his eyes in surprise for a moment before turning angry.]
+Aye-aye spirit	Not my problem.
+Wan	 Let me pass. 
+Aye-aye spirit	You dare use fire against me?  Now, be gone with you!
 Aye-aye spirit	And who might you be?
 Wan	 I am Bushy, the Bush Spirit. And I would like the enter your oasis.
-Wan	[Cut to a shot of Wan sitting in the water, soaked, as his disguise scatters.] Come on, let me in, just for a little while.
+Aye-aye spirit	 Very well.  You may pass.  Wait a second.  Something stinks.  I knew I smelled a human!
+Wan	 Come on, let me in, just for a little while.
+Aye-aye spirit	No! Go back to your lion turtle.
 Wan	Believe me, I'd love to go back home. But I can't. I was kicked out.
+Friendly spirit #1	That's too bad.
 Friendly spirit #2	Poor human.
+Aye-aye spirit	Don't pity him. He's just like every other human: ugly, destructive, and lacking any respect for nature.
 Wan	Who are you calling ugly, Ugly?
+Aye-aye spirit	 Mmm.
 Friendly spirit #1	If you can't go back to your city, then you should go live in another one.
 Wan	 What? There are other lion turtles?
+Aye-aye spirit	" ""There are other lion turtles?""  Of course there are,  dozens of them! Boy, you humans are stupid, too."
 Wan	So which way to the nearest lion turtle city?
+Aye-aye spirit	 Hmm. I think it's on the other side of none-of-your-business valley. 
 Wan	Real funny. You know what? I don't need your help. I'll find it myself.
-Wan	[Sighs. Cut to a shot from the side as Wan walks toward the cat deer as it growls once more.] It's okay. I'm gonna get you out of there.
+Friendly spirit #2	 Good luck!
+Wan	 It's okay. I'm gonna get you out of there.
 Huntsman	Finally, we caught something.  Get it down.
 Wan	Back off.
 Huntsman	Wan? What are you doing here?
 Wan	I'm saving this animal.
 Huntsman	That animal's our dinner. Now, get out of the way.
 Wan	No!
-Hunter #4	[Swarmed by insects.] Get 'em off! Get 'em off! [He is dragged off into the air.] Ahh!
+Hunter #3	Ahh! He-help! Help! 
+Hunter #4	 Get 'em off! Get 'em off!  Ahh!
 Huntsman	Well, looks like you're all out of tricks, Wan.
-Huntsman	[Is assaulted by his possessed comrade.] No, no! [Runs away screaming.]
+Aye-aye spirit	I. Really. Hate. Humans!
+Huntsman	 No, no! 
+Aye-aye spirit	I don't know what he's screaming about.  He's better looking now.
 Wan	I feel great. What's in this water?
-Wan	[Friendly spirit #2 hands Wan a piece of fruit.] Thanks. [Wan takes a bite out of the fruit.] So what did you do to that hunter?
+Aye-aye spirit	It has special healing properties.
+Wan	 Thanks.  So what did you do to that hunter?
+Aye-aye spirit	Spirits are able to take over a human body for a short time. If I stayed in there any longer, I would've killed him, which I did consider.
 Wan	Thanks for saving my neck. But why'd you do it?
-Wan	Told you I wasn't like the others. [Pets Mula and stands up.]
+Aye-aye spirit	I saw you save the cat deer from those hunters. I've never seen such an act of selflessness from a human before.
+Wan	Told you I wasn't like the others. 
+Aye-aye spirit	Guess I underestimated you, human.
 Friendly spirit #2	Are you off to find another lion turtle city?
 Wan	I was. But I think I've had enough of humans for a while. I've decided to stay here and learn the ways of the spirits.
+Friendly spirit #1	What a great idea.
 Friendly spirit #2	That'll be fun.
+Aye-aye spirit	Oh, now, now, hold on. A human living with spirits? It's never been done.
 Wan	First time for everything, right?
+Aye-aye spirit	"Hmm. I guess we can try it. I've never had a human as a pet before. I think I'll call you ""Stinky."""
 Wan	The name is Wan.
+Aye-aye spirit	Stinky is more accurate.
 Citizen #1	What happened in the wilds?
-Huntsman	Gone. Spirits took them. [As the huntsman speaks, the camera zooms out to reveal Jaya and Yao watching in the foreground. Cut to a shot of the two from the front, looking amazed.] They were protecting that kid, Wan, like he was one of their own.
+Citizen #2	Where are the others?
+Huntsman	Gone. Spirits took them.  They were protecting that kid, Wan, like he was one of their own.
 Jaya	 Did you hear that?  Wan's still alive.
 Huntsman	 And the way Wan moves fire, it's like nothing I've ever seen.  He uses it like it's an extension of his body.
 Jaya	 Wan has proved that with the power of fire, anyone can survive in the wilds.  We don't have to live under Chou the Elder's rules anymore, so I say we leave this city and start over.  Who's with me?
 Wan	 You ready to go, Mula?
+Aye-aye spirit	You sure you want to leave?
 Wan	Yes. It's time I see the rest of the world and find the other lion turtle cities.
-Wan	[Chuckles lightly.] Thank you for everything. [Cut to an aerial shot of the oasis; voice-over.] Goodbye, everyone.
+Aye-aye spirit	I'm proud to call you my friend, Stinky.
+Wan	 Thank you for everything.  Goodbye, everyone.
+Friendly spirit #1	 We'll miss you.
 Random spirit #1	The all-powerful spirits are battling!
+Random spirit #2	They're gonna wipe out the entire valley!
 Wan	Stop, or you'll destroy everything!
 Raava	This doesn't concern you, human!
 Wan	It does when the lives of spirits and animals are in danger.

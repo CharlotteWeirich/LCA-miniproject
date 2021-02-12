@@ -1,3 +1,4 @@
+Shiro Shinobi	 Tensions between the Northern and Southern Water Tribes have reached a breaking point. After Chief Unalaq's troops took over the South, Varrick incited an uprising. But Korra stopped the rebels from abducting her uncle. Enraged by the insurrection, Unalaq arrested the rebels and Korra's parents, accusing them of conspiring to assassinate him. Will Korra be able to save her parents and prevent civil war?
 Korra	 You're making a mistake. 
 Unalaq	I wish it hadn't come to this. But your parents held meeting with the rebels, right here in their home.
 Korra	 I can't believe you're doing this to your own family.
@@ -16,7 +17,8 @@ Asami	What?
 Mako	Korra's parents were arrested?
 Desna	Yes. Your powers of deduction are impressive.
 Bolin	 Yeah, he's a cop.
-Eska	Very well. Desna, let us continue our search elsewhere. [To Bolin.] Boyfriend! Bow to me when I exit.
+Northern guardsman	 Varrick's not here.
+Eska	Very well. Desna, let us continue our search elsewhere.  Boyfriend! Bow to me when I exit.
 Bolin	 Yes, yes, my sweet koala otter.
 Eska	You are so cute when you grovel.
 Asami	 Don't let her treat you that way. Stand up for yourself.
@@ -32,6 +34,7 @@ Mako	The coast is clear. You can come out.
 Varrick	No way, mister. Not until I know it's absolutely 157% safe.  Ah! Thank you, Zhu Li.
 Asami	Your assistant's in there too?
 Varrick	 Zhu Li never leaves my side.  Yuck! Pyugh! Pyuck! You forgot the honey! 
+Zhu Li	 Sorry, sir. There isn't any in here. 
 Varrick	No honey? We're in a bear for crying out loud!
 Mako	 I'm gonna go see how Korra's doing. 
 Varrick	Bolin, I got a little something for you 'round back. 
@@ -51,7 +54,8 @@ Ikki	And that's Princess Rainbow, and that's Twinkle Starchild, and that's Junip
 Tenzin	New ones, huh? Can they be my new brothers and sisters too?
 Ikki	Maybe, but only if they say it's okay.  Uh-huh, uh-huh. No, no, he's nice. They say it's okay.
 Bolin	"We're good to go. I gave all the money to some guys over there. I told them to ""take care of it"", and then I winked.  Pretty sure they got the message."
-Bolin	[Realization.] Man! I should have paid him!
+Law clerk	This trial will now come to order! Judge Hotah presiding. 
+Bolin	 Man! I should have paid him!
 Asami	 Yeah, you think? 
 Unalaq	I was asleep in my chambers when the rebels attacked. They overpowered me, and the next thing I remember was waking up in the snow after Avatar Korra had saved me.
 Hotah	According to Unalaq's testimony, you attended a meeting where Varrick tried to incite a civil war. Is that true?
@@ -157,8 +161,10 @@ Korra	Because you still need me to open the Northern portal.
 Unalaq	No, I don't. You've served your purpose.
 Mako	If we get to Varrick's boat, we can still save your father.
 Korra	Let's go.
-Bolin	[Nervously.] Uh, you fellas seen a traveling circus come through here?
+Northern soldier	You have a license for that animal?
+Bolin	 Uh, you fellas seen a traveling circus come through here?
 Varrick	 Zhu Li, do the thing.
+Excited man	That platypus bear is pooping money!
 Bolin	Where's your dad?
 Korra	On a ship headed north. Think we can catch up to it?
 Varrick	Sure, once you get us past our friends from the North.
@@ -168,6 +174,7 @@ Mako	Um, why do you have a plane on your boat?
 Varrick	In case the boat sinks, of course.
 Asami	But there's no runway. How are we supposed to take off?
 Varrick	"Zhu Li! Take a note: ""Build runway""."
+Zhu Li	Yes, sir.
 Korra	I have an idea.
 Korra	Now!
 Helmsman	Captain, you'll never gonna believe this.
@@ -190,8 +197,10 @@ Bumi	That is one good-looking family, huh?
 Tenzin	That's one happy family. 
 Korra	So once I knew the truth, I couldn't sit by and do nothing.
 Tonraq	 My own brother betrayed me. And our entire tribe.
+Rebel leader	What's our next move?
 Tonraq	I've been running from my past for too long. It's time to put my brother in his place.
-Korra	[Puts her fist to her heart.] Mine too. I'll be proud to fight alongside you, Dad.
+Rebel leader	You have our support, Chief Tonraq. 
+Korra	 Mine too. I'll be proud to fight alongside you, Dad.
 Tonraq	No, Korra.
 Korra	 But you said the South doesn't stand a change against Unalaq's forces. I can help. 
 Tonraq	The best way for you to help is by getting the president of the United Republic on our side. The South can give Unalaq a good fight for a while. But we'll need the United Forces in order to win this war.

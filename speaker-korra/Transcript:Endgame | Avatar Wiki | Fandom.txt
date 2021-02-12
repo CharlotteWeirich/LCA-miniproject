@@ -1,3 +1,4 @@
+Shiro Shinobi	 Korra and Mako have discovered the truth about Amon's identity. He's a waterbender, a bloodbender, and brother to Tarrlok! Now, Korra and Mako plan to infiltrate the Equalists' victory rally and expose Amon as a fraud. Meanwhile, Asami, Bolin, and General Iroh head toward Hiroshi's secret airfield, where Asami intends to take down her father?
 Iroh	I think we've found our secret airfield.  Bolin, once we get down there, I need you to tear up those runways. We can't let those aircraft take off.
 Bolin	 Aye aye, captain!  Ooh, general, general.  All right, you guys wait here until we get back, okay?  Uh-uh, stay.
 Asami	 Why would there be fence posts but no fence?
@@ -11,13 +12,17 @@ Amon	 You're desperate, Avatar. Making up stories about me is a pathetic last re
 Korra	Your family wasn't killed by a firebender.  His father was Yakone,  and his brother ... is Councilman Tarrlok.
 Amon	Hmph, an amusing tale, but I will show you the truth.  This is what a firebender did to me.
 Korra	 What? 
-Korra	I'm telling you! [Pointing at Amon.] He's a waterbender. [She turns to Mako; defeated.] They don't believe me. It didn't work!
+Equalist supporter	 The Avatar is lying!
+Korra	I'm telling you!  He's a waterbender.  They don't believe me. It didn't work!
 Mako	 We said what we had to. Let's get out of here.
 Amon	I wouldn't leave yet, Avatar. You'll miss the main event. 
 Korra	 No ... they got away.  We saw them get away!
-Asami	[Angrily.] Are you insane?! How can we be a family after everything you've done?! Mom would hate you for what you've become.
+Hiroshi Sato	Asami.  Asami, I know I have hurt you ... and I am sorry. But I believe that one day, you will come to your senses and we can be a family again.
+Asami	 Are you insane?! How can we be a family after everything you've done?! Mom would hate you for what you've become.
+Hiroshi Sato	 How dare you? I am avenging her death!
 Equalist	The airplanes are ready for take-off, sir.
-Hiroshi Sato	[Turns to Iroh.] That's right, general. I intercepted your message to Commander Bumi. I know exactly where they're hiding. [Iroh glares at Hiroshi.]
+Hiroshi Sato	 Good, annihilate the fleet.
+Hiroshi Sato	 That's right, general. I intercepted your message to Commander Bumi. I know exactly where they're hiding. 
 Asami	 How are we gonna get out of here?
 Iroh	 I don't suppose you know how to metalbend?
 Bolin	 That is a negative, Sir. 
@@ -46,8 +51,10 @@ Mako	 Korra!
 Amon	I told you I would destroy you.
 Iroh	 Thanks for looking out for me, Aang.
 Bolin	 Whoa! Thanks Naga.
-Asami	[Angered.] You don't feel love for Mom anymore. You're too full of hatred.
-Hiroshi Sato	[Angrily.] I now see there is no chance to save you!
+Hiroshi Sato	 Asami, what do you think you're doing? You are aiding the very people who took your mother away!
+Asami	 You don't feel love for Mom anymore. You're too full of hatred.
+Hiroshi Sato	You ungrateful, insolent child! 
+Hiroshi Sato	 I now see there is no chance to save you!
 Bolin	 Mr. Sato, you are a horrible father!
 Asami	 You really are a horrible father.
 Amon	 Finally, you are powerless.
@@ -60,10 +67,13 @@ Korra	 No!
 Amon	 Impossible!
 Korra	I - I can airbend?  I can airbend!
 Korra	 No ... you ... don't!
+Crowd member #1	Did you see what happened?
 Crowd member #2	You bending tyrant!
 Protester	 Evil Avatar!
+Crowd member #3	He's waterbending.
 Feathered hat man	He is a bender.
 Protester	Whoa!
+Crowd member #4	The scar is fake.
 Crowd member #5	The Avatar was telling the truth.
 Tarrlok	Noatak.
 Noatak	It's over, brother. I'm sorry for what I had to do to you.

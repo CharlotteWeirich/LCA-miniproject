@@ -1,3 +1,4 @@
+Shiro Shinobi	 Someone has attacked the Southern Water Tribe Cultural Center. All the evidence points to Northern sympathizers, but Mako suspects there's more to this case. Meanwhile, Varrick has cast Bolin as the hero of his newest mover. Asami has also ventured into business with Varrick, and a shipment of her mecha tanks is on its way to help the South in its war against Unalaq.
 Captain	We're under attack!
 Captain	Varrick is not gonna be happy about this.
 Eska	Where is he?
@@ -8,26 +9,33 @@ Desna	They're out of control.
 Unalaq	 You didn't get her?
 Eska	The Avatar is dead.
 Nuktuk	We finally made it. Now, we must stop the evil Unalaq! 
-Nuktuk	Don't worry, Juji and Roh-Tan, I will end the evil Unalaq's reign of terror. For I am Nuktuk, hero of the South! [Crowd cheers.]
+Evil Unalaq	The Southern Water Tribe is mine. Next, I will conquer the world with my waterbending doomsday device!
+Nuktuk	Don't worry, Juji and Roh-Tan, I will end the evil Unalaq's reign of terror. For I am Nuktuk, hero of the South! 
 Juji	Nuktuk, you're not just the hero of the South, you're our best friend.
 Roh-Tan	Nuktuk-ity!
 Nuktuk	 You two are the best snow raccoon and arctic panda a guy could ask for.
 Crowd	Aww!
-Varrick	[Pans to a booth, where Varrick, Bolin and Ginger are seated.] Bolin, look up there. What do you see?
+Voice narrator	 Who's gonna fight for friends and freedom? Nuktuk.  He's the biggest, baddest, bendingest man I know.  Who protects the icy tundra? Nuktuk.  Battling Northies out there in the snow.  When Unalaq starts trouble, he'll punch him in the mouth.  He's Nuktuk, the hero of the South. 
+Varrick	 Bolin, look up there. What do you see?
 Bolin	 I- is this a trick question?
 Varrick	I'll tell you what I see: a star being born. You're a star. People love stars. Stars tell them what to think and how to act. Bolin, have you ever tried to force a monkey marmot to ride a bicycle?
 Bolin	Uh ... not that I can recall.
 Varrick	Of course you haven't. You can't force monkey marmots to do anything. They've got to want to do it themselves!
 Bolin	Right ...
 Varrick	With these movers, we'll have the support of the people, and before long, they'll persuade the President to lend his troops to the war effort.
-Nuktuk	[Enters the throne room.] Not so fast, Evil Unalaq! Oh, I will save my true love and the South! [Defeats the guards with waterbending.] And now, your time is up.
-Nuktuk	[Dramatically.] No! Please. Power ... weakening.
+Evil Unalaq	 My evil plan is working. I've captured Nuktuk's beautiful girlfriend.
+Nuktuk	 Not so fast, Evil Unalaq! Oh, I will save my true love and the South!  And now, your time is up.
+Evil Unalaq	It's no use fighting, Nuktuk. My anti-energy net makes bending impossible. 
+Nuktuk	 No! Please. Power ... weakening.
 Ron-Tah	Nuk-terrible.
-Bolin	[Cut back to the booth.] Wow. We got some major chemistry on-screen. Am I right?
+Voice narrator	Will this be the end of Nuktuk? Can he escape from Unalaq's trap and save the beautiful Ginger? Find out next week on The Adventures of Nuktuk: Hero of the South.
+Bolin	 Wow. We got some major chemistry on-screen. Am I right?
 Ginger	Yeah. On-screen. 
 Bolin	What's wrong? Are you mad because I left you in the clutches of the evil Unalaq? I'm gonna save you in the next episode.  Ginger, let's work through this.
-Varrick	[Angrily.] Darn it, Zhu Li, haven't I told you I hate getting bad news without first getting good news?
-Varrick	That's old news! Let's go. [Exits.]
+Zhu Li	Varrick, another one of your ships has been captured.
+Varrick	 Darn it, Zhu Li, haven't I told you I hate getting bad news without first getting good news?
+Zhu Li	 Oh, well, the good news is it looks like your first mover has gotten a great reception.
+Varrick	That's old news! Let's go. 
 Asami	Is it true?
 Mako	 I'm so sorry. Your entire shipment was stolen.
 Asami	 Without that sale, I don't know how much longer I can keep my company going. What am I gonna do?
@@ -97,22 +105,30 @@ Mako	So that's a no. What am I supposed to do now?
 Bolin	 I don't know, Mako.  Figure it out. Remember? That's what you said to me. Hurts, doesn't it?  Ow! My instrument!
 Asami	Are you sure this is a good idea?
 Mako	No, but it's our last resort. 
+Triple Threat doorman	 Hey, Mako. Whatever you think we did, we didn't do it.
 Mako	I'm not here on police business. I'm running an off-the-books operation, and I thought the Triple Threats might want a piece of the action.
+Triple Threat doorman	How big a piece?
 Viper	So Mr. Law and Order needs our help, huh? What's in it for the Triple Threats?
 Mako	I am personal friends with that Avatar. I might be able to convince her to give Shady Shin his bending back.
+Shady Shin	Sounds good to me, boss. 
 Viper	What about the rest of us?
 Asami	I've got vehicles, all brand-new and top of the line. They can be yours if you help.
 Viper	 I think we got ourselves a deal.
 Mako	This is right around the area where the attacks happened. So keep your eyes peeled, and stay quiet.
+Two Toed Ping	I agree. Keep quiet. Mouth zipped, don't say a word. That's the best thing to do when you're trying to ambush somebody, which is what we're doing here, and it's basically what I'm always doing. I mean, I am a gangster, after all, and -
 Mako	Two Toed Ping, please.
+Two Toed Ping	Oh, right. So, what's it like dating the Avatar.  Come on, Mako, I gotta know.
 Mako	Ping, stay focused!
-Mako	[Curtly.] There's nothing to know. [Softer.] I broke up with her.
+Two Toed Ping	What? What are you so weird about it? If I was dating the Avatar, I'd tell you all about it.
+Mako	 There's nothing to know.  I broke up with her.
 Asami	 You broke up? When? Why didn't you tell me?
 Mako	I don't know.
+Two Toed Ping	 Yeah, right. You broke up with the Avatar. Like that happened. Hey, Shady Shin, Viper. Mako says he broke up with the Avatar.
 Shady Shin	Sure he did.
 Viper	Yeah, I did too. 
 Mako	All right, would you guys knock it off and do your job?
-Ginger	[Drill begins descending.] Forget about me. You must capture the evil Unalaq before he gets away.
+Assistant director	And action!
+Ginger	 Forget about me. You must capture the evil Unalaq before he gets away.
 Nuktuk	No! I'll never leave you.
 Varrick	Cut!  There's no kiss in the script.
 Bolin	 Sorry, I just kinda lost myself in the moment.  It just felts so right.
@@ -123,14 +139,22 @@ Ginger	Uch. You're confusing Ginger the actress with Ginger the character.
 Bolin	Okay, okay, I'm sorry. I'm totally getting, like, a weird vibe from you right now. It's like, a minute ago, when we were shooting, you were into me, but now you're not.
 Ginger	That's because Ginger loves Nuktuk, not Bolin. 
 Bolin	But Nuktuk is Bolin. I'm a hero. 
+Two Toed Ping	 And that's why they call me  Two Toed Ping.
 Asami	Because you have two extra toes.
+Two Toed Ping	That's right. And there was already a Twelve Toed Ping on the south side.
 Mako	Wait, guys. Do you hear that?
 Asami	I didn't hear anything.
-Mako	[Frustrated.] Ah! What's taking so long?
+Two Toed Ping	No.
+Mako	 Ah! What's taking so long?
+Two Toed Ping	You just gotta relax, like me. Maybe try taking your shoes off.
 Mako	I'm gonna check it out.
-Viper	[Voice-over.] I told you, it's gonna be a few hours. What, do you have a hot date?
+Shady Shin	 So how long do we have to stay out here?
+Viper	 I told you, it's gonna be a few hours. What, do you have a hot date?
+Shady Shin	Actually, I do. And I wanna look my best. I gotta shower and shave. I have a whole routine, okay?
 Viper	Well, your date's gonna have to wait.
-Viper	Too bad. We were paid to keep Mako and that dame [Cut to Mako overhearing them from his hiding place under a staircase. Voice-over.] distracted for a few hours, so that's what we're gonna do. [Mako's eyes widen.]
+Shady Shin	She's not gonna be happy about that.
+Viper	Too bad. We were paid to keep Mako and that dame  distracted for a few hours, so that's what we're gonna do. 
+Shady Shin	 See? This is why I never get dates.
 Mako	I just overheard Shady Shin and Viper. We've been double-crossed. We have to get off this ship.
 Viper	Where do you think you're going?
 Viper	Get'm!
@@ -152,17 +176,24 @@ Asami	 Just stop. It's over. I give up.
 Mako	Well, I'm not giving up on you.
 Asami	 Sorry, I-
 Mako	Uh ... It's-it's okay. Um ... Anyway ... I gotta run. I'm gonna find out who did this. And I know just who to ask.
-Mako	[Threateningly.] Who hired you to double-cross us?
-Mako	"I think you do know. [Firebends a dagger.] And you're gonna tell me, or we're gonna have to change your name to ""No Toed Ping""."
-Mako	[Chuckles.] You expect me to believe that?
-Mako	[Throws Ping off, slamming him to a wall.] Get out of here.
+Two Toed Ping	Hey, Mako. Uh, you're not mad about last night, are you?
+Mako	 Who hired you to double-cross us?
+Two Toed Ping	I don't know.
+Mako	"I think you do know.  And you're gonna tell me, or we're gonna have to change your name to ""No Toed Ping""."
+Two Toed Ping	Really, I don't know. You have to believe me. We never met the guy who hired us.
+Mako	 You expect me to believe that?
+Two Toed Ping	 After you left the hideout, some mook showed up and said his boss would pay us to keep you distracted. We'd never seen him before, and we ain't seen him since. Come on, Mako, you know how these deals work. Please, I would never lie to you with my lucky toes on the line.
+Mako	 Get out of here.
 Mako	Bolin, have you seen Varrick around? Bolin!  Nuktuk.
 Bolin	Yes? Oh, hello, Mako. Didn't notice you there.
 Mako	Where's Varrick? I need to ask him something.
 Bolin	"Hmm. Can't say that I've seen him. But I've been kinda busy, you know, rehearsing for my big scene. There's gonna be some crazy  ""pyrotechnics"". That's mover speak for explosions."
+Assistant director	We need Nuktuk on set. Running explosion scene.
 Bolin	Or sometimes we just call them explosions. Anyway, wish I could stand around here and chitchat, but you know, I gotta go shoot my big scene.
+Assistant director	Okay, the set is clear. Camera's rolling. And ... action!
 Nuktuk	Ginger, stay down! I'm coming for you.
 Mako	How did you rig those explosions to go off like that?
+Pyrotechnics technician	Neat, huh? It's a Varrick Industries exclusive. Here, check it out.  The explosions use a remote detonator.
 Mako	Varrick.
 Mako	 Asami, I think I know who set us up.
 Varrick	 Hello, Mako.
