@@ -25,8 +25,8 @@ if __name__ == "__main__":
                             result += "</scene>\n"
                             result += "\n<scene>\n"
                             #result += line[1]
-                        else:
-                            result += "\n"
+                        #else:
+                            #result += "\n"
                             #result += line[1]
                     else:
                         if len(line[0]) <= 30:
