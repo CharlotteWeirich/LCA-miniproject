@@ -36,7 +36,7 @@ if __name__ == "__main__":
                             dict[line[0]] += len(line[1].strip().split(" "))
                         else:
                             listoflists.remove(line)
-                        result += line[0] + " says: " + line[1] + "\n"
+                        result += line[0] + " says: \"" + line[1].strip() + "\"\n"
             
             nameList = name.split("HTML/")
             newName = nameList[0] + "scenes.txt"
