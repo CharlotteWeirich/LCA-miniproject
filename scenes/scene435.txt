@@ -1,0 +1,6 @@
+Mako says: "Bolin, have you seen Varrick around? Bolin!  Nuktuk."
+Bolin says: "Yes? Oh, hello, Mako. Didn't notice you there."
+Mako says: "Where's Varrick? I need to ask him something."
+Bolin says: "Hmm. Can't say that I've seen him. But I've been kinda busy, you know, rehearsing for my big scene. There's gonna be some crazy  "pyrotechnics". That's mover speak for explosions."
+Assistant director says: "We need Nuktuk on set. Running explosion scene."
+Bolin says: "Or sometimes we just call them explosions. Anyway, wish I could stand around here and chitchat, but you know, I gotta go shoot my big scene."

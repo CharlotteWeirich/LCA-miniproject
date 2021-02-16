@@ -4,26 +4,41 @@ import re
 
 if __name__ == "__main__":
     path = '/Users/emma/Documents/University/Linguistic Corpus Annotation/Project/Subtitles/HTML/*'
+    path2 = '/Users/emma/Documents/University/Linguistic Corpus Annotation/Project/LCA-miniproject/HTML/scenes/index.txt'
     files = glob.glob(path)
+    file2 = glob.glob(path2)
 
-    result = str()
-    dict = {}
+    result = ""
+    #dict = {}
+    filenumber = 0
 
     for name in files:
         print(name)
 
+        nameList = name.split("Subtitles/HTML/")
+        indexname = nameList[0] + "LCA-miniproject/scenes/index.txt"
+
         with open(name, encoding = "UTF-8") as f:
         # opens the source file
 
+
             dfcol = pd.read_html(f)
-            result += "<scene>\n"
+            #result += "<scene>\n"
             for df in dfcol:
                 listoflists = df.values.tolist()
                 for line in listoflists:
                     if str(line[0]).strip() == "nan":
                         if (re.match(r'(.*)?[Ss]cene(.*)?', line[1]) or re.match(r'(.*)?[Cc]amera(.*)?', line[1]) or re.match(r'(.*)?[Cc]ut(s)? (back )?to(.*)?', line[1])):
-                            result += "</scene>\n"
-                            result += "\n<scene>\n"
+                            newName = nameList[0] + "LCA-miniproject/scenes/scene" + str(filenumber) + ".txt"
+                            indexes = "scene" + str(filenumber) + ".txt\n"
+                            with open(newName, 'w', encoding = "UTF-8") as f2:
+                                f2.write(result)
+                            with open(indexname, 'a', encoding = "UTF-8") as f3:
+                                f3.write(indexes)
+                            result = ""
+                            filenumber += 1
+                            #result += "</scene>\n"
+                            #result += "\n<scene>\n"
                             #result += line[1]
                         #else:
                             #result += "\n"
@@ -31,15 +46,12 @@ if __name__ == "__main__":
                     else:
                         if len(line[0]) <= 30:
                             line[1] = re.sub(r'\[[^\]]*\]', "", line[1])
-                            if line[0] not in dict.keys():
-                                dict[line[0]] = 0
-                            dict[line[0]] += len(line[1].strip().split(" "))
+                            #if line[0] not in dict.keys():
+                                #dict[line[0]] = 0
+                            #dict[line[0]] += len(line[1].strip().split(" "))
                         else:
                             listoflists.remove(line)
                         result += line[0] + " says: \"" + line[1].strip() + "\"\n"
             
-            nameList = name.split("HTML/")
-            newName = nameList[0] + "scenes.txt"
-
-    with open(newName, 'w', encoding = "UTF-8") as f2:
-        f2.write(result)
+            #nameList = name.split("HTML/")
+            #newName = nameList[0] + "scenes.txt"

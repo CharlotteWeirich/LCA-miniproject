@@ -1,0 +1,3 @@
+Mako says: "How did you rig those explosions to go off like that?"
+Pyrotechnics technician says: "Neat, huh? It's a Varrick Industries exclusive. Here, check it out.  The explosions use a remote detonator."
+Mako says: "Varrick."

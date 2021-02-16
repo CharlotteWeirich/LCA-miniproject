@@ -1,0 +1,6 @@
+Bolin says: "Hello Republic Cit-ay! Bolin ... is back!  And ... Eska is also here."
+Eska says: "I see you have replaced me with a new girlfriend.  Well done, she seems very threatening."
+Bolin says: "Oh no no, that's Kuvira, she's kind of my boss."
+Eska says: "Boss, girlfriend. Same thing."
+Cam says: "I'm afraid there's been a mistake, Your Eminence. We have you and your brother booked in the same room, with only one bed."
+Eska says: "It's no mistake. Desna sleeps in the tub."

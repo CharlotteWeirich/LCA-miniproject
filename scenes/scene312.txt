@@ -1,0 +1,7 @@
+Kuvira says: "So, have you had time to rethink my generous offer?"
+Governor says: "Generous? You want to take everything. How is that generous?"
+Kuvira says: "Governor, your state has been overrun by bandits. They have you outnumbered and outsupplied. The question's not if they'll take over; it's when. Unless you sign our deal. Agree to the terms, and you'll have the full force of my army backing you. You will remain in charge, just under my supervision. I will save your life, and the lives of your citizens. I think that's pretty generous."
+Governor says: "I know how you manipulate states, and force them to join up under you. I know the only reason you want this region is because it is rich in ore.  They might call you "The Great Uniter", but you're destroying everything! I'll never turn the great state of Yi over to you!"
+Kuvira says: "You have a lot of pride, but it cannot protect your people.  Your pride will not stop the hordes as your city crumbles to the ground. And your pride will certainly not feed your hungry when all that is left is rubble!"
+Governor says: "Leave! Get out of my state!"
+Kuvira says: "You will perish, unless you take my generous offer."

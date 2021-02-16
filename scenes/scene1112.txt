@@ -1,0 +1,7 @@
+Wu says: "Nice digs, Mako. You didn't tell me you came from money."
+Mako says: "I don't. This is Asami's place. She was nice enough to let my family stay here after they fled Ba Sing Se."
+Yin says: "Mako! It's so wonderful to--  Are you ..."
+Mako says: "Grandma, this is Prince Wu. He needs to stay with you and the family for a little while."
+Wu says: "It's an honor, Grandma Mako."
+Mako says: "She loves royalty."
+Wu says: "I think I'll fit right in here.  Thanks for looking out for me, Mako.  Now where's the nearest bathroom? I have been holding it all day!"

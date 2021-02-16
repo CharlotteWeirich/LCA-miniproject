@@ -1,0 +1,7 @@
+Bolin says: "So how long as it been since you two have seen each other?"
+Toph says: "Little while now. Couple of years."
+Lin says: "Try twenty."
+Toph says: "Ah, time flies when you get to be my age. I'm surprised you came to save Su. I thought you guys didn't get along."
+Lin says: "Su and I finally worked out our old grievances."
+Toph says: "Good, glad we can put all that behind us."
+Lin says: "Right. "We"."

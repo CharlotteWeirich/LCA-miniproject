@@ -1,0 +1,8 @@
+Suyin says: "Baatar --"
+Baatar Jr. says: "If you think I'm going to spill all my secrets to you, Mother, you're sadly mistaken."
+Suyin says: "Why are you doing this? I know you set out to help better the world, but this is madness!"
+Baatar Jr. says: "It's madness to let others take what's yours and accept it blindly! The United Republic belongs to us, and we're taking it back."
+Suyin says: "But at what cost? How many people have to lose their lives before Kuvira is satisfied?"
+Baatar Jr. says: "It doesn't have to cost any lives if you would all just surrender! All that Kuvira and I want is a united Earth Empire!"
+Suyin says: "I don't know what I did to hurt you, but whatever it was, I'm sorry. When you left Zaofu, it broke my heart --  -- and our family has never been the same since. Please, Baatar -- stop all this and come home.  We want you back with us."
+Baatar Jr. says: "Kuvira is my family now."

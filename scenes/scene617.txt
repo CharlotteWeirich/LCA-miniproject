@@ -1,0 +1,8 @@
+Bolin says: "Varrick! Good, you're here.  Can I talk to you for a minute?"
+Varrick says: "What is it? I'm busy inspiring my workers."
+Bolin says: "Well, I went to Zaofu and saved Su and her family ... and guess who else we found?  Ha!"
+Varrick says: "Zhu Li."
+Bolin says: "Now, isn't there something you wanted to say to her? Hmm?"
+Zhu Li says: "Please, let me go first. I know I said a lot of terrible things about you in front of Kuvira. But I need you to know ...  I didn't mean one word. When you were being taken away, I thought my only chance to save you was to join her.  But every day, I hoped for the chance to see you again and tell you the truth.  Varrick, you mean the world to me and I'm sorry if I hurt you in any way."
+Varrick says: "Don't be so hard on yourself.  Apology accepted! Now be a good assistant and  man the assembly line!"
+Zhu Li says: "No! I am not your assistant anymore.  If you want me around, you need to start treating me like an equal!"

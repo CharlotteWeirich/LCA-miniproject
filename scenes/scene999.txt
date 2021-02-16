@@ -1,0 +1,8 @@
+Tahno says: "Hey, Korra."
+Korra says: "Tahno?"
+Korra says: "Listen, I know we're not exactly best friends, but I'm sorry Amon took your bending."
+Tahno says: "I've been to the best healers in the city. Whatever Amon did to me, it's permanent.  You gotta get him for me."
+Lin says: "Mr. Sato, if you remember anything else about what you saw during Amon's attack, be sure to let us know."
+Hiroshi Sato says: "I'm happy to help any way I can. I want these Equalists to pay for what they've done."
+Tenzin says: "We're ready for you now."
+Tahno says: "See you around ...  "Ah"vatar."
