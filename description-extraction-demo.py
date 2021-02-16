@@ -4,12 +4,9 @@ import re
 
 if __name__ == "__main__":
     path = '/Users/emma/Documents/University/Linguistic Corpus Annotation/Project/Subtitles/HTML/*'
-    path2 = '/Users/emma/Documents/University/Linguistic Corpus Annotation/Project/LCA-miniproject/HTML/scenes/index.txt'
     files = glob.glob(path)
-    file2 = glob.glob(path2)
 
     result = ""
-    #dict = {}
     filenumber = 0
 
     for name in files:
@@ -21,9 +18,7 @@ if __name__ == "__main__":
         with open(name, encoding = "UTF-8") as f:
         # opens the source file
 
-
             dfcol = pd.read_html(f)
-            #result += "<scene>\n"
             for df in dfcol:
                 listoflists = df.values.tolist()
                 for line in listoflists:
@@ -37,21 +32,9 @@ if __name__ == "__main__":
                                 f3.write(indexes)
                             result = ""
                             filenumber += 1
-                            #result += "</scene>\n"
-                            #result += "\n<scene>\n"
-                            #result += line[1]
-                        #else:
-                            #result += "\n"
-                            #result += line[1]
                     else:
                         if len(line[0]) <= 30:
                             line[1] = re.sub(r'\[[^\]]*\]', "", line[1])
-                            #if line[0] not in dict.keys():
-                                #dict[line[0]] = 0
-                            #dict[line[0]] += len(line[1].strip().split(" "))
                         else:
                             listoflists.remove(line)
                         result += line[0] + " says: \"" + line[1].strip() + "\"\n"
-            
-            #nameList = name.split("HTML/")
-            #newName = nameList[0] + "scenes.txt"
