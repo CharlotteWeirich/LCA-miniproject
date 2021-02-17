@@ -1,7 +1,0 @@
-Bolin says: "And though the battle took a severe toll on our beloved city, out of the destruction, love did bloom!  So that is why, dearest friends and family, we gather today to celebrate the wondrous, and at time inexplicable bond between Sir Varrick and the Lady Zhu Li!"
-Varrick says: "Hey, pal, camera on me! This is my big day!"
-Bolin says: "True love is a fickle creature.  Difficult to find, nearly impossible to tame.  But Varrick and Zhu Li have proven that even the longest of long shots  can have a chance at happiness together. Now, for the vows!  Thank you, Master Pabu. Do you, Sir Iknik Blackstone Varrick of the Southern Water Tribe, Master of the High Seas, take the Lady Zhu Li Moon to be your lawfully wedded wife? Will you promise to treat her not as your assistant, but as your honored and cherished partner?"
-Varrick says: "You're darn tootin' I do!"
-Bolin says: "And do you, Zhu Li, take Varrick, to be your lawfully wedded husband? Do you promise to care for him, in sickness and in health,  and also scrub his callouses on a bi-weekly basis, which ... isn't really that much to ask ...  Okay, I'm not reading all this."
-Zhu Li says: "I do take Varrick. Callouses and all."
-Bolin says: "You may now  do the thing."

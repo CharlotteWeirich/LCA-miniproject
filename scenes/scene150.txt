@@ -1,8 +1,0 @@
-Bolin says: "Am ... I in trouble?"
-Kuvira says: "No. In fact, I have good news. We want you to be a part of our inner circle."
-Bolin says: "Inner circle? No way! Yes!  That is a great honor. What does it mean, exactly?"
-Kuvira says: "It means you've proven your worth. We're so close to uniting the Empire, but Su has some resentment towards me and Baatar that might cloud her judgment and stop her from making a wise decision. We believe you can help her see clearly."
-Bolin says: "I can do that! By the time I'm finished telling her all the great things we've done, she'll be begging to join!"
-Kuvira says: "Good. Because we're here."
-Bolin says: "Aren't all these troops gonna send the wrong message?"
-Kuvira says: "The army is here to project strength. You're here to present peace."

@@ -1,8 +1,0 @@
-Gommu says: "Uh, say, think I can I get one of them tasty-smelling  fishies?"
-Korra says: "Oh, uh, yeah, sure."
-Korra says: "So, do you ... live in  that bush?"
-Gommu says: "Yes, presently that is what I do call home. Took me a while to procure a bush that beauteous.  This park is quite popular with all the vagabonds."
-Korra says: "So there are a lot of you out here? I thought everyone in this city was "living it up"."
-Gommu says: "Hey, you've got a lot to learn, newcomer.  Welcome to Republic City."
-Guard says: "Hey, you!  Stop! You can't fish here!"
-Gommu says: "You best skedaddle!"

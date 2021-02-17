@@ -1,7 +1,0 @@
-Soldier #1 says: "Are you sure?"
-Soldier #2 says: "Check the engine room."
-Raiko says: "What's going on? Is everything all right?"
-Soldier #3 says: "Just a minute, sir.  I'm telling you, I looked everywhere."
-Lin says: "All right, enough whispering!"
-Raiko says: "I'm ready to discuss the terms of the surrender with Baatar Jr. Where is he?"
-Soldier #3 says: "Uh ... I'm not really sure."

@@ -1,8 +1,0 @@
-Mako says: "I got something!"
-Bolin says: "What?"
-Mako says: "It looks like it's from them.  "Team assembled. Ready to rendezvous.""
-Asami says: "And look at this."
-Aiwei says: "These are the guards' logbooks. All their schedules and routes are in here."
-Korra says: "That guard knows everything.  We have to get him to talk."
-Mako says: "Let's go confront him with this evidence right now."
-Aiwei says: "No.  Let's give him a little time to sweat it out. He will talk eventually."
