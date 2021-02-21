@@ -143,9 +143,9 @@ def write_tsv(document, coreferences, filename):
 
 
 if __name__ == "__main__":
-    path = "C:/Users/charl/PycharmProjects/LCA-miniproject/scenes/korra/xml/*"
+    path = "C:/Users/charl/PycharmProjects/LCA-miniproject/scenes/atla/xml/*"
     files = glob.glob(path)
     for file in files:
-        tsv = file[64:] + ".tsv"
+        tsv = file[63:] + ".tsv"
         doc, coref = extract_from_xml(file)
         write_tsv(doc, coref, tsv)
