@@ -10,4 +10,4 @@
 7. (Charlotte) conversion to WebAnno tsv format: **xml-to-webanno-tsv.py script, scenes/\[show\]/tsv folder**
 8. (Emma) automatically extracting the number of tokens spoken by each character, manually annotating their gender, and automatically counting the number of tokens spoken by each gender: **description-extraction-demo.py script, scenes/speakers.txt (automatic), scenes/speakers-labelled.txt (manual), gender-distribution.py script, scenes/gender-distribution.txt**
 9. (Emma) writing the README file: **README.md**
-10. (NA) creating the presentation
+10. (Both) creating the presentation
